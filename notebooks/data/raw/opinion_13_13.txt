@@ -1,0 +1,72 @@
+<div>
+
+Granizo v Krystal Fruits &amp; Vegetables, Inc. (<span class="citation" data-id="11022110"><a href="/opinion/10555522/granizo-v-krystal-fruits-vegetables-inc/" aria-description="Citation for case: Granizo v. Krystal Fruits &amp; Vegetables, Inc.">2025 NY Slip Op 02761</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Granizo v Krystal Fruits &amp; Vegetables, Inc.</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="11022110"><a href="/opinion/10555522/granizo-v-krystal-fruits-vegetables-inc/" aria-description="Citation for case: Granizo v. Krystal Fruits &amp; Vegetables, Inc.">2025 NY Slip Op 02761</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on May 7, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>LARA J. GENOVESI, J.P.
+<br>VALERIE BRATHWAITE NELSON
+<br>BARRY E. WARHIT
+<br>JAMES P. MCCORMACK, JJ.
+
+<div align="center"></div>
+<br>2023-12019
+<br> (Index No. 600362/23)
+
+<br><br><div align="center"><b>[*1]Anthony Mancheno Granizo, appellant,
+<br><br>v<br><br> Krystal Fruits &amp; Vegetables, Inc., et al., respondents.
+</b></div><br><br>
+<br><br>
+<p>The NHG Law Group, P.C., Massapequa, NY (Keith E. Williams and Victoria Spagnolo of counsel), for appellant.</p>
+<p>Naness, Chaiet &amp; Naness, LLC, Jericho, NY (W. Matthew Groh of counsel), for respondents.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action, inter alia, to recover damages for unpaid wages in violation of Labor Law article 19, the plaintiff appeals from an order of the Supreme Court, Nassau County (Lisa A. Cairo, J.), dated September 15, 2023. The order granted the defendants' motion pursuant to CPLR 3211(a) to dismiss the amended complaint.</p>
+<p>ORDERED that the order is modified, on the law, by deleting the provision thereof granting those branches of the defendants' motion which were pursuant to CPLR 3211(a) to dismiss the first, second, third, and fifth causes of action in the amended complaint, and substituting therefor a provision denying those branches of the motion; as so modified, the order is affirmed, with costs to the plaintiff.</p>
+<p>The plaintiff was formerly employed as a delivery driver by the defendant Krystal Fruits &amp; Vegetables, Inc. (hereinafter Krystal). In January 2023, the plaintiff commenced this action against Krystal and its owner, the defendant Michael Longo, among other things, to recover damages for unpaid wages and failure to provide wage statements in violation of the Labor Law. The defendants moved pursuant to CPLR 3211(a)(1) and (7) to dismiss the complaint. The plaintiff opposed the motion and filed an amended complaint. In an order dated September 15, 2023, the Supreme Court considered the defendants' motion as directed against the amended complaint and granted the motion. The plaintiff appeals. We modify.</p>
+<p>"On a motion to dismiss pursuant to CPLR 3211(a)(7), the complaint is to be afforded a liberal construction, the facts alleged are presumed to be true, the plaintiff is afforded the benefit of every favorable inference, and the court is to determine only whether the facts as alleged fit within any cognizable legal theory" (<i>Gorbatov v Tsirelman</i>, <span class="citation" data-id="4220739"><a href="/opinion/4443486/gorbatov-v-tsirelman/#837" aria-description="Citation for case: Gorbatov v. Tsirelman">155 AD3d 836, 837</a></span>; <i>see MJ Lilly Assoc., LLC v Ovis Creative, LLC</i>, <span class="citation no-link">221 AD3d 805</span>, 807). "Where evidentiary material is submitted and considered on a motion to dismiss a complaint pursuant to CPLR 3211(a)(7), and the motion is not converted into one for summary judgment, the question becomes whether the plaintiff has a cause of action, not whether the plaintiff has stated one and, unless it has been shown that a material fact as claimed by the plaintiff to be one is not a fact at all and unless it can be said that no significant dispute exists regarding it, dismissal should not eventuate" (<i>Agai v Liberty Mut. Agency Corp.</i>, 118 [*2]AD3d 830, 832; <i>see Guggenheimer v Ginzburg</i>, <span class="citation" data-id="5531408"><a href="/opinion/5682808/guggenheimer-v-ginzburg/#275" aria-description="Citation for case: Guggenheimer v. Ginzburg">43 NY2d 268, 275</a></span>).</p>
+<p>"A motion to dismiss a complaint pursuant to CPLR 3211(a)(1) may be granted only if the documentary evidence submitted by the moving party utterly refutes the factual allegations of the complaint and conclusively establishes a defense to the claims as a matter of law" (<i>MJ Lilly Assoc., LLC v Ovis Creative, LLC</i>, 221 AD3d at 806 [internal quotation marks omitted]; <i>see 533 Park Ave. Realty, LLC v Park Ave. Bldg. &amp; Roofing Supplies, LLC</i>, <span class="citation" data-id="4230735"><a href="/opinion/4453482/533-park-avenue-realty-llc-v-park-avenue-building-roofing-supplies-llc/#746" aria-description="Citation for case: 533 Park Avenue Realty, LLC v. Park Avenue Building &amp;...">156 AD3d 744, 746</a></span>). "[T]o be considered 'documentary,' evidence must be unambiguous and of undisputed authenticity" (<i>Fontanetta v John Doe 1</i>, <span class="citation" data-id="5799357"><a href="/opinion/5940901/fontanetta-v-john-doe-1/#86" aria-description="Citation for case: Fontanetta v. John Doe 1">73 AD3d 78, 86</a></span>; <i>see MJ Lilly Assoc., LLC v Ovis Creative, LLC</i>, 221 AD3d at 806).</p>
+<p>Here, accepting the allegations in the amended complaint as true and according the plaintiff the benefit of every favorable inference, the first through third causes of action adequately stated causes of action to recover damages for unpaid wages and overtime compensation (<i>see Cabrera v Deadwood Constr., Inc.</i>, <span class="citation no-link">226 AD3d 743</span>, 744), as well as failure to pay spread-of-hours compensation (<i>see</i> 12 NYCRR 142-2.4). Additionally, the fifth cause of action in the amended complaint, which alleged, inter alia, that the plaintiff's wage statements inaccurately reflected the hours that he worked, stated a cognizable cause of action alleging a violation of Labor Law § 195(3) (<i>see Cabrera v Deadwood Constr., Inc.</i>, 226 AD3d at 744; <i>Silvers v Jamaica Hosp.</i>, <span class="citation no-link">218 AD3d 817</span>, 819). Moreover, the evidentiary proof submitted by the defendants did not establish, with respect to the first through third and fifth causes of action in the amended complaint, that a material fact as claimed by the plaintiff is not a fact at all and that no significant dispute exists regarding it (<i>see Kings Harbor Multicare Ctr. v Townes</i>, <span class="citation no-link">231 AD3d 936</span>, 938-939).</p>
+<p>Further, the Supreme Court should have denied dismissal of the first through third and fifth causes of action in the amended complaint pursuant to CPLR 3211(a)(1). Contrary to the defendants' contention, the plaintiff's pay stubs and handwritten records of his hours worked, the accuracy of which is in dispute, did not utterly refute the plaintiff's factual allegations and conclusively establish a defense to the first through third and fifth causes of action in the amended complaint as a matter of law (<i>see Sobel v Ansanelli</i>, <span class="citation" data-id="5873580"><a href="/opinion/6011351/sobel-v-ansanelli/#1022" aria-description="Citation for case: Sobel v. Ansanelli">98 AD3d 1020, 1022</a></span>).</p>
+<p>However, the Supreme Court properly granted dismissal of the fourth cause of action in the amended complaint, alleging a failure to provide wage notices in violation of Labor Law § 195(1), pursuant to CPLR 3211(a)(1). In support of their motion, the defendants submitted wage notices containing the plaintiff's electronic signature confirming receipt thereof. The wage notices, the authenticity of which the plaintiff did not dispute, utterly refuted the plaintiff's allegations that he never received wage notices as required by the Labor Law (<i>see Giambrone v Arnone, Lowth, Wilson, Leibowitz, Adriano &amp; Greco</i>, <span class="citation no-link">197 AD3d 459</span>, 461-462).</p>
+<p>GENOVESI, J.P., BRATHWAITE NELSON, WARHIT and MCCORMACK, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

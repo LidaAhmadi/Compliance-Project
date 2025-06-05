@@ -1,0 +1,72 @@
+<div>
+
+People v Smith (<span class="citation" data-id="10889285"><a href="/opinion/10422697/people-v-smith/" aria-description="Citation for case: People v. Smith">2025 NY Slip Op 02615</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>People v Smith</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10889285"><a href="/opinion/10422697/people-v-smith/" aria-description="Citation for case: People v. Smith">2025 NY Slip Op 02615</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 30, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 30, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>ANGELA G. IANNACCI, J.P.
+<br>LARA J. GENOVESI
+<br>PAUL WOOTEN
+<br>LAURENCE L. LOVE, JJ.
+
+<div align="center"></div>
+<br>2023-09792
+
+<br><br><div align="center"><b>[*1]The People of the State of New York, respondent,
+<br><br>v<br><br>Corben Smith, appellant.
+</b></div><br><br>
+<br><br>
+<p>Twyla Carter, New York, NY (Katheryne M. Martone of counsel), for appellant.</p>
+<p>Melinda Katz, District Attorney, Kew Gardens, NY (Johnnette Traill and Nancy Fitzpatrick Talcott of counsel; Brendan Ransom on the brief), for respondent.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>Appeal by the defendant from an order of the Supreme Court, Queens County (Jerry M. Iannece, J.), dated June 7, 2023, which, after a hearing, designated him a level two sex offender pursuant to Correction Law article 6-C.</p>
+<p>ORDERED that the order is affirmed, without costs or disbursements.</p>
+<p>In this proceeding pursuant to the Sex Offender Registration Act (Correction Law art 6-C; hereinafter SORA), the Supreme Court assessed the defendant 105 points on the risk assessment instrument, rendering him a presumptive level two sex offender, and denied his application for a downward departure from his presumptive risk level. The defendant appeals.</p>
+<p>Contrary to the defendant's contention, the Supreme Court properly assessed 15 points under risk factor 11, as the People established by clear and convincing evidence that the defendant was under the influence of alcohol at the time of the offense and had a history of substance abuse (<i>see People v Velasco-Morales</i>, _____ AD3d _____, <span class="citation" data-id="10824856"><a href="/opinion/10358268/people-v-velasco-morales/" aria-description="Citation for case: People v. Velasco-Morales">2025 NY Slip Op 01655</a></span>; <i>People v Coleman</i>, <span class="citation no-link">225 AD3d 792</span>).</p>
+<p>The defendant's contention that the Supreme Court improperly assessed 10 points under risk factor 15 is unpreserved for appellate review, as he failed to raise this contention at the SORA hearing (<i>see</i> CPL 470.05[2]; <i>People v Melendez</i>, <span class="citation no-link">210 AD3d 1121</span>, 1122; <i>People v Bethel</i>, <span class="citation no-link">165 AD3d 712</span>, 713). In any event, this contention is without merit.</p>
+<p>A defendant seeking a downward departure from the presumptive risk level has the initial burden of "(1) identifying, as a matter of law, an appropriate mitigating factor, namely, a factor which tends to establish a lower likelihood of reoffense or danger to the community and is of a kind, or to a degree, that is otherwise not adequately taken into account by the Guidelines; and (2) establishing the facts in support of its existence by a preponderance of the evidence" (<i>People v Wyatt</i>, <span class="citation" data-id="5830458"><a href="/opinion/5971273/people-v-wyatt/#128" aria-description="Citation for case: People v. Wyatt">89 AD3d 112, 128</a></span>; <i>see</i> Sex Offender Registration Act: Risk Assessment Guidelines and Commentary at 4 [2006] [hereinafter Guidelines];<i> People v Gillotti</i>, <span class="citation" data-id="5489144"><a href="/opinion/5643166/people-v-gillotti/#861" aria-description="Citation for case: People v. Gillotti">23 NY3d 841, 861</a></span>). "If the defendant makes that twofold showing, the court must exercise its discretion by weighing the mitigating factor to determine whether the totality of the circumstances warrants a departure to avoid an overassessment of the defendant's dangerousness and risk of sexual recidivism" (<i>People v Alvarado</i>, <span class="citation no-link">173 AD3d 909</span>, 910; <i>see People v Gillotti</i>, <span class="citation" data-id="5489144"><a href="/opinion/5643166/people-v-gillotti/#861" aria-description="Citation for case: People v. Gillotti">23 NY3d at 861</a></span>;<i> People v Felton</i>, 175 AD3d [*2]734, 735; <i>People v Champagne</i>, <span class="citation" data-id="3208488"><a href="/opinion/3208594/people-v-champagne/#720" aria-description="Citation for case: People v. Champagne">140 AD3d 719, 720</a></span>).</p>
+<p>Here, the defendant failed to demonstrate that a downward departure was warranted. While a "'defendant's response to [sex offender] treatment may qualify as a ground for a downward departure where the response is exceptional'" (<i>People v Del-Carmen</i>, <span class="citation no-link">186 AD3d 878</span>, 879, quoting <i>People v Wallace</i>, <span class="citation" data-id="4096958"><a href="/opinion/4319697/people-v-wallace/#776" aria-description="Citation for case: People v. Wallace">144 AD3d 775, 776</a></span>), the defendant failed to establish that his response to such treatment was exceptional (<i>see People v Wanzer</i>, <span class="citation no-link">218 AD3d 805</span>, 806;<i> People v Leung</i>, <span class="citation no-link">191 AD3d 1023</span>, 1024).</p>
+<p>The other alleged mitigating factors identified by the defendant, namely that his family was supportive of him and that he accepted responsibility for his crime, were adequately taken into account by the Guidelines (<i>see People v Taylor</i>, <span class="citation no-link">199 AD3d 845</span>, 846; <i>People v Garcia</i>, <span class="citation no-link">192 AD3d 833</span>, 834; <i>People v Robinson</i>, <span class="citation no-link">179 AD3d 1104</span>, 1105).</p>
+<p>Accordingly, the Supreme Court properly designated the defendant a level two sex offender.</p>
+<p>IANNACCI, J.P., GENOVESI, WOOTEN and LOVE, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

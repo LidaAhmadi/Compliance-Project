@@ -1,0 +1,71 @@
+<div>
+
+Rauch v Rauch (<span class="citation" data-id="11022906"><a href="/opinion/10556318/rauch-v-rauch/" aria-description="Citation for case: Rauch v. Rauch">2025 NY Slip Op 02802</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Rauch v Rauch</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="11022906"><a href="/opinion/10556318/rauch-v-rauch/" aria-description="Citation for case: Rauch v. Rauch">2025 NY Slip Op 02802</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on May 7, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>ANGELA G. IANNACCI, J.P.
+<br>WILLIAM G. FORD
+<br>HELEN VOUTSINAS
+<br>JAMES P. MCCORMACK, JJ.
+
+<div align="center"></div>
+<br>2023-07750
+<br> (Index No. 208024/22)
+
+<br><br><div align="center"><b>[*1]Linda Rauch, appellant, 
+<br><br>v<br><br>Laura Rauch, et al., respondents.
+</b></div><br><br>
+<br><br>
+<p>Haber &amp; Haber, LLP, Garden City, NY (Stephen D. Haber of counsel), for appellant.</p>
+<p>Richard A. Kraslow, P.C., Melville, NY, for respondents.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action, inter alia, for a judgment declaring that certain beneficiary designations are null and void, the plaintiff appeals from an order of the Supreme Court, Suffolk County (Paul M. Hensley, J.), dated May 30, 2023. The order granted the defendants' motion pursuant to CPLR 3211(a) to dismiss the complaint.</p>
+<p>ORDERED that the order is modified, on the law, by deleting the provision thereof granting that branch of the defendants' motion which was pursuant to CPLR 3211(a) to dismiss the cause of action for a judgment declaring that certain beneficiary designations are null and void, and substituting therefor a provision denying that branch of the motion; as so modified, the order is affirmed, with costs to the plaintiff.</p>
+<p>The plaintiff is the daughter of Selma J. Rauch (hereinafter the decedent), who died in November 2022. The plaintiff commenced this action against the defendant Laura Rauch, the plaintiff's sister-in-law, and the defendants Jonathan Rauch, Jesse Rauch, and Jordan Rauch, Laura's sons, alleging, inter alia, that in 2016 and 2017, the defendants improperly influenced the decedent to name them as the beneficiaries of two accounts that contained an approximate total sum of $470,000. The plaintiff alleged that the beneficiary designations are void by reason of the defendants' undue influence over the decedent and the decedent's lack of capacity when the beneficiary designations were executed.</p>
+<p>The defendants moved pursuant to CPLR 3211(a) to dismiss the complaint on the ground, among others, that it failed to state a cause of action. In opposition to the motion, the plaintiff submitted an affidavit in which she made statements to supplement the causes of action alleged in the complaint. In an order dated May 30, 2023, the Supreme Court granted the defendants' motion. The plaintiff appeals.</p>
+<p>"On a motion to dismiss for failure to state a cause of action pursuant to CPLR 3211(a)(7), a court must accept the facts as alleged in the complaint as true, accord plaintiffs the benefit of every possible favorable inference, and determine only whether the facts as alleged fit within any cognizable legal theory" (<i>Reaves v New York City Dept. of Educ.</i>, <span class="citation no-link">218 AD3d 697</span>, 698 [internal quotation marks omitted]; <i>see Connaughton v Chipotle Mexican Grill, Inc.</i>, <span class="citation" data-id="4165163"><a href="/opinion/4387910/connaughton-v-chipotle-mexican-grill-inc/#141" aria-description="Citation for case: Connaughton v. Chipotle Mexican Grill, Inc.">29 NY3d 137, 141</a></span>). "'Whether the complaint will later survive a motion for summary judgment, or whether the [*2]plaintiff will ultimately be able to prove its claims, of course, plays no part in the determination of a prediscovery CPLR 3211 motion to dismiss'" (<i>Perlov v Port Auth. of N.Y. &amp; N.J.</i>, <span class="citation no-link">189 AD3d 1624</span>, 1626, quoting <i>Shaya B. Pac., LLC v Wilson, Elser, Moskowitz, Edelman &amp; Dicker, LLP</i>, <span class="citation" data-id="5721093"><a href="/opinion/5864774/shaya-b-pacific-llc-v-wilson-elser-moskowitz-edelman-dicker-llp/#38" aria-description="Citation for case: Shaya B. Pacific, LLC v. Wilson, Elser, Moskowitz,...">38 AD3d 34, 38</a></span>). Where a cause of action is based upon, inter alia, fraud, breach of trust, or undue influence, the circumstances constituting the wrong shall be stated in detail (<i>see</i> CPLR 3016[b]).</p>
+<p>Here, the Supreme Court should have considered the plaintiff's affidavit to remedy any defects in the complaint when it assessed the defendants' motion (<i>see Leon v Martinez</i>, <span class="citation" data-id="2123647"><a href="/opinion/2123647/leon-v-martinez/#88" aria-description="Citation for case: Leon v. Martinez">84 NY2d 83, 88</a></span>; <i>Hountenbous v Fordune Assn., Inc.</i>, <span class="citation no-link">200 AD3d 662</span>, 664). Contrary to the defendants' contention, the affidavit and the complaint alleged with sufficient detail facts to support a claim that the changes to the beneficiary designations of the decedent's accounts are void by virtue of undue influence exercised by the defendants over the decedent or the decedent's incapacity (<i>see Matter of Tognino</i>, <span class="citation" data-id="5829265"><a href="/opinion/5970092/in-re-tognino/#1155" aria-description="Citation for case: In re Tognino">87 AD3d 1153, 1155</a></span>). Accordingly, the court erred in granting that branch of the defendants' motion which was pursuant to CPLR 3211(a) to dismiss the cause of action for a judgment declaring that the beneficiary designations are null and void.</p>
+<p>However, the Supreme Court correctly determined that the plaintiff failed to sufficiently state causes of action alleging unjust enrichment (<i>see Nasca v Greene</i>, <span class="citation no-link">216 AD3d 648</span>, 650; <i>Beaman v Awaye Realty Mgt., LLC</i>, <span class="citation no-link">176 AD3d 1025</span>, 1025) and to impose a constructive trust (<i>see Seidenfeld v Zaltz</i>, <span class="citation no-link">162 AD3d 929</span>, 936), as the plaintiff failed to allege that she conferred any benefit upon the defendants. Similarly, the court properly determined that the plaintiff failed to state a cause of action for money had and received, as she failed to allege that the defendants received money belonging to her (<i>see Pacella v RSA Consultants, Inc.</i>, <span class="citation no-link">164 AD3d 806</span>, 808; <i>Lebovits v Bassman</i>, <span class="citation" data-id="2731889"><a href="/opinion/2731889/lebovits-v-bassman/#1199" aria-description="Citation for case: Lebovits v. Bassman">120 AD3d 1198, 1199-1200</a></span>).</p>
+<p>IANNACCI, J.P., FORD, VOUTSINAS and MCCORMACK, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

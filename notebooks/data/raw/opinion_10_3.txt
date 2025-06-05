@@ -1,0 +1,71 @@
+<div>
+
+Delcid-Funez v Seasons at E. Meadow Home Owners Assn. (<span class="citation" data-id="10889330"><a href="/opinion/10422742/delcid-funez-v-seasons-at-e-meadow-home-owners-assn/" aria-description="Citation for case: Delcid-Funez v. Seasons at E. Meadow Home Owners Assn.">2025 NY Slip Op 02569</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Delcid-Funez v Seasons at E. Meadow Home Owners Assn.</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10889330"><a href="/opinion/10422742/delcid-funez-v-seasons-at-e-meadow-home-owners-assn/" aria-description="Citation for case: Delcid-Funez v. Seasons at E. Meadow Home Owners Assn.">2025 NY Slip Op 02569</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 30, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 30, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>LARA J. GENOVESI, J.P.
+<br>VALERIE BRATHWAITE NELSON
+<br>HELEN VOUTSINAS
+<br>DONNA-MARIE E. GOLIA, JJ.
+
+<div align="center"></div>
+<br>2022-07490
+<br> (Index No. 614288/18)
+
+<br><br><div align="center"><b>[*1]Edwin Delcid-Funez, appellant-respondent, 
+<br><br>v<br><br>Seasons at East Meadow Home Owners Association, Inc., et al., respondents-appellants, et al., defendant.
+</b></div><br><br>
+<br><br>
+<p>Gorayeb &amp; Associates, P.C., New York, NY (John M. Shaw of counsel), for appellant-respondent.</p>
+<p>Bongiorno, Montiglio, Mitchell &amp; Palmieri, PLLC, Mineola, NY (Angelo J. Bongiorno of counsel), for respondents-appellants.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action to recover damages for personal injuries, the plaintiff appeals, and the defendants Seasons at East Meadow Home Owners Association, Inc., and Einsidler Management, Inc., cross-appeal, from an order of the Supreme Court, Nassau County (Dawn Jimenez, J.), dated July 25, 2022. The order, insofar as appealed from, denied that branch of the plaintiff's motion which was for summary judgment on the issue of liability on the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against the defendants Seasons at East Meadow Home Owners Association, Inc., and Einsidler Management, Inc. The order, insofar as cross-appealed from, denied that branch of the motion of the defendants Seasons at East Meadow Home Owners Association, Inc., and Einsidler Management, Inc., which was for summary judgment dismissing the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against them.</p>
+<p>ORDERED that the order is affirmed insofar as appealed and cross-appealed from, without costs or disbursements.</p>
+<p>The plaintiff commenced this action to recover damages for personal injuries he allegedly sustained on February 11, 2017, while working for his employer, a roofing contractor, at a condominium development owned by the defendant Seasons at East Meadow Home Owners Association, Inc., and managed by the defendant property manager Einsidler Management, Inc.</p>
+<p>(hereinafter together the defendants). The accident allegedly occurred when the plaintiff fell from the roof of a condominium unit where he had been sent by his employer in response to a complaint by the unit owner of a snow-related ceiling leak. While shoveling snow off of the subject roof, the plaintiff slipped and slid off the roof, causing him to fall approximately 30 feet to the ground. The amended complaint alleged, inter alia, a violation of Labor Law § 240(1). After the completion of discovery, the defendants moved, among other things, for summary judgment dismissing the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against them. The plaintiff moved, inter alia, for summary judgment on the issue of liability on the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against the defendants. In an order dated July 25, 2022, the Supreme Court, inter alia, denied those branches of the plaintiff's and the defendants' respective motions. The plaintiff appeals and the defendants' cross-appeal. We affirm.</p>
+<p>"Labor Law § 240(1) imposes upon owners and general contractors, and their agents, a nondelegable duty to provide safety devices necessary to protect workers from risks inherent in elevated work sites" (<i>Jarnutowski v City of Long Beach</i>, <span class="citation no-link">210 AD3d 881</span>, 882 [internal quotation [*2]marks omitted]; <i>see Londono v Dalen, LLC</i>, <span class="citation no-link">204 AD3d 658</span>, 659; <i>Majerski v City of New York</i>, <span class="citation no-link">193 AD3d 715</span>, 716). "To prevail on a cause of action under Labor Law § 240(1), a plaintiff must establish, among other things, that he or she was injured during the erection, demolition, repairing, altering, painting, cleaning or pointing of a building or structure" (<i>Stockton v H &amp; E Biffer Enters. No. 2, LLC</i>, <span class="citation no-link">196 AD3d 709</span>, 710 [internal quotation marks omitted]; <i>see Soto v J. Crew Inc.</i>, <span class="citation" data-id="5488158"><a href="/opinion/5642278/soto-v-j-crew-inc/#566" aria-description="Citation for case: Soto v. J. Crew Inc.">21 NY3d 562, 566</a></span>), and that a violation of the statute was a proximate cause of his or her injuries (<i>see Jarnutowski v City of Long Beach</i>, 210 AD3d at 882). "Although comparative fault is not a defense to the strict liability of the statute, where the plaintiff is the sole proximate cause of his or her own injuries, there can be no liability under Labor Law § 240(1)" (<i>Lojano v Soiefer Bros. Realty Corp.</i>, <span class="citation no-link">187 AD3d 1160</span>, 1162).</p>
+<p>Here, the evidence submitted by the defendants in support of their motion and by the plaintiff in support of his motion failed to eliminate triable issues of fact as to whether the plaintiff was engaged in an enumerated activity within the meaning of Labor Law § 240(1) and whether the plaintiff's actions were the sole proximate cause of his injuries (<i>see Rzepka v City of New York</i>, <span class="citation no-link">227 AD3d 922</span>; <i>Jin Kil Kim v Franklin BH, LLC</i>, <span class="citation no-link">214 AD3d 857</span>, 859; <i>Castano v Algonquin Gas Transmission, LLC</i>, <span class="citation no-link">213 AD3d 905</span>, 908; <i>Jarnutowski v City of Long Beach</i>, 210 AD3d at 882).</p>
+<p>Accordingly, the Supreme Court properly denied that branch of the defendants' motion which was for summary judgment dismissing the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against them, and properly denied that branch of the plaintiff's motion which was for summary judgment on the issue of liability on that cause of action insofar as asserted against the defendants.</p>
+<p>GENOVESI, J.P., BRATHWAITE NELSON, VOUTSINAS and GOLIA, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

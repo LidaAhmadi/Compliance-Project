@@ -1,0 +1,71 @@
+<div>
+
+Harrington v Tucker (<span class="citation" data-id="11022107"><a href="/opinion/10555519/harrington-v-tucker/" aria-description="Citation for case: Harrington v. Tucker">2025 NY Slip Op 02764</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Harrington v Tucker</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="11022107"><a href="/opinion/10555519/harrington-v-tucker/" aria-description="Citation for case: Harrington v. Tucker">2025 NY Slip Op 02764</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on May 7, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>ANGELA G. IANNACCI, J.P.
+<br>WILLIAM G. FORD
+<br>HELEN VOUTSINAS
+<br>JAMES P. MCCORMACK, JJ.
+
+<div align="center"></div>
+<br>2023-09556
+<br> (Index No. 600240/20)
+
+<br><br><div align="center"><b>[*1]Talaya Harrington, etc., plaintiff-respondent,
+<br><br>v<br><br>Roland Tucker, appellant, Thomas Giordano, et al., defendants-respondents.
+</b></div><br><br>
+<br><br>
+<p>Rothenberg &amp; Romanek, Garden City, NY (Alan M. Shushan of counsel), for appellant.</p>
+<p>Baker, McEvoy &amp; Moskovits (Majorie E. Bornes, Freeport, NY, of counsel), for defendants-respondents.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action, inter alia, to recover damages for personal injuries, the defendant Roland Tucker appeals from an order of the Supreme Court, Suffolk County (Carmen Victoria St. George, J.), dated August 2, 2023. The order denied that defendant's motion for summary judgment dismissing the complaint and all cross-claims insofar as asserted against him.</p>
+<p>ORDERED that the order is affirmed, with costs to the defendants-respondents.</p>
+<p>The plaintiff's decedent, Debbie Durham, was a passenger in a vehicle owned by Durham and operated by the defendant Roland Tucker (hereinafter the host vehicle) when it collided with a taxi operated by the defendant Thomas Giordano and owned by the defendant Southampton Management, Inc. The collision occurred on Sills Road, which was a two-way street with two northbound lanes and two southbound lanes. Tucker was operating the host vehicle straight in the left northbound lane. Giordano exited from a driveway of a premises located on the west side of Sills Road, crossed the two southbound lanes, and collided with the host vehicle as he attempted to make a left turn to travel in a northerly direction. The front driver's side of the host vehicle collided with the front passenger side of the taxi. The plaintiff commenced this action against the defendants, inter alia, to recover damages for personal injuries. Tucker moved for summary judgment dismissing the complaint and all cross-claims insofar as asserted against him. In an order dated August 2, 2023, the Supreme Court denied Tucker's motion. Tucker appeals.</p>
+<p>"There can be more than one proximate cause of an accident, and [g]enerally, it is for the trier of fact to determine the issue of proximate cause" (<i>Richardson v Cablevision Sys. Corp.</i>, <span class="citation no-link">173 AD3d 1083</span>, 1084 [citations and internal quotation marks omitted]; <i>see Saviano v TT of Massapequa, Inc.</i>, <span class="citation no-link">223 AD3d 851</span>, 852). Therefore, "'[d]efendants moving for summary judgment in a negligence action arising out of an automobile accident have the burden of establishing, prima facie, that they were not at fault in the happening of the accident'" (<i>Woods v Burgos</i>, <span class="citation no-link">220 AD3d 688</span>, 689, quoting <i>Nesbitt v Gallant</i>, <span class="citation" data-id="4158289"><a href="/opinion/4381036/nesbitt-v-gallant/#763" aria-description="Citation for case: Nesbitt v. Gallant">149 AD3d 763, 763</a></span>; <i>see Rogers v Consolidated Edison Co. of N.Y., Inc.</i>, <span class="citation no-link">223 AD3d 689</span>, 691), "or that the alleged negligence of another person was the 'sole proximate cause of the accident'" (<i>Woods v Burgos</i>, 220 AD3d at 689, quoting <i>Brunson v Korkovilas</i>, 208 [*2]AD3d 842, 843).</p>
+<p>Vehicle and Traffic Law § 1143 provides that "[t]he driver of a vehicle about to enter or cross a roadway from any place other than another roadway shall yield the right of way to all vehicles approaching on the roadway to be entered or crossed" (<i>see Rogers v Consolidated Edison Co. of N.Y., Inc.</i>, 223 AD3d at 691). "While the driver with the right-of-way is entitled to assume that other drivers will obey the traffic laws requiring them to yield, the driver with the right-of-way also has an obligation to keep a proper lookout and see what can be seen through the reasonable use of his or her senses to avoid colliding with other vehicles" (<i>Woods v Burgos</i>, 220 AD3d at 689 [internal quotation marks omitted]; <i>see Richardson v Cablevision Sys. Corp.</i>, 173 AD3d at 1085).</p>
+<p>Here, in support of his motion for summary judgment dismissing the complaint and all cross-claims insofar as asserted against him, Tucker submitted, among other things, transcripts of his and of Giordano's deposition testimony. Tucker failed to establish, prima facie, that he was free from fault in the happening of the collision or that the alleged negligence of Giordano was the sole proximate cause of the collision (<i>see Tsarenkov v Rosenbaum</i>, <span class="citation no-link">231 AD3d 1184</span>, 1185; <i>Brunson v Korkovilas</i>, 208 AD3d at 842-843). Specifically, Tucker's own conflicting testimony raised triable issues of fact as to whether he failed to see what there was to be seen and exercised reasonable care to avoid the collision (<i>see Brunson v Korkovilas</i>, 208 AD3d at 842-843; <i>Fergile v Payne</i>, <span class="citation no-link">202 AD3d 928</span>, 930). Since Tucker failed to sustain his prima facie burden, we need not consider the sufficiency of the opposition papers (<i>see Winegrad v New York Univ. Med. Ctr.</i>, <span class="citation" data-id="5536915"><a href="/opinion/5687761/winegrad-v-new-york-university-medical-center/#853" aria-description="Citation for case: Winegrad v. New York University Medical Center">64 NY2d 851, 853</a></span>).</p>
+<p>Accordingly, the Supreme Court properly denied Tucker's motion for summary judgment dismissing the complaint and all cross-claims insofar as asserted against him.</p>
+<p>IANNACCI, J.P., FORD, VOUTSINAS and MCCORMACK, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

@@ -1,0 +1,73 @@
+<div>
+
+Matter of Schiffman v Affordable Shoes, Ltd. (<span class="citation" data-id="11022085"><a href="/opinion/10555497/matter-of-schiffman-v-affordable-shoes-ltd/" aria-description="Citation for case: Matter of Schiffman v. Affordable Shoes, Ltd.">2025 NY Slip Op 02786</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Matter of Schiffman v Affordable Shoes, Ltd.</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="11022085"><a href="/opinion/10555497/matter-of-schiffman-v-affordable-shoes-ltd/" aria-description="Citation for case: Matter of Schiffman v. Affordable Shoes, Ltd.">2025 NY Slip Op 02786</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on May 7, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>FRANCESCA E. CONNOLLY, J.P.
+<br>WILLIAM G. FORD
+<br>LAURENCE L. LOVE
+<br>JAMES P. MCCORMACK, JJ.
+
+<div align="center"></div>
+<br>2020-07458
+<br> (Index No. 506756/18)
+
+<br><br><div align="center"><b>[*1]In the Matter of Deborah Schiffman, etc., appellant,
+<br><br>v<br><br>Affordable Shoes, Ltd., et al., respondents- respondents, et al., respondent.
+</b></div><br><br>
+<br><br>
+<p>Herrick, Feinstein LLP, New York, NY (Andrew J. Wagner and Devin W. Ness of counsel), for appellant.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In a proceeding pursuant to CPLR article 52 to compel the turnover of property, the petitioner appeals from an order of the Supreme Court, Kings County (Dawn Jimenez-Salta, J.), dated April 27, 2020. The order, insofar as appealed from, denied those branches of the petitioner's motion which were for summary judgment on the causes of action seeking relief pursuant to Debtor and Creditor Law former §§ 273 and 276 and to direct the respondent JP Morgan Chase Bank, N.A., to turn over the contents of a safe deposit box maintained by the respondents Zakhar Brener and Ninel Krepkina to the extent necessary to satisfy the petitioner's judgment against the respondents Affordable Shoes, Ltd., and Zakhar Brener.</p>
+<p>ORDERED that the order is reversed insofar as appealed from, on the law, with costs, and those branches of the petitioner's motion which were for summary judgment on the causes of action seeking relief pursuant to Debtor and Creditor Law former §§ 273 and 276 and to direct the respondent JP Morgan Chase Bank, N.A., to turn over the contents of a safe deposit box maintained by the respondents Zakhar Brener and Ninel Krepkina to the extent necessary to satisfy the petitioner's judgment against the respondents Affordable Shoes, Ltd., and Zakhar Brener are granted.</p>
+<p>In April 2018, the petitioner commenced this proceeding pursuant to CPLR article 52, seeking, inter alia, the turnover of a safety deposit box maintained by the respondents Zakhar Brener and Ninel Krepkina and of certain residential real property owned by the respondent B and K Trust. The petitioner sought to satisfy a judgment dated November 15, 2017, against the respondent Affordable Shoes, Ltd. (hereinafter Affordable Shoes), and Brener in the total sum of $338,778.72, which was the result of a default by Affordable Shoes on a commercial lease and a default by Brener on an associated personal guaranty. The petition alleged that in January 2014, Brener fraudulently conveyed the real property to B and K Trust, an entity of which Brener and Krepkina, his long-term partner, are cotrustees. The petitioner moved for summary judgment on the petition. Brener, Krepkina, Affordable Shoes, and B and K Trust (hereinafter collectively the Brener respondents) opposed the petitioner's motion. In an order dated April 27, 2020, the Supreme Court, among other things, denied those branches of the petitioner's motion which were for summary judgment on the causes of action seeking relief pursuant to Debtor and Creditor Law former §§ 273 and 276 and to direct the respondent JP Morgan Chase Bank, N.A. (hereinafter Chase Bank), to turn over the contents of the safe deposit box maintained by Brener and Krepkina to the extent necessary to satisfy the petitioner's judgment against Affordable Shoes and Brener. The petitioner appeals.</p>
+<p>"CPLR 5225(b) provides for an expedited special proceeding by a judgment creditor to recover money or other personal property belonging to a judgment debtor against a person in possession or custody of money or other personal property in which the judgment debtor has an interest in order to satisfy a judgment" (<i>Matter of Argyle Funds SPC, Inc. v Barrick</i>, <span class="citation no-link">226 AD3d 673</span>, 674 [internal quotation marks omitted]; <i>see Matter of Rockefeller v Statement Servs., Corp.</i>, <span class="citation no-link">204 AD3d 920</span>, 921). "Such a proceeding may also be maintained 'against a person who is a transferee of money or other personal property from the judgment debtor'" (<i>Matter of Rockefeller v Statement Servs., Corp.</i>, 204 AD3d at 921, quoting CPLR 5225[b]; <i>see Matter of Argyle Funds SPC, Inc. v Barrick</i>, 226 AD3d at 675). "In order to succeed on a turnover petition, the petitioner must show that the judgment debtor is entitled to the possession of such property or that the judgment creditor's rights to the property are superior to those of the transferee" (<i>Matter of Argyle Funds SPC, Inc. v Barrick</i>, 226 AD3d at 675 [internal quotation marks omitted]; <i>see</i> CPLR 5525[b]; <i>Matter of Rockefeller v Statement Servs., Corp.</i>, 204 AD3d at 921). "A judgment debtor's interest in certain property may be established by showing that the transfer of that property from the judgment debtor to a transferee was fraudulent" (<i>Matter of Argyle Funds SPC, Inc. v Barrick</i>, 226 AD3d at 675; <i>see Joslin v Lopez</i>, <span class="citation" data-id="6099506"><a href="/opinion/6232678/joslin-v-lopez/#838" aria-description="Citation for case: Joslin v. Lopez">309 AD2d 837, 838</a></span>).</p>
+<p>"Pursuant to the version of Debtor and Creditor Law § 273 applicable at the time of the subject conveyance[ ], a conveyance that renders the conveyor insolvent is fraudulent as to creditors without regard to actual intent, if the conveyance was made without fair consideration" (<i>Louis Monteleone Fibres, Ltd. v Hudson Baylor Brookhaven, LLC</i>, <span class="citation no-link">228 AD3d 641</span>, 645; <i>see</i> Debtor and Creditor Law former § 273 [as added by L 1925, ch 254, § 1, repealed by L 2019, ch 580, § 2, eff Apr. 4, 2020]; <i>Board of Mgrs. of E. Riv. Tower Condominium v Empire Holdings Group, LLC</i>, <span class="citation no-link">175 AD3d 1377</span>, 1378). "To constitute fair consideration, the value given in exchange must be fairly equivalent and proportionate to the value of the property conveyed" (<i>Cheek v Brooks</i>, <span class="citation no-link">188 AD3d 785</span>, 786; <i>see</i> Debtor and Creditor Law former § 272; <i>Louis Monteleone Fibres, Ltd. v Hudson Baylor Brookhaven, LLC</i>, 228 AD3d at 646).</p>
+<p>"Insolvency within the meaning of the Debtor and Creditor Law occurs when 'the present fair salable value of [the debtor's] assets is less than the amount that will be required to pay [the] probable liability on . . . existing debts as they become absolute and matured'" (<i>Palmerone v Staples</i>, <span class="citation no-link">195 AD3d 736</span>, 738, quoting Debtor and Creditor Law former § 271[1]; <i>see Grace Plaza of Great Neck v Heitzler</i>, <span class="citation" data-id="5670344"><a href="/opinion/5814831/grace-plaza-of-great-neck-inc-v-heitzler/#781" aria-description="Citation for case: Grace Plaza of Great Neck, Inc. v. Heitzler">2 AD3d 780, 781</a></span>). "In general, the burden of proving insolvency is on the party challenging the conveyance. However, when a transfer is made without fair consideration, a presumption of insolvency and fraudulent transfer arises, and the burden shifts to the transferee to rebut that presumption" (<i>Battlefield Freedom Wash, LLC v Song Yan Zhuo</i>, <span class="citation" data-id="4154838"><a href="/opinion/4377585/battlefield-freedom-wash-llc-v-ting-hui-zheng/#971" aria-description="Citation for case: Battlefield Freedom Wash, LLC v. Ting Hui Zheng">148 AD3d 969, 971</a></span> [citation omitted]; <i>see Palmerone v Staples</i>, 195 AD3d at 738).</p>
+<p>Here, the petitioner established her prima facie entitlement to judgment as a matter of law on the cause of action seeking relief pursuant to Debtor and Creditor Law former § 273 by submitting evidence that Brener was insolvent at the time of the conveyance of the property, which was made without fair consideration (<i>see Palmerone v Staples</i>, 195 AD3d at 738; <i>Cheek v Brooks</i>, 188 AD3d at 786). In opposition, the Brener respondents failed to raise a triable issue of fact.</p>
+<p>Furthermore, the petitioner established her prima facie entitlement to judgment as a matter of law on the cause of action seeking relief pursuant to Debtor and Creditor Law former § 276. "Pursuant to Debtor and Creditor Law former § 276, every conveyance made with actual intent to hinder, delay, or defraud either present or future creditors is fraudulent. The requisite intent required by this section need not be proven by direct evidence, but may be inferred from the circumstances surrounding the allegedly fraudulent transfer" (<i>Louis Monteleone Fibres, Ltd. v Hudson Baylor Brookhaven, LLC</i>, 228 AD3d at 647; <i>see Goldenberg v Friedman</i>, <span class="citation no-link">191 AD3d 641</span>, 643; <i>Milin v Pak</i>, <span class="citation no-link">189 AD3d 1211</span>, 1213). "In determining whether a conveyance was fraudulent, the courts consider the existence of certain common 'badges of fraud,' which include 'a close relationship between the parties to the alleged fraudulent transaction; a questionable transfer not in the usual course of business; inadequacy of the consideration; the transferor's knowledge of the creditor's claim and the inability to pay it; and retention of control of the property by the transferor after the conveyance'" (<i>Corning Fed. Credit Union v Georgilis</i>, <span class="citation no-link">217 AD3d 828</span>, 831, quoting <i>[*2]Goldenberg v Friedman</i>, 191 AD3d at 643-644; <i>see Pen Pak Corp. v LaSalle Natl. Bank of Chicago</i>, <span class="citation" data-id="6015047"><a href="/opinion/6149506/pen-pak-corp-v-lasalle-national-bank-of-chicago/#386" aria-description="Citation for case: Pen Pak Corp. v. Lasalle National Bank of Chicago">240 AD2d 384, 386</a></span>). "A prime example of this type of fraud is where a debtor transfers his property to another while retaining the use thereof so as to continue . . . free from the claims of creditors" (<i>Southern Indus. v Jeremias</i>, <span class="citation" data-id="5828200"><a href="/opinion/5969084/southern-industries-inc-v-jeremias/#181" aria-description="Citation for case: Southern Industries, Inc. v. Jeremias">66 AD2d 178, 181</a></span>; <i>see Louis Monteleone Fibres, Ltd. v Hudson Baylor Brookhaven, LLC</i>, 228 AD3d at 647). Here, the petitioner submitted, among other things, the Brener respondents' answer, wherein they admitted that Brener continued to occupy and use the property with Krepkina. In opposition, the Brener respondents failed to raise a triable issue of fact as to whether the transfer was in the usual course of business.</p>
+<p>In addition, the petitioner established her prima facie entitlement to judgment as a matter of law on the cause of action to direct Chase Bank to turn over of the contents of the safe deposit box maintained by Brener and Krepkina by submitting a letter establishing that Brener and Krepkina jointly held a safe deposit box at one of Chase Bank's branches in Brooklyn (<i>see Matter of Wells Fargo Vendor Fin. Servs., LLC v JPMorgan Chase Bank</i>, <span class="citation no-link">229 AD3d 794</span>, 796; <i>Matter of New York Community Bank v Bank of Am., N.A.</i>, <span class="citation no-link">169 AD3d 35</span>, 39). In opposition, the Brener respondents failed to raise a triable issue of fact.</p>
+<p>Accordingly, the Supreme Court should have granted those branches of the petitioner's motion which were for summary judgment on the causes of action seeking relief pursuant to Debtor and Creditor Law former §§ 273 and 276 and to direct Chase Bank to turn over the contents of the safe deposit box maintained by Brener and Krepkina to the extent necessary to satisfy the petitioner's judgment against Affordable Shoes and Brener.</p>
+<p>CONNOLLY, J.P., FORD, LOVE and MCCORMACK, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

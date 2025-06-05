@@ -1,0 +1,71 @@
+<div>
+
+Hafeez v TT of Freeport (<span class="citation" data-id="10849486"><a href="/opinion/10382898/hafeez-v-tt-of-freeport/" aria-description="Citation for case: Hafeez v. TT of Freeport">2025 NY Slip Op 02327</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Hafeez v TT of Freeport</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10849486"><a href="/opinion/10382898/hafeez-v-tt-of-freeport/" aria-description="Citation for case: Hafeez v. TT of Freeport">2025 NY Slip Op 02327</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 23, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 23, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>ANGELA G. IANNACCI, J.P.
+<br>WILLIAM G. FORD
+<br>HELEN VOUTSINAS
+<br>JAMES P. MCCORMACK, JJ.
+
+<div align="center"></div>
+<br>2023-08809
+<br> (Index No. 613875/20)
+
+<br><br><div align="center"><b>[*1]Hua Hafeez, respondent, 
+<br><br>v<br><br>TT of Freeport, doing business as BMW of Freeport, appellant.
+</b></div><br><br>
+<br><br>
+<p>Litchfield Cavo LLP, New York, NY (Joseph Dimitrov of counsel), for appellant.</p>
+<p>Terilli &amp; Tintle, PLLC, New York, NY (Myles L. Tintle III of counsel), for respondent.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action to recover damages for personal injuries, the defendant appeals from an order of the Supreme Court, Nassau County (Randy Sue Marber, J.), entered June 20, 2023. The order granted the plaintiff's motion for summary judgment on the issue of liability and denied the defendant's cross-motion for summary judgment dismissing the complaint.</p>
+<p>ORDERED that the order is modified, on the law, by deleting the provision thereof granting the plaintiff's motion for summary judgment on the issue of liability, and substituting therefor a provision denying the motion; as so modified, the order is affirmed, with costs to the defendant.</p>
+<p>The plaintiff allegedly was injured at the defendant's vehicle repair shop when she attempted to exit from the customer waiting area to the parking lot through an open garage door, rather than an exterior door, and the garage door suddenly fell on her. The plaintiff moved for summary judgment on the issue of liability, based on the doctrine of res ipsa loquitur, and the defendant cross-moved for summary judgment dismissing the complaint. By order entered June 20, 2023, the Supreme Court granted the plaintiff's motion and denied the defendant's cross-motion. The defendant appeals.</p>
+<p>"The doctrine of res ipsa loquitur permits an inference of negligence to be drawn solely from the happening of an accident" (<i>Giantomaso v T. Weiss Realty Corp.</i>, <span class="citation" data-id="4033699"><a href="/opinion/4256438/giantomaso-v-t-weiss-realty-corp/#952" aria-description="Citation for case: Giantomaso v. T. Weiss Realty Corp.">142 AD3d 950, 952</a></span>; <i>see</i> <i>Morejon v Rais Constr. Co.</i>, <span class="citation" data-id="2192219"><a href="/opinion/2192219/morejon-v-rais-construction-co/#205" aria-description="Citation for case: Morejon v. Rais Construction Co.">7 NY3d 203, 205-206</a></span>). It requires evidence of an event which ordinarily does not occur in the absence of negligence, was caused by an agency or instrumentality within the exclusive control of the defendant, and was not due to any voluntary action or contribution on the part of the plaintiff (<i>see Cantey v City of New York</i>, <span class="citation no-link">184 AD3d 618</span>; <i>Bunting v Haynes</i>, <span class="citation" data-id="5910835"><a href="/opinion/6047466/bunting-v-haynes/" aria-description="Citation for case: Bunting v. Haynes">104 AD3d 715</a></span>). "Since the circumstantial evidence allows but does not require the jury to infer that the defendant was negligent, res ipsa loquitur evidence does not ordinarily or automatically entitle the plaintiff to summary judgment, even if the plaintiff's circumstantial evidence is unrefuted" (<i>Giantomaso v T. Weiss Realty Corp.</i>, <span class="citation" data-id="4033699"><a href="/opinion/4256438/giantomaso-v-t-weiss-realty-corp/#952" aria-description="Citation for case: Giantomaso v. T. Weiss Realty Corp.">142 AD3d at 952</a></span>). Summary judgment on the issue of liability should only be granted "in the rarest of res ipsa loquitur cases" where "the plaintiff's circumstantial proof is so convincing and the defendant's response so weak that the inference of [the] defendant's negligence is inescapable" (<i>Morejon v Rais Constr. Co.</i>, <span class="citation" data-id="2192219"><a href="/opinion/2192219/morejon-v-rais-construction-co/#209" aria-description="Citation for case: Morejon v. Rais Construction Co.">7 NY3d at 209</a></span>; <i>see [*2]Barney-Yeboah v Metro-North Commuter R.R.</i>, <span class="citation" data-id="5489862"><a href="/opinion/5643870/barney-yeboah-v-metro-north-commuter-railroad/#946" aria-description="Citation for case: Barney-Yeboah v. Metro-North Commuter Railroad">25 NY3d 945, 946</a></span>).</p>
+<p>Here, the plaintiff did not establish, by sufficiently convincing circumstantial proof, "that the inference of [the] defendant's negligence is inescapable" (<i>Morejon v Rais Constr. Co.</i>, <span class="citation" data-id="2192219"><a href="/opinion/2192219/morejon-v-rais-construction-co/#209" aria-description="Citation for case: Morejon v. Rais Construction Co.">7 NY3d at 209</a></span>; <i>see Hoeberlein v Bed Bath &amp; Beyond, Inc.</i>, <span class="citation" data-id="2772000"><a href="/opinion/2772000/hoeberlein-v-bed-bath-beyond-inc/#722" aria-description="Citation for case: Hoeberlein v. Bed Bath &amp; Beyond, Inc.">124 AD3d 722, 722-723</a></span>). Specifically, the plaintiff failed to submit sufficiently convincing circumstantial proof that the garage door and its mechanism were within the defendant's exclusive control, and that the accident was not due to any fault on the part of the plaintiff (<i>see Cantey v City of New York</i>, 184 AD3d at 619; <i>Dilligard v City of New York</i>, <span class="citation no-link">170 AD3d 955</span>, 956-957; <i>Brennan v Wappingers Cent. Sch. Dist.</i>, <span class="citation no-link">164 AD3d 640</span>, 641-642; <i>Bunting v Haynes</i>, <span class="citation" data-id="5910835"><a href="/opinion/6047466/bunting-v-haynes/#716" aria-description="Citation for case: Bunting v. Haynes">104 AD3d at 716</a></span>). "'In those cases where conflicting inferences may be drawn, choice of inference must be made by the jury'" (<i>Dilligard v City of New York</i>, 170 AD3d at 956 [internal quotation marks omitted], quoting <i>Kambat v St. Francis Hosp.</i>, <span class="citation" data-id="2116486"><a href="/opinion/2116486/kambat-v-st-francis-hospital/#495" aria-description="Citation for case: Kambat v. St. Francis Hospital">89 NY2d 489, 495</a></span>).</p>
+<p>Accordingly, the Supreme Court should have denied the plaintiff's motion for summary judgment on the issue of liability without regard to the sufficiency of the opposition papers (<i>see</i> <i>Winegrad v New York Univ. Med. Ctr.</i>, <span class="citation" data-id="5536915"><a href="/opinion/5687761/winegrad-v-new-york-university-medical-center/#853" aria-description="Citation for case: Winegrad v. New York University Medical Center">64 NY2d 851, 853</a></span>).</p>
+<p>However, the Supreme Court properly denied the defendant's cross-motion for summary judgment dismissing the complaint, as the defendant failed to make a prima facie showing of entitlement to such relief (<i>see</i> <i><span class="citation" data-id="5536915"><a href="/opinion/5687761/winegrad-v-new-york-university-medical-center/" aria-description="Citation for case: Winegrad v. New York University Medical Center">id.</a></span></i>).</p>
+<p>IANNACCI, J.P., FORD, VOUTSINAS and MCCORMACK, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

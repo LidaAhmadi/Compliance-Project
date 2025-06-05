@@ -1,0 +1,72 @@
+<div>
+
+Pantanilla v Yuson (<span class="citation" data-id="10889300"><a href="/opinion/10422712/pantanilla-v-yuson/" aria-description="Citation for case: Pantanilla v. Yuson">2025 NY Slip Op 02597</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Pantanilla v Yuson</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10889300"><a href="/opinion/10422712/pantanilla-v-yuson/" aria-description="Citation for case: Pantanilla v. Yuson">2025 NY Slip Op 02597</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 30, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 30, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>MARK C. DILLON, J.P.
+<br>ROBERT J. MILLER
+<br>HELEN VOUTSINAS
+<br>LOURDES M. VENTURA, JJ.
+
+<div align="center"></div>
+<br>2023-04248
+<br> (Index No. 615229/21)
+
+<br><br><div align="center"><b>[*1]Maria Airene Pantanilla, respondent, 
+<br><br>v<br><br>Guillerma Yuson, appellant.
+</b></div><br><br>
+<br><br>
+<p>David De Andrade, New York, NY, for appellant.</p>
+<p>Mordente Law Firm LLC, Fresh Meadows, NY (Anthony R. Mordente of counsel), for respondent.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action, in effect, to recover damages for money had and received and unjust enrichment, the defendant appeals from a judgment of the Supreme Court, Nassau County (Dawn Jimenez, J.), dated March 17, 2023. The judgment, upon an order of the same court entered March 15, 2023, granting the plaintiff's motion for leave to enter a default judgment, is in favor of the plaintiff and against the defendant in the principal sum of $40,000.</p>
+<p>ORDERED that the judgment is affirmed, with costs.</p>
+<p>On December 2, 2021, the plaintiff commenced this action against the defendant, alleging that the plaintiff and the defendant reached an agreement pursuant to which the plaintiff would purchase the defendant's grocery store and restaurant for $440,940. In consideration of that agreement, the plaintiff made installment payments totaling $40,000 to the defendant. The plaintiff alleged that the defendant rescinded the agreement and did not return the sum of $40,000. The plaintiff asserted, in effect, causes of action to recover damages for money had and received and unjust enrichment. On December 7, 2021, the plaintiff served the defendant with the summons and complaint. On December 22, 2021, the defendant's counsel filed a notice of appearance. Thereafter, the defendant failed to answer the complaint.</p>
+<p>In December 2022, the plaintiff moved for leave to enter a default judgment against the defendant. By order entered March 15, 2023, the Supreme Court granted the plaintiff's motion. On March 17, 2023, a judgment, upon the order, was entered in favor of the plaintiff and against the defendant in the principal sum of $40,000. The defendant appeals.</p>
+<p>"'On a motion for leave to enter a default judgment against a defendant based on the failure to answer or appear, a plaintiff must submit proof of service of the summons and complaint, proof of the facts constituting the cause of action, and proof of the defendant's default'" (<i>Nationstar Mtge., LLC v Gross</i>, <span class="citation no-link">201 AD3d 942</span>, 944, quoting <i>L &amp; Z Masonry Corp. v Mose</i>, <span class="citation no-link">167 AD3d 728</span>, 729; <i>see</i> CPLR 3215[f]). "Since defaulters are deemed to have admitted all factual allegations contained in the complaint and all reasonable inferences that flow from them, when submitting proof of facts constituting a claim, a plaintiff need only set forth enough facts to enable the Supreme Court to determine that the plaintiff alleged a viable cause of action" (<i>Rosenzweig v Gubner</i>, <span class="citation no-link">194 AD3d 1086</span>, 1088 [citation and internal quotation marks omitted]; <i>see Global Liberty Ins. Co. v Haar Orthopaedics &amp; Sports Med., P.C.</i>, <span class="citation no-link">170 AD3d 1125</span>, 1126). "To defeat a facially sufficient CPLR 3215 motion, a defendant must show either that there was no default, or that it had a reasonable [*2]excuse for its delay and a potentially meritorious defense" (<i>National Loan Invs., L.P. v Bruno</i>, <span class="citation no-link">191 AD3d 999</span>, 1001; <i>see U.S. Bank N.A. v Crockett</i>, <span class="citation no-link">201 AD3d 767</span>, 768).</p>
+<p>Here, in support of her motion for leave to enter a default judgment, the plaintiff made the required showing by submitting proof of service of the summons and complaint, proof of the facts constituting the causes of action, and proof of the defendant's default. In opposition, the defendant contended that she was not in default because her counsel served a notice of appearance. However, service of a notice of appearance does not "'absolve a defendant from complying with the time restrictions imposed by CPLR 320(a) which govern the service of an answer or the making of a motion pursuant to CPLR 3211'" (<i>21st Mtge. Corp. v Raghu</i>, <span class="citation no-link">197 AD3d 1212</span>, 1216, quoting <i>Deutsche Bank Natl. Trust Co. v Hall</i>, <span class="citation no-link">185 AD3d 1006</span>, 1009-1010; <i>see</i> CPLR 320(a); 3211). Similarly, the defendant's contention that her failure to timely answer should be excused because the plaintiff did not respond to the demand for service of the summons and complaint in the notice of appearance is without merit, since the plaintiff had already properly served a summons and complaint (<i>see</i> CPLR 320[a], [b]; 3211[a][8]; <i>Travelon, Inc. v Maekitan</i>, <span class="citation no-link">215 AD3d 710</span>, 713-714; <i>21st Mtge. Corp. v Raghu</i>, 197 AD3d at 1216). The defendant's contention that her default should be excused due to law office failure is improperly raised for the first time on appeal (<i>see Matter of Regina Metro. Co., LLC v New York State Div. of Hous. &amp; Community Renewal</i>, <span class="citation no-link">35 NY3d 332</span>, 362-363; <i>Crudele v Price</i>, <span class="citation no-link">218 AD3d 534</span>, 536). In light of the defendant's failure to establish a reasonable excuse for her default, it is unnecessary to determine whether she demonstrated a potentially meritorious defense (<i>see U.S. Bank N.A. v Carucci</i>, <span class="citation no-link">217 AD3d 894</span>, 895; <i>Wells Fargo Bank, N.A. v Eliacin</i>, <span class="citation no-link">206 AD3d 950</span>, 952).</p>
+<p>The defendant's remaining contention is without merit.</p>
+<p>Accordingly, the Supreme Court properly granted the plaintiff's motion for leave to enter a default judgment.</p>
+<p>DILLON, J.P., MILLER, VOUTSINAS and VENTURA, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

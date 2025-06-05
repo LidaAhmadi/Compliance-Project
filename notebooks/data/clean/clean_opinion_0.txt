@@ -1,0 +1,71 @@
+
+
+People v Palm (2025 NY Slip Op 02799)
+
+
+
+
+
+People v Palm
+
+
+2025 NY Slip Op 02799
+
+
+Decided on May 7, 2025
+
+
+Appellate Division, Second Department
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+FRANCESCA E. CONNOLLY, J.P.
+ROBERT J. MILLER
+LOURDES M. VENTURA
+JAMES P. MCCORMACK, JJ.
+
+
+2023-05297
+ (Ind. No. 70575/22)
+
+[*1]The People of the State of New York, respondent,
+vNicholas Palm, appellant.
+
+
+Mark Diamond, Pound Ridge, NY, for appellant.
+David M. Hoovler, District Attorney, Goshen, NY (Edward D. Saslaw of counsel), for respondent.
+
+
+
+DECISION &amp; ORDER
+Appeal by the defendant from a judgment of the County Court, Orange County (Craig S. Brown, J.), rendered May 16, 2023, convicting him of criminal possession of a weapon in the second degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of those branches of the defendant's omnibus motion which were to suppress physical evidence and his statements to law enforcement officials.
+ORDERED that the judgment is affirmed.
+The defendant was arrested after a stop and frisk resulting in the recovery of a firearm. After a hearing, the County Court denied those branches of the defendant's omnibus motion which were to suppress the physical evidence recovered, including the firearm, and the defendant's statements made to law enforcement officials. After a jury trial, the defendant was convicted of criminal possession of a weapon in the second degree. The defendant appeals.
+Pursuant to People v De Bour (40 NY2d 210), there is "a graduated four-level test for evaluating the propriety of police encounters when a police officer is acting in a law enforcement capacity" (People v Benbow, 193 AD3d 869, 871 [internal quotation marks omitted]; see People v Alleyne, _____ AD3d _____, 2025 NY Slip Op 01941). "The first level permits a police officer to request information from an individual, and merely requires that the request be supported by an objective, credible reason, not necessarily indicative of criminality" (People v Benbow, 193 AD3d at 871 [internal quotation marks omitted]). "The second level, known as the common-law right of inquiry, requires a founded suspicion that criminal activity is afoot, and permits a somewhat greater intrusion" (id. [internal quotation marks omitted]). "Based upon a founded suspicion that criminal activity is afoot, the subject may be asked to produce identification, may be asked whether he [or she] has weapons, and may be asked to remove his [or her] hands from his [or her] pockets" (Matter of Shakir J., 119 AD3d 792, 794-795 [citation omitted]; see People v Alleyne, _____ AD3d _____, 2025 NY Slip Op 01941; People v Muhammed, 196 AD3d 1151, 1152-1153). "The third level permits a police officer to forcibly stop and detain an individual" (People v Benbow, 193 AD3d at 871 [internal quotation marks omitted]). "Such a detention, however, is not permitted unless there is a reasonable suspicion that an individual is committing, has committed, or is about to commit a crime" (id. [internal quotation marks omitted]). "A corollary of the statutory right to temporarily [*2]detain for questioning is the authority to frisk if the officer reasonably suspects that he [or she] is in danger of physical injury by virtue of the detainee being armed" (People v De Bour, 40 NY2d at 223). "The fourth level authorizes an arrest based on probable cause to believe that a person has committed a crime" (People v Benbow, 193 AD3d at 871 [internal quotation marks omitted]).
+Here, in light of the evidence demonstrating that the defendant matched the general description of the perpetrator, who had brandished a firearm, that was broadcast over the police radio, along with the defendant's temporal and spatial proximity to the scene of that incident, and the officers' observations that the defendant put his hands in his waistband, the police had reasonable suspicion to stop and frisk the defendant (see People v De Bour, 40 NY2d at 223; People v Alleyne, _____ AD3d _____, 2025 NY Slip Op 01941; People v Richardson, 219 AD3d 637, 638; People v Maschoun, 186 AD3d 1402, 1403; People v Currie, 131 AD3d 1265; People v Abdul-Mateen, 126 AD3d 986, 988). To the extent that the defendant contends that introducing his statements made to law enforcement officials violated his Miranda rights (see Miranda v Arizona, 384 US 436), the evidence at the hearing established that the statements were made spontaneously and were not the product of police interrogation or its functional equivalent (see People v Martinez, 186 AD3d 1530, 1531; People v Barnes, 171 AD3d 1082, 1082). Accordingly, the County Court properly denied those branches of the defendant's omnibus motion which were to suppress physical evidence and his statements to law enforcement officials.
+The defendant's contention that Penal Law § 265.03 is unconstitutional in light of the decision in New York State Rifle &amp; Pistol Assn., Inc. v Bruen (597 US 1) is unpreserved for appellate review, as the defendant failed to raise a constitutional challenge before the County Court (see People v Robb, 233 AD3d 805; People v Bynum, 225 AD3d 781, 781; People v Chase, 223 AD3d 913, 913). In any event, the Bruen decision "had no impact on the constitutionality of New York State's criminal possession of a weapon statutes" (People v Manners, 217 AD3d 683, 686; see People v Sargeant, 230 AD3d 1341, 1355; People v Chase, 223 AD3d at 913).
+The defendant's contention that he was deprived of the effective assistance of counsel is without merit. Under both the state and federal standards for ineffective assistance of counsel, "[t]here can be no denial of effective assistance . . . arising from counsel's failure to make a motion or argument that has little or no chance of success" (People v Caban, 5 NY3d 143, 152 [internal quotation marks omitted]; see People v Parvez, 209 AD3d 885, 887; People v Clark, 171 AD3d 942, 944; see also People v Kamara, 234 AD3d 496, 497).
+The defendant's remaining contention is unpreserved for appellate review and, in any event, without merit.
+CONNOLLY, J.P., MILLER, VENTURA and MCCORMACK, JJ., concur.
+ENTER:
+Darrell M. Joseph
+Clerk of the Court
+
+
+
+
+
+
+
+

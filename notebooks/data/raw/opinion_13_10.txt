@@ -1,0 +1,73 @@
+<div>
+
+Flood v Alhindawi (<span class="citation" data-id="11022113"><a href="/opinion/10555525/flood-v-alhindawi/" aria-description="Citation for case: Flood v. Alhindawi">2025 NY Slip Op 02758</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Flood v Alhindawi</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="11022113"><a href="/opinion/10555525/flood-v-alhindawi/" aria-description="Citation for case: Flood v. Alhindawi">2025 NY Slip Op 02758</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on May 7, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>FRANCESCA E. CONNOLLY, J.P.
+<br>WILLIAM G. FORD
+<br>HELEN VOUTSINAS
+<br>LOURDES M. VENTURA, JJ.
+
+<div align="center"></div>
+<br>2023-03665
+<br>2023-03667
+<br> (Index No. 604992/17)
+
+<br><br><div align="center"><b>[*1]Justin John Flood, etc., appellant, 
+<br><br>v<br><br>Ritha Alhindawi, etc., et al., respondents.
+</b></div><br><br>
+<br><br>
+<p>The Law Offices of Brad A. Kauffman, PLLC, New York, NY, for appellant.</p>
+<p>Ellenberg Gannon Henninger &amp; Fitzmaurice, LLP, New York, NY (Stacy Fitzmaurice and Sophia Shih of counsel), for respondent Ritha Alhindawi.</p>
+<p>Dopf, P.C., New York, NY (Joseph R. Cammarosano and Rebecca R. Bates of counsel), for respondent Stephen Lastig.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action, inter alia, to recover damages for medical malpractice, the plaintiff appeals from (1) an order of the Supreme Court, Nassau County (Denise L. Sher, J.), entered January 24, 2023, and (2) an order of the same court entered January 26, 2023. The order entered January 24, 2023, insofar as appealed from, denied the plaintiff's cross-motion for leave to amend the bill of particulars as to the defendant Stephen Lastig. The order entered January 26, 2023, insofar as appealed from, denied the plaintiff's separate cross-motion for leave to amend the bill of particulars as to the defendant Ritha Alhindawi.</p>
+<p>ORDERED that the orders are affirmed insofar as appealed from, with one bill of costs.</p>
+<p>In May 2017, this action, inter alia, to recover damages for medical malpractice was commenced against the defendants Ritha Alhindawi and Stephen Lastig (hereinafter together the defendants), among others. A note of issue was filed in January 2021.</p>
+<p>In July 2021, Alhindawi moved for summary judgment dismissing the complaint insofar as asserted against him, and Lastig separately moved, inter alia, for summary judgment dismissing the complaint insofar as asserted against him. In May 2022, the plaintiff cross-moved for leave to amend the bill of particulars as to Alhindawi and separately cross-moved for leave to amend the bill of particulars as to Lastig.</p>
+<p>By order entered January 24, 2023, the Supreme Court, inter alia, denied the plaintiff's cross-motion for leave to amend the bill of particulars as to Lastig. By order entered January 26, 2023, the court, among other things, denied the plaintiff's cross-motion for leave to amend the bill of particulars as to Alhindawi. The plaintiff appeals from both orders.</p>
+<p>"Leave to amend a bill of particulars is ordinarily to be freely given in the absence [*2]of prejudice or surprise" (<i>Lorincz v Castellano</i>, <span class="citation no-link">208 AD3d 573</span>, 574; <i>see</i> <i>J.D.R.G. v Golden Brick Dev. JP, LLC</i>, <span class="citation no-link">217 AD3d 846</span>, 848). "However, once discovery has been completed and the case has been certified for trial, a party will not be permitted to amend the bill of particulars except upon a showing of special and extraordinary circumstances" (<i>Lorincz v Castellano</i>, 208 AD3d at 574-575; <i>see Achee v Merrick Vil., Inc.</i>, <span class="citation no-link">208 AD3d 542</span>, 542-543). "Where the motion for leave to amend a pleading is made long after the action has been certified for trial, judicial discretion in allowing such amendments should be discrete, circumspect, prudent, and cautious" (<i>Lorincz v Castellano</i>, 208 AD3d at 575 [internal quotation marks omitted]). "The determination to permit or deny the amendment is committed to the sound and broad discretion of the trial court, and its determination will not lightly be set aside" (<i>Scopelliti v Westmed Med. Group</i>, <span class="citation no-link">193 AD3d 1009</span>, 1011).</p>
+<p>Here, the plaintiff failed to show special and extraordinary circumstances and failed to offer a reasonable excuse for his delay in seeking leave to amend the bills of particulars until 5 years after the commencement of this action, 1 year and 4 months after filing the note of issue, and 10 months after the defendants moved for summary judgment. Accordingly, the Supreme Court providently exercised its discretion in denying the plaintiff's cross-motions for leave to amend the bills of particulars (<i>see</i> <i>J.D.R.G. v Golden Brick Dev. JP, LLC</i>, 217 AD3d at 848; <i>Lorincz v Castellano</i>, 208 AD3d at 574-575; <i>Scopelliti v Westmed Med. Group</i>, 193 AD3d at 1011-1012).</p>
+<p>CONNOLLY, J.P., FORD, VOUTSINAS and VENTURA, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>
