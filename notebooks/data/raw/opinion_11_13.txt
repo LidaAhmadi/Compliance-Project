@@ -1,0 +1,70 @@
+<div>
+
+P.A. v Poly Prep Country Day Sch. (<span class="citation" data-id="10889301"><a href="/opinion/10422713/pa-v-poly-prep-country-day-sch/" aria-description="Citation for case: P.A. v. Poly Prep Country Day Sch.">2025 NY Slip Op 02563</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>P.A. v Poly Prep Country Day Sch.</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10889301"><a href="/opinion/10422713/pa-v-poly-prep-country-day-sch/" aria-description="Citation for case: P.A. v. Poly Prep Country Day Sch.">2025 NY Slip Op 02563</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 30, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 30, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>CHERYL E. CHAMBERS, J.P.
+<br>LINDA CHRISTOPHER
+<br>WILLIAM G. FORD
+<br>DONNA-MARIE E. GOLIA, JJ.
+
+<div align="center"></div>
+<br>2023-00960
+<br> (Index No. 511844/21)
+
+<br><br><div align="center"><b>[*1]P. A., respondent, 
+<br><br>v<br><br>Poly Prep Country Day School, appellant.
+</b></div><br><br>
+<br><br>
+<p>Seyfarth Shaw LLP, New York, NY (Matthew Catalano, Karen Y. Bitar, and Gershon Akerman of counsel), for appellant.</p>
+<p>Herman Law, New York, NY (Jeffrey Herman, Stuart Mermelstein, and Vanessa A. Neal of counsel), for respondent.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action to recover damages for negligence, the defendant appeals from an order of the Supreme Court, Kings County (Alexander M. Tisch, J.), dated November 22, 2022. The order denied the defendant's motion pursuant to CPLR 3211(a)(5) to dismiss the complaint as time-barred.</p>
+<p>ORDERED that the order is affirmed, with costs.</p>
+<p>The plaintiff commenced this action against the defendant, Poly Prep Country Day School (hereinafter Poly Prep), pursuant to the Child Victims Act (hereinafter the CVA), which created a revival window for previously time-barred childhood sexual abuse claims (<i>see</i> CPLR 214-g). Poly Prep moved pursuant to CPLR 3211(a)(5) to dismiss the complaint as time-barred. In an order dated November 22, 2022, the Supreme Court denied the motion. Poly Prep appeals.</p>
+<p>"On a motion to dismiss a cause of action pursuant to CPLR 3211(a)(5) as barred by the applicable statute of limitations, the defendant bears the initial burden of demonstrating, prima facie, that the time within which to commence the cause of action has expired" (<i>Rubin v Poly Prep Country Day Sch.</i>, <span class="citation no-link">227 AD3d 741</span>, 742 [internal quotation marks omitted]; <i>see Schearer v Fitzgerald</i>, <span class="citation no-link">217 AD3d 980</span>, 981). Here, Poly Prep, which argued that the CVA violates the Due Process Clause of the New York Constitution, failed to meet its burden. "CPLR 214-g, enacted as part of the CVA, provides a revival window for 'civil claims or causes of action alleging intentional or negligent acts or omissions that seek to recover for injuries suffered as a result of conduct which would constitute sex crimes, which conduct was committed against a child less than 18 years of age, for which the statute of limitations had already run'" (<i>Feaster v Poly Prep Country Day Sch.</i>, <span class="citation no-link">227 AD3d 668</span>, 669, quoting <i>S.H. v Diocese of Brooklyn</i>, <span class="citation no-link">205 AD3d 180</span>, 184; <i>see Spira v National Council of Young Israel</i>, <span class="citation no-link">231 AD3d 987</span>, 988; <i>Forbes v Poly Prep Country Day Sch.</i>, <span class="citation no-link">220 AD3d 750</span>, 751). "[A] claim-revival statute will satisfy the Due Process Clause of the State Constitution if it was enacted as a reasonable response in order to remedy an injustice" (<i>Matter of World Trade Ctr. Lower Manhattan Disaster Site Litig.</i>, <span class="citation" data-id="7080747"><a href="/opinion/7170420/faltynowicz-v-battery-park-city-auth-in-re-world-trade-ctr-lower/#400" aria-description="Citation for case: Faltynowicz v. Battery Park City Auth. (In re World Trade...">30 NY3d 377, 400</a></span>). Contrary to Poly Prep's contention, the revival of civil claims and causes of action pursuant to the CVA was a reasonable response to remedy the injustice to child sexual assault survivors caused by application of the relevant statute of limitations (<i>see Spira v National Council of Young Israel</i>, 231 AD3d at 988; <i>Feaster v Poly Prep [*2]Country Day Sch.</i>, 227 AD3d at 669-670; <i>Forbes v Poly Prep Country Day Sch.</i>, 220 AD3d at 752; <i>Schearer v Fitzgerald</i>, 217 AD3d at 982-983).</p>
+<p>Poly Prep's remaining contention is without merit.</p>
+<p>Accordingly, the Supreme Court properly denied Poly Prep's motion pursuant to CPLR 3211(a)(5) to dismiss the complaint as time-barred.</p>
+<p>CHAMBERS, J.P., CHRISTOPHER, FORD and GOLIA, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

@@ -1,0 +1,70 @@
+<div>
+
+Matter of Hoovler v Vazquez-Doles (<span class="citation" data-id="10846486"><a href="/opinion/10379898/matter-of-hoovler-v-vazquez-doles/" aria-description="Citation for case: Matter of Hoovler v. Vazquez-Doles">2025 NY Slip Op 02204</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Matter of Hoovler v Vazquez-Doles</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10846486"><a href="/opinion/10379898/matter-of-hoovler-v-vazquez-doles/" aria-description="Citation for case: Matter of Hoovler v. Vazquez-Doles">2025 NY Slip Op 02204</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 16, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 16, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>MARK C. DILLON, J.P.
+<br>VALERIE BRATHWAITE NELSON
+<br>BARRY E. WARHIT
+<br>LAURENCE L. LOVE, JJ.
+
+<div align="center"></div>
+<br>2024-11790
+
+<br><br><div align="center"><b>[*1]In the Matter of David M. Hoovler, etc., petitioner,
+<br><br>v<br><br>Maria S. Vazquez-Doles, etc., et al., respondents.
+</b></div><br><br>
+<br><br>
+<p>David M. Hoovler, District Attorney, Goshen, NY (Andrew R. Kass of counsel), petitioner pro se.</p>
+<p>Tilem &amp; Associates, P.C., White Plains, NY (Robert M. Schechter of counsel), for respondent Maria S. Vazquez-Doles.</p>
+<p>O'Connor &amp; Partners, PLLC, Kingston, NY (Thomas C. Yatto of counsel), for respondent Jose Cuacuas.</p>
+<br><br>
+
+
+<p>DECISION &amp; JUDGMENT</p>
+<p>Proceeding pursuant to CPLR article 78 in the nature of prohibition to prohibit the respondent Maria S. Vazquez-Doles, a Justice of the Supreme Court, Orange County, from enforcing two orders of the Supreme Court, Orange County, dated August 9, 2024, and September 3, 2024, respectively, issued in an action entitled <i>Cuacuas v Newburgh Enlarged City Sch. Dist.</i>, pending in that court under Index No. 4944/22, inter alia, directing the release of certain grand jury minutes in a criminal action entitled <i>People v Bravo</i>, commenced in the County Court, Orange County, under Indictment No. 70292/21.</p>
+<p>ADJUDGED that the petition is granted, without costs or disbursements, and the respondent Maria S. Vazquez-Doles, a Justice of the Supreme Court, Orange County, is prohibited from enforcing the orders dated August 9, 2024, and September 3, 2024, issued in the action entitled <i>Cuacuas v Newburgh Enlarged City Sch. Dist.</i>, pending in the Supreme Court, Orange County, under Index No. 4944/22, inter alia, directing the release of certain grand jury minutes in a criminal action entitled <i>People v Bravo</i>, commenced in the County Court, Orange County, under Indictment No. 70292/21.</p>
+<p>The petitioner, David M. Hoovler, the Orange County District Attorney, commenced this proceeding pursuant to CPLR article 78 in the nature of prohibition to prohibit the enforcement of an order dated August 9, 2024, and a separate order dated September 3, 2024, both of which were issued by the respondent Maria S. Vazquez-Doles, a Justice of the Supreme Court, Orange County, in an action entitled <i>Cuacuas v Newburgh Enlarged City Sch. Dist.</i>, pending in the Supreme Court, Orange County, under Index No. 4944/22 (hereinafter the underlying civil action). The order dated August 9, 2024, granted the plaintiff's motion in the underlying civil action to release certain grand jury minutes in a criminal action entitled <i>People v Bravo</i>, commenced in the County Court, Orange County, under Indictment No. 70292/21 (hereinafter the subject criminal action). The order dated September 3, 2024, directed the clerk of the court to provide the subject grand jury minutes to the plaintiff's counsel in the underlying civil action.</p>
+<p>"A writ of prohibition is an extraordinary remedy available only where there is a clear legal right to such relief and only when a court (if a court is involved) acts or threatens to act without [*2]jurisdiction or, as relevant here, exceeds its authorized powers in a proceeding over which it has jurisdiction" (<i>Matter of Maria S. v Tully</i>, <span class="citation no-link">214 AD3d 988</span>, 989 [internal quotation marks omitted]; <i>see Matter of Holtzman v Goldman</i>, <span class="citation" data-id="5538363"><a href="/opinion/5689144/holtzman-v-goldman/#569" aria-description="Citation for case: Holtzman v. Goldman">71 NY2d 564, 569</a></span>). Prohibition does not lie to correct a mere error of law, however egregious the error and however cleverly it may be characterized as an excess of jurisdiction or power (<i>see Matter of Rush v Mordue</i>, <span class="citation" data-id="5537570"><a href="/opinion/5688391/rush-v-mordue/#353" aria-description="Citation for case: Rush v. Mordue">68 NY2d 348, 353</a></span>). Thus, when a petitioner seeks relief in the nature of prohibition, "the court must make a two-tiered analysis. It must first determine whether the issue presented is the type for which the remedy may be granted and, if it is, whether prohibition is warranted on the merits of the claim" (<i>Matter of Holtzman v Goldman</i>, <span class="citation" data-id="5538363"><a href="/opinion/5689144/holtzman-v-goldman/#568" aria-description="Citation for case: Holtzman v. Goldman">71 NY2d at 568</a></span>).</p>
+<p>The orders, among other things, directing the release of certain grand jury minutes in the subject criminal action and directing the clerk of the court to provide those minutes to the plaintiff's counsel in the underlying civil action, are subject to prohibition for exceeding the Supreme Court's authorized powers, as "only the court in charge of a Grand Jury may release testimony from the secrecy requirements of CPL 190.25(4)" (<i>People v Astacio</i>, <span class="citation" data-id="5937589"><a href="/opinion/6073640/people-v-astacio/#835" aria-description="Citation for case: People v. Astacio">173 AD2d 834, 835</a></span>; <i>see Gold v Quinones</i>, <span class="citation" data-id="5779958"><a href="/opinion/5922124/gold-v-quinones/#618" aria-description="Citation for case: Gold v. Quinones">37 AD2d 618, 618</a></span>). In Orange County, only terms of the County Court have been charged with the empaneling of grand juries at the times relevant to this proceeding (<i>see</i> Admin Order of Chief Admin Judge of Cts AO/308/23;<i> see also</i> Admin Order of Chief Admin Judge of Cts AO/293/20), and as such, that was the court in charge of the grand jury in the subject criminal action, and the only court authorized to release those grand jury minutes (<i>see Gold v Quinones</i>, <span class="citation" data-id="5779958"><a href="/opinion/5922124/gold-v-quinones/#618" aria-description="Citation for case: Gold v. Quinones">37 AD2d at 618</a></span>).</p>
+<p>Accordingly, we conclude that the Supreme Court exceeded its authority by directing the release of certain grand jury minutes in the subject criminal action to counsel in the underlying civil action, and directing the clerk of the court to provide those minutes to the plaintiff's counsel in the underlying civil action, and therefore, grant the petition.</p>
+<p>DILLON, J.P., BRATHWAITE NELSON, WARHIT and LOVE, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

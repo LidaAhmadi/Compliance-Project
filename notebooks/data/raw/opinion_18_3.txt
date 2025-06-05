@@ -1,0 +1,63 @@
+<div>
+
+Facade Tech., LLC v CNY Constr. 701 LLC (<span class="citation" data-id="10841044"><a href="/opinion/10374456/facade-tech-llc-v-cny-constr-701-llc/" aria-description="Citation for case: Facade Tech., LLC v. CNY Constr. 701 LLC">2025 NY Slip Op 02034</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Facade Tech., LLC v CNY Constr. 701 LLC</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10841044"><a href="/opinion/10374456/facade-tech-llc-v-cny-constr-701-llc/" aria-description="Citation for case: Facade Tech., LLC v. CNY Constr. 701 LLC">2025 NY Slip Op 02034</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 08, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, First Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided and Entered: April 08, 2025
+
+<br>Before: Renwick, P.J., Kapnick, Shulman, Rodriguez, Rosado, JJ. 
+
+<div align="center"></div>
+<br>Index No. 653587/19|Appeal No. 4053|Case No. 2024-00399|
+
+<br><br><div align="center"><b>[*1]Facade Technology, LLC, etc., Plaintiff-Respondent-Appellant,
+<br><br>v<br><br>CNY Construction 701 LLC et al., Defendants-Appellants-Respondents, CNY Group LLC et al., Defendants.
+</b></div><br><br>
+<br><br>
+<p>Rich, Intelisano &amp; Katz, LLP, New York (Robert J. Howard of counsel), for appellants-respondents.</p>
+<p>Cohen Seglias Pallas Greenhall &amp; Furman PC, New York (Jason A. Copley of counsel), for respondent-appellant.</p>
+<br><br>
+
+
+<p>Order, Supreme Court, New York County (Barry R. Ostrager, J.), entered December 20, 2023, which, to the extent appealed and cross-appealed from as limited by the briefs, denied the motion of defendants CNY Construction 701 LLC, Kenneth Colao, Steven Colao, and Dennis Prude (collectively, defendants) for summary judgment dismissing the complaint as against them, and denied so much of plaintiff Facade Technology, LLC's motion as sought summary judgment dismissing the counterclaims for breach of contract (first counterclaim), delay (second counterclaim), pass-through (third counterclaim), negligence (fourth counterclaim), negligent and/or intentional misrepresentation (fifth counterclaim), intentional interference with contract (seventh counterclaim), and contractual indemnity and counsel fees (eighth counterclaim), unanimously modified, on the law, to grant so much of defendants' motion as sought to dismiss the cause of action titled cardinal change (fourth cause of action) insofar as that cause of action is predicated on the cardinal change doctrine and the cause of action for violation of New York Lien Law article 3-A (seventh cause of action), and to grant so much of Facade's motion as sought to dismiss the counterclaims for negligence, intentional and/or negligent misrepresentation, intentional interference with contract, and contractual indemnity and counsel fees, and otherwise affirmed, without costs.</p>
+<p>Supreme Court correctly determined that the record presents issues of fact as to whether Facade substantially performed under its contract with CNY, given that the parties' competing narratives both have evidentiary support (<i>see F. Garofalo Elec. Co. v New York Univ.</i>, <span class="citation" data-id="6090705"><a href="/opinion/6224005/f-garofalo-electric-co-v-new-york-university/#189" aria-description="Citation for case: F. Garofalo Electric Co. v. New York University">300 AD2d 186, 189</a></span> [1st Dept 2002]). Accordingly, Supreme Court properly denied defendants' motion to the extent it sought to dismiss the breach of contract cause of action and the claim for damages in quantum meruit. The same issues of fact preclude summary judgment dismissing Facade's cause of action for delay damages, notwithstanding the parties' contract's no-delay-damages clause (<i>see Corinno Civetta Constr. Corp. v City of New York</i>, <span class="citation" data-id="5537317"><a href="/opinion/5688147/corinno-civetta-construction-corp-v-city-of-new-york/#309" aria-description="Citation for case: Corinno Civetta Construction Corp. v. City of New York">67 NY2d 297, 309</a></span> [1986]).</p>
+<p>Defendants also did not establish their prima facie entitlement to summary judgment dismissing the complaint's allegations concerning breach of contract with respect to the issuance of joint checks. On this point, defendants merely pointed to perceived gaps in Facade's proof, rather than submitting evidence showing why its claims fail (<i>see Ricci v A.O. Smith Water Prods. Co.</i>, <span class="citation" data-id="4089353"><a href="/opinion/4312092/ricci-v-ao-smith-water-products-co/#516" aria-description="Citation for case: Ricci v. A.O. Smith Water Products Co.">143 AD3d 516, 516</a></span> [1st Dept 2016]). Indeed, CNY's president acknowledged in an affidavit that there was an agreement to make some payments by joint check, and that some payments were, in fact, made that way.</p>
+<p>However, Supreme Court should have dismissed Facade's fourth cause of action to the extent it was predicated on the cardinal change doctrine because the cause of action as so pleaded is duplicative of Facade's other claims, as they are premised [*2]on the same core facts, the termination of the contract before completion, and seek essentially the same money damages.</p>
+<p>As to the cause of action under Lien Law article 3-A, this Court, in a prior decision, affirmed Supreme Court's denial of Facade's motion for class certification of that cause of action (<i>see FaÇade Tech., LLC v CNY Constr. 701 LLC</i>, <span class="citation no-link">216 AD3d 509</span>, 510 [1st Dept 2023]). Because Lien Law article 3-A claims cannot be maintained by an individual plaintiff, but rather only "in a representative action brought for the benefit of all beneficiaries of the trust", we grant defendants' motion to the extent it sought to dismiss that cause of action (Lien Law § 77[1]; <i>Pizzarotti, LLC v X-Treme Concrete Inc.</i>, <span class="citation no-link">205 AD3d 487</span>, 489 [1st Dept 2022]).</p>
+<p>We reject Facade's argument that defendants cannot pursue their counterclaim for remediation damages because of a subsequent foreclosure sale of the property. Rather, defendants' right to pursue such damages was preserved in both the contract with Facade and a later liquidation agreement between CNY and the subsequent purchaser of the property owner's interest in the project.</p>
+<p>Supreme Court should also have granted Facade's motion insofar as it sought dismissal of defendants' counterclaims for negligence, intentional and/or negligent misrepresentation, intentional interference with contract, and contractual indemnity and counsel fees, as the defendants do not oppose this relief on appeal.</p>
+<p>We have considered the parties' remaining contentions and find them unavailing.</p>
+<p>THIS CONSTITUTES THE DECISION AND ORDER OF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.</p>
+<p>ENTERED: April 8, 2025</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

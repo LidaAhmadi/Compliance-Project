@@ -1,0 +1,72 @@
+<div>
+
+Winter v Cornwall Police Dept. (<span class="citation" data-id="10841944"><a href="/opinion/10375356/winter-v-cornwall-police-dept/" aria-description="Citation for case: Winter v. Cornwall Police Dept.">2025 NY Slip Op 02099</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Winter v Cornwall Police Dept.</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10841944"><a href="/opinion/10375356/winter-v-cornwall-police-dept/" aria-description="Citation for case: Winter v. Cornwall Police Dept.">2025 NY Slip Op 02099</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 9, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 9, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>BETSY BARROS, J.P.
+<br>PAUL WOOTEN
+<br>DEBORAH A. DOWLING
+<br>CARL J. LANDICINO, JJ.
+
+<div align="center"></div>
+<br>2023-08033
+<br> (Index No. 903/23)
+
+<br><br><div align="center"><b>[*1]Michael H. Winter, appellant 
+<br><br>v<br><br>Cornwall Police Department, et al., respondents.
+</b></div><br><br>
+<br><br>
+<p>Michael H. Winter, Hardwick, Vermont, appellant pro se.</p>
+<p>Drake Loeb PLLC, New Windsor, NY (Stephen J. Gaba and Michael Barfield of counsel), for respondents.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action, inter alia, to recover damages for negligence, the plaintiff appeals from an order of the Supreme Court, Orange County (David S. Zuckerman, J.), dated June 23, 2023. The order, insofar as appealed from, granted that branch of the defendants' motion which was pursuant to CPLR 3211(a)(7) to dismiss the complaint for failure to state a cause of action.</p>
+<p>ORDERED that the order is affirmed insofar as appealed from, with costs.</p>
+<p>The plaintiff commenced this action against the defendants, Cornwall Police Department (hereinafter the Police Department) and Town of Cornwall, alleging, inter alia, that their negligence had caused the loss of certain of his personal property. The defendants moved, among other things, pursuant to CPLR 3211(a)(7) to dismiss the complaint for failure to state a cause of action. In an order dated June 23, 2023, the Supreme Court, inter alia, granted that branch of the defendants' motion. The plaintiff appeals.</p>
+<p>As a threshold matter, to the extent the plaintiff contends that the Supreme Court erred in denying his motion for leave to enter a default judgment against the defendants, that contention is not properly before this Court, as he did not appeal from the order denying that motion (<i>see</i> CPLR 5515; <i>J.S. v P.B.</i>, <span class="citation no-link">176 AD3d 790</span>, 792).</p>
+<p>Contrary to the plaintiff's contention, the Supreme Court properly granted that branch of the defendants' motion which was pursuant to CPLR 3211(a)(7) to dismiss the complaint for failure to state a cause of action. First, the court properly granted that branch of the defendants' motion which was to dismiss the complaint insofar as asserted against the Police Department, since departments, such as the Police Department, do not have a legal identity separate and apart from the municipality and, as such, cannot independently be sued (<i>see</i> Town Law § 150[1]; <i>Stevens v Town of E. Fishkill Police Dept.</i>, <span class="citation no-link">198 AD3d 832</span>, 833). In addition, the court properly granted that branch of the defendants' motion which was to dismiss the cause of action alleging negligence insofar as asserted against the Town. Contrary to the plaintiff's contention, he failed to allege that the Town voluntarily assumed a special duty to him beyond that owed to the general public (<i>see Maldovan v County of Erie</i>, <span class="citation no-link">39 NY3d 166</span>, 171; <i>see also Ferreira v City of Binghamton</i>, <span class="citation no-link">38 NY3d 298</span>, 308-310).</p>
+<p>To the extent the plaintiff sought relief in the complaint related to the Town's alleged denial of his requests pursuant to the Freedom of Information Law (Public Officers Law art 6; hereinafter FOIL), and has not abandoned that claim on appeal, the plaintiff failed to allege that he filed a timely appeal to the appropriate authority from the denial of those FOIL requests, as is necessary before seeking recourse in the courts (<i>see <span class="citation no-link">id.</span></i> § 89[4][a]; <i>Matter of Kurland v McLaughlin</i>, <span class="citation" data-id="5888877"><a href="/opinion/6026123/kurland-v-mclaughlin/#949" aria-description="Citation for case: Kurland v. McLaughlin">122 AD2d 947, 949</a></span>). To the extent the plaintiff attempts, for the first time on appeal, to characterize the complaint as stating a cause of action pursuant to <span class="citation no-link">18 USC § 4</span>, that statute does not provide for a private cause of action (<i>see Meinhardt v Escapule</i>, <span class="citation no-link">2016 WL 5393760</span>, *3, <span class="citation no-link">2016 US Dist LEXIS 132355</span>, *8 [D Ariz, No. CV-14-02677-PHX-GMS]).</p>
+<p>Accordingly, the Supreme Court properly granted that branch of the defendants' motion which was pursuant to CPLR 3211(a)(7) to dismiss the complaint for failure to state a cause of action.</p>
+<p>In light of our determination, we need not reach the defendants' remaining contentions.</p>
+<p>BARROS, J.P., WOOTEN, DOWLING and LANDICINO, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

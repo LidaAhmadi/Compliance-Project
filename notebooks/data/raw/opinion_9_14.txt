@@ -1,0 +1,72 @@
+<div>
+
+Velazquez v County of Westchester (<span class="citation" data-id="10849445"><a href="/opinion/10382857/velazquez-v-county-of-westchester/" aria-description="Citation for case: Velazquez v. County of Westchester">2025 NY Slip Op 02369</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Velazquez v County of Westchester</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10849445"><a href="/opinion/10382857/velazquez-v-county-of-westchester/" aria-description="Citation for case: Velazquez v. County of Westchester">2025 NY Slip Op 02369</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 23, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 23, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>CHERYL E. CHAMBERS, J.P.
+<br>WILLIAM G. FORD
+<br>JANICE A. TAYLOR
+<br>LAURENCE L. LOVE, JJ.
+
+<div align="center"></div>
+<br>2023-07283
+<br> (Index No. 55473/21)
+
+<br><br><div align="center"><b>[*1]Richard Velazquez, appellant, 
+<br><br>v<br><br>County of Westchester, et al., respondents, et al., defendant.
+</b></div><br><br>
+<br><br>
+<p>Belluck &amp; Fox, LLP, New York, NY (Tatiana Galbrecht and Michael A. Macrides of counsel), for appellant.</p>
+<p>John M. Nonna, County Attorney, White Plains, NY (Shawna C. MacLeod of counsel), for respondents.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action to recover damages for personal injuries, the plaintiff appeals from an order of the Supreme Court, Westchester County (Alexandra D. Murphy, J.), dated May 31, 2023. The order granted the motion of the defendants County of Westchester and Westchester County Department of Parks and Recreation and Conservation for summary judgment dismissing the complaint insofar as asserted against them.</p>
+<p>ORDERED that the order is reversed, on the law, with costs, and the motion of the defendants County of Westchester and Westchester County Department of Parks and Recreation and Conservation for summary judgment dismissing the complaint insofar as asserted against them is denied.</p>
+<p>The plaintiff commenced this action to recover damages for personal injuries he allegedly sustained when he fell while riding his bicycle after colliding with the arm of a toll booth at the North White Plains train station parking lot. Thereafter, the defendants County of Westchester and Westchester County Department of Parks and Recreation and Conservation (hereinafter together the defendants) moved for summary judgment dismissing the complaint insofar as asserted against them. In an order dated May 31, 2023, the Supreme Court granted the motion. The plaintiff appeals.</p>
+<p>"Owners and parties in possession of a property are under a duty to maintain their property in a reasonably safe condition in view of the existing circumstances, including the likelihood of injury to others, the seriousness of the injury, and the burden of avoiding the risk" (<i>Smith v Dutchess Motor Lodge</i>, <span class="citation no-link">213 AD3d 881</span>, 882; <i>see Saunders v Nostrand 1543, LLC</i>, <span class="citation no-link">230 AD3d 1261</span>, 1262). "In a premises liability case, a defendant property owner or occupant who moves for summary judgment has the initial burden of making a prima facie showing that it neither created the alleged defective condition nor had actual or constructive notice of its existence" (<i>Curto v Kahn Prop. Owner, LLC</i>, <span class="citation no-link">225 AD3d 660</span>, 660 [internal quotation marks omitted]). "Generally, the issue of whether a dangerous or defective condition exists depends on the facts of each case and is a question of fact for the jury" (<i>Snyder v AFCO Avports Mgt., LLC</i>, <span class="citation no-link">232 AD3d 209</span>, 212-213; <i>see Trincere v County of Suffolk</i>, <span class="citation" data-id="2023822"><a href="/opinion/2023822/trincere-v-county-of-suffolk/#977" aria-description="Citation for case: Trincere v. County of Suffolk">90 NY2d 976, 977</a></span>).</p>
+<p>However, a property owner has "no duty to protect or warn against an open and obvious condition that, as a matter of law, is not inherently dangerous" (<i>Cortes v King Kullen Grocery Co., Inc.</i>, <span class="citation no-link">210 AD3d 949</span>, 950 [internal quotation marks omitted]; <i>see Cerrato v Jacobs</i>, <span class="citation no-link">173 AD3d 1134</span>, 1135). "A condition is open and obvious if it is readily observable by those employing the reasonable use of their senses, given the conditions at the time of the accident" (<i>Rider v Manhattan Monster, Inc.</i>, <span class="citation no-link">208 AD3d 807</span>, 808 [internal quotation marks omitted]). "The determination of whether an asserted hazard is open and obvious cannot be divorced from the surrounding circumstances, and whether a condition is not inherently dangerous, or constitutes a reasonably safe environment, depends on the totality of the specific facts of each case" (<i><span class="citation no-link">id.</span></i> [alteration and internal quotation marks omitted]; <i>see Papetti v City of Long Beach</i>, <span class="citation no-link">227 AD3d 919</span>, 920). "A condition that is ordinarily apparent to a person making reasonable use of his or her senses may be rendered a trap for the unwary where the condition is obscured or the plaintiff is distracted" (<i>Sebagh v Capital Fitness, Inc.</i>, <span class="citation no-link">202 AD3d 853</span>, 855 [internal quotation marks omitted]). Thus, "[t]he issue of whether a condition is open and obvious and not inherently dangerous is case-specific, and usually a question of fact for a jury" (<i>Kean-Chong v MBA-Vernon Blvd., LLC</i>, <span class="citation no-link">228 AD3d 851</span>, 852 [internal quotation marks omitted]; <i>see Graffino v City of New York</i>, <span class="citation no-link">162 AD3d 990</span>, 991).</p>
+<p>Here, the defendants' submissions failed to establish, prima facie, that, based on the surrounding circumstances as they existed at the time of the accident, the toll arm was open and obvious and not inherently dangerous (<i>see Johnson v 1451 Assoc., L.P.</i>, <span class="citation no-link">225 AD3d 752</span>, 753-754; <i>Evans v Fields</i>, <span class="citation no-link">217 AD3d 656</span>, 657). Notably, the accident occurred on one of the first nights that the toll arm was left in a downward position and, according to the plaintiff, it had "blended" in with the background to the extent that the plaintiff did not see it until "inches" before hitting it. Moreover, the only photographs included in the defendants' motion papers were of poor quality and little probative value (<i>see Louima v Jims Realty, LLC</i>, <span class="citation" data-id="2782227"><a href="/opinion/2782227/louima-v-jims-realty-llc/#944" aria-description="Citation for case: Louima v. Jims Realty, LLC">125 AD3d 943, 944</a></span>). The defendants also failed to demonstrate, prima facie, that they did not create the alleged defective condition or that they did not have actual or constructive notice of the condition's existence (<i>see Parrinello v Independence Plaza SC, LLC</i>, <span class="citation no-link">189 AD3d 1441</span>, 1443).</p>
+<p>Since the defendants failed to satisfy their prima facie burden, the Supreme Court should have denied their motion for summary judgment dismissing the complaint insofar as asserted against them without regard to the sufficiency of the plaintiff's opposition papers (<i>see Winegrad v New York Univ. Med. Ctr.</i>, <span class="citation" data-id="5536915"><a href="/opinion/5687761/winegrad-v-new-york-university-medical-center/#853" aria-description="Citation for case: Winegrad v. New York University Medical Center">64 NY2d 851, 853</a></span>).</p>
+<p>The defendants' remaining contention is without merit.</p>
+<p>CHAMBERS, J.P., FORD, TAYLOR and LOVE, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

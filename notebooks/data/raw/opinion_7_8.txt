@@ -1,0 +1,72 @@
+<div>
+
+Green v Forster &amp; Garbus, LLP (<span class="citation" data-id="10849490"><a href="/opinion/10382902/green-v-forster-garbus-llp/" aria-description="Citation for case: Green v. Forster &amp; Garbus, LLP">2025 NY Slip Op 02324</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Green v Forster &amp; Garbus, LLP</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10849490"><a href="/opinion/10382902/green-v-forster-garbus-llp/" aria-description="Citation for case: Green v. Forster &amp; Garbus, LLP">2025 NY Slip Op 02324</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 23, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 23, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>CHERYL E. CHAMBERS, J.P.
+<br>PAUL WOOTEN
+<br>LOURDES M. VENTURA
+<br>LAURENCE L. LOVE, JJ.
+
+<div align="center"></div>
+<br>2023-07840
+<br> (Index No. 608180/22)
+
+<br><br><div align="center"><b>[*1]Harold Green, appellant, 
+<br><br>v<br><br>Forster &amp; Garbus, LLP, respondent.
+</b></div><br><br>
+<br><br>
+<p>Sanders Law Group, Uniondale, NY (Jonathan M. Cader of counsel), for appellant.</p>
+<p>Robert L. Arleo, Esq., P.C., New York, NY, for respondent.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action to recover damages pursuant to the Fair Debt Collection Practices Act (<span class="citation no-link">15 USC § 1692</span><i> et seq.</i>), the plaintiff appeals from an order of the Supreme Court, Suffolk County (David T. Reilly, J.), dated January 9, 2023. The order granted the defendant's motion pursuant to CPLR 3211(a)(3) to dismiss the complaint.</p>
+<p>ORDERED that the order is affirmed, with costs.</p>
+<p>In July 2018, the defendant, a law firm specializing in debt collection, sent the plaintiff a notice seeking to collect upon an alleged debt he owed to a third party (hereinafter the notice). The plaintiff then commenced an action in the United States District Court for the Eastern District of New York (hereinafter the federal action), alleging that the defendant violated the Fair Debt Collection Practices Act (<span class="citation no-link">15 USC § 1692</span><i> et seq.</i>; hereinafter FDCPA) by issuing the notice (<i>see Green v Forster &amp; Garbus, LLP</i>, <span class="citation no-link">2021 WL 8087869</span>, *1, <span class="citation no-link">2021 US Dist LEXIS 203571</span>, *1 [ED NY, No. 19-CV-3550 (JS)(SIL)], <i>report and recommendation rejected</i> <span class="citation no-link">2022 WL 939743</span>, <span class="citation no-link">2022 US Dist LEXIS 57675</span> [ED NY, No. 19-CV-3550 (JS)(SIL)]). Following the dismissal of the federal action on the ground that he lacked article III standing (<i>see Green v Forster &amp; Garbus, LLP</i>, <span class="citation no-link">2022 WL 939743</span>, *2-4, <span class="citation no-link">2022 US Dist LEXIS 57675</span>, *2-9), the plaintiff commenced this action against the defendant. In the complaint, the plaintiff asserted that the notice violated the FDCPA because it was "confus[ing] . . . as to the identity of the creditor," without asserting that it caused him any actual damages. In May 2022, the defendant moved pursuant to CPLR 3211(a)(3) to dismiss the complaint, arguing that the plaintiff lacked standing. The plaintiff opposed the motion. By order dated January 9, 2023, the Supreme Court granted the defendant's motion. The plaintiff appeals.</p>
+<p>"Congress enacted the FDCPA in 1977 . . . to eliminate abusive debt collection practices, to ensure that debt collectors who abstain from such practices are not competitively disadvantaged, and to promote consistent state action to protect consumers" (<i>Jerman v Carlisle, McNellie, Rini, Kramer &amp; Ulrich, L.P.A.</i>, <span class="citation" data-id="9413270"><a href="/opinion/2357/jerman-v-carlisle-mcnellie-rini-kramer-ulrich-lpa/#577" aria-description="Citation for case: Jerman v. Carlisle, McNellie, Rini, Kramer &amp; Ulrich, L.P.A.">559 US 573, 577</a></span>, citing <span class="citation no-link">15 USC § 1692</span>[e]; <i>see</i> 12 CFR 1006.1[b]). The FDCPA prohibits debt collectors from engaging in certain practices, such as "mak[ing] false, deceptive, or misleading representations in connection with a debt" (<i>Obduskey v McCarthy &amp; Holthus LLP</i>, <span class="citation no-link">586 US 466</span>, 474; <i>see Heintz v Jenkins</i>, <span class="citation" data-id="117919"><a href="/opinion/117919/heintz-v-jenkins/#292" aria-description="Citation for case: Heintz v. Jenkins">514 US 291, 292-293</a></span>). To achieve its goals, "[t]he [FDCPA] imposes civil liability on debt collectors" who engage in "prohibited . . . practices" (<i>Jerman v Carlisle, McNellie, Rini, Kramer &amp; Ulrich, L.P.A.</i>, 559 US at [*2]576 [alterations and internal quotation marks omitted]; <i>see Henson v Santander Consumer USA Inc.</i>, <span class="citation no-link">582 US 79</span>, 81). "The FDCPA's private cause of action . . . provides that a person may recover 'any actual damage sustained by such person as a result of' an FDCPA violation and 'such additional damages as the court may allow'" "subject to [a] statutory cap[ ]" of $1,000 (<i>Trichell v Midland Credit Mgt., Inc.</i>, <span class="citation no-link">964 F3d 990</span>, 994, 1000 [11th Cir], quoting 15 USC § 1692k[a][1], [2][A]), as well as costs and "a reasonable attorney's fee as determined by the court" (15 USC § 1692k[a][3]).</p>
+<p>"Under the common law, . . . a court has no inherent power to right a wrong unless thereby the civil, property[,] or personal rights of the plaintiff . . . are affected" (<i>Society of Plastics Indus. v County of Suffolk</i>, <span class="citation" data-id="5539716"><a href="/opinion/5690342/society-of-plastics-industry-inc-v-county-of-suffolk/#772" aria-description="Citation for case: Society of Plastics Industry, Inc. v. County of Suffolk">77 NY2d 761, 772</a></span> [internal quotation marks omitted]). Therefore, "a court can act only when the rights of the party requesting relief are affected and that party has an actual legal stake in the matter being adjudicated" (<i>Tilcon N.Y., Inc. v Town of New Windsor</i>, <span class="citation no-link">172 AD3d 942</span>, 944 [internal quotation marks omitted]). "[A] plaintiff, in order to have standing in a particular dispute, must demonstrate an injury in fact that falls within the relevant zone of interests sought to be protected by law" (<i>Caprer v Nussbaum</i>, <span class="citation" data-id="5716769"><a href="/opinion/5860492/caprer-v-nussbaum/#183" aria-description="Citation for case: Caprer v. Nussbaum">36 AD3d 176, 183</a></span>; <i>see Donnelly v Teachers Fed. Credit Union</i>, <span class="citation no-link">228 AD3d 831</span>, 832). "The injury-in-fact requirement" of common-law standing "necessitates a showing that the party . . . has suffered a cognizable harm that is not tenuous, ephemeral, or conjectural but is sufficiently concrete and particularized to warrant judicial intervention" (<i>Matter of Mental Hygiene Legal Serv. v Daniels</i>, <span class="citation no-link">33 NY3d 44</span>, 50 [citation and internal quotation marks omitted]; <i>see Matter of Festa v Town of Oyster Bay</i>, <span class="citation no-link">210 AD3d 678</span>, 679-680).</p>
+<p>"Where a defendant seeks dismissal pursuant to CPLR 3211(a)(3) based on lack of standing, the burden is on the moving defendant to establish, prima facie, the plaintiff's lack of standing" (<i>Fossella v Adams</i>, <span class="citation no-link">225 AD3d 98</span>, 108 [internal quotation marks omitted]). "To defeat a defendant's motion to dismiss, the plaintiff has no burden of establishing its standing as a matter of law, but must merely raise a question of fact as to the issue" (<i>Sizova v Union Mut. Fire Ins. Co.</i>, <span class="citation no-link">217 AD3d 1007</span>, 1008 [internal quotation marks omitted]; <i>see Wilmington Trust, N.A. v Teo</i>, <span class="citation no-link">204 AD3d 735</span>, 736-737).</p>
+<p>Here, contrary to the plaintiff's contention, the defendant established, prima facie, that the plaintiff lacked common-law standing to pursue his FDCPA cause of action (<i>see Kraus v Credit Control Servs., Inc.</i>, ____ AD3d ____ [decided herewith]; <i>Sikh Forum, Inc. v Saluja</i>, <span class="citation no-link">227 AD3d 1024</span>, 1025). The plaintiff failed to allege facts demonstrating an injury-in-fact, since he merely asserted, without more, that the notice was confusing as to the identity of the creditor (<i>see Society of Plastics Indus. v County of Suffolk</i>, <span class="citation" data-id="5539716"><a href="/opinion/5690342/society-of-plastics-industry-inc-v-county-of-suffolk/#772" aria-description="Citation for case: Society of Plastics Industry, Inc. v. County of Suffolk">77 NY2d at 772</a></span>; <i>Nettles v Midland Funding LLC</i>, <span class="citation no-link">983 F3d 896</span>, 899-900 [7th Cir]; <i>Adams v Skagit Bonded Collectors, LLC</i>, <span class="citation no-link">836 Fed Appx 544</span>, 547 [9th Cir]). In opposition to the defendant's prima facie showing, the plaintiff failed to raise a question of fact (<i>see Sizova v Union Mut. Fire Ins. Co.</i>, 217 AD3d at 1008). To the extent the plaintiff contends that he possessed statutory standing under the FDCPA, separate and distinct from common-law standing (<i>see generally Matter of Harkenrider v Hochul</i>, <span class="citation no-link">38 NY3d 494</span>, 508; <i>Rudder v Pataki</i>, <span class="citation" data-id="2210555"><a href="/opinion/2210555/rudder-v-pataki/#278" aria-description="Citation for case: Rudder v. Pataki">93 NY2d 273, 278-281</a></span>; <i>Westchester County Dept. of Pub. Safety Police Benevolent Assn., Inc. v Westchester County</i>, <span class="citation" data-id="5714954"><a href="/opinion/5858682/westchester-county-department-of-public-safety-police-benevolent-assn-v/#594" aria-description="Citation for case: Westchester County Department of Public Safety Police...">35 AD3d 592, 594</a></span>), this contention is improperly raised for the first time on appeal (<i>see Kraus v Credit Control Servs., Inc.</i>, ____ AD3d ____ [decided herewith]; <i>Bank of N.Y. Mellon v Gordon</i>, <span class="citation no-link">171 AD3d 197</span>, 207; <i>Matter of Quast v Westchester County Bd. of Elections</i>, <span class="citation" data-id="4217575"><a href="/opinion/4440322/matter-of-quast-v-westchester-county-bd-of-elections/#675" aria-description="Citation for case: Matter of Quast v. Westchester County Bd. of Elections">155 AD3d 674, 675</a></span>).</p>
+<p>Accordingly, the Supreme Court properly granted the defendant's motion pursuant to CPLR 3211(a)(3) to dismiss the complaint.</p>
+<p>CHAMBERS, J.P., WOOTEN, VENTURA and LOVE, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

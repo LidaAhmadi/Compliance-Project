@@ -1,0 +1,71 @@
+<div>
+
+Grimes v Figueroa (<span class="citation" data-id="11022109"><a href="/opinion/10555521/grimes-v-figueroa/" aria-description="Citation for case: Grimes v. Figueroa">2025 NY Slip Op 02762</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Grimes v Figueroa</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="11022109"><a href="/opinion/10555521/grimes-v-figueroa/" aria-description="Citation for case: Grimes v. Figueroa">2025 NY Slip Op 02762</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on May 7, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>HECTOR D. LASALLE, P.J.
+<br>WILLIAM G. FORD
+<br>HELEN VOUTSINAS
+<br>DONNA-MARIE E. GOLIA, JJ.
+
+<div align="center"></div>
+<br>2021-09347
+<br> (Index No. 604198/20)
+
+<br><br><div align="center"><b>[*1]Natasha Grimes, etc., appellant, 
+<br><br>v<br><br>Reinaldo Figueroa, etc., respondent, et al., defendants.
+</b></div><br><br>
+<br><br>
+<p>The Fitzgerald Law Firm, P.C., Yonkers, NY (John M. Daly and Mitchell Gittin of counsel), for appellant.</p>
+<p>Rubin Paterniti Gonzalez Rizzo Kaufman LLP, New York, NY (Jonathan Waldauer of counsel), for respondent.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action, inter alia, to recover damages for medical malpractice, the plaintiff appeals from an order of the Supreme Court, Suffolk County (Linda Kevins, J.), dated December 6, 2021. The order granted the motion of the defendant Reinaldo Figueroa pursuant to CPLR 3211(a)(8) to dismiss the complaint insofar as asserted against him for lack of personal jurisdiction and denied the plaintiff's cross-motion pursuant to CPLR 306-b to extend the time to serve the summons and complaint upon that defendant.</p>
+<p>ORDERED that the order is modified, on the law, by deleting the provision thereof granting the motion of the defendant Reinaldo Figueroa pursuant to CPLR 3211(a)(8) to dismiss the complaint insofar as asserted against him for lack of personal jurisdiction, and substituting therefor a provision denying the motion; as so modified, the order is affirmed, with costs to the plaintiff.</p>
+<p>On March 4, 2020, the plaintiff, as parent and natural guardian of the infant N. J. G., commenced this action, inter alia, to recover damages for medical malpractice, alleging that the defendants rendered negligent care and treatment during the pregnancy and delivery of the infant. The defendant Reinaldo Figueroa (hereinafter the defendant) served an answer and subsequently moved pursuant to CPLR 3211(a)(8) to dismiss the complaint insofar as asserted against him for lack of personal jurisdiction due to defective service of process. In support of the motion, the defendant submitted an affidavit of service sworn to on March 24, 2020, in which the process server described the defendant as "[a] Connecticut corporation" and attested that service was effectuated on the defendant by serving "Donald F. Keene JD," as "Authorized Agent" thereof (<i>cf. id. </i>§ 311[a][1]). In opposition to the motion, the plaintiff submitted an amended affidavit of service in which the process server attested that service was effectuated upon the defendant on March 24, 2020, pursuant to CPLR 308(2) by delivering a copy of the summons and complaint to Keene, a person of suitable age and discretion, at the defendant's actual place of business and by mailing a copy of the summons and complaint to the defendant at his actual place of business. In addition, the plaintiff submitted an affidavit of service sworn to on January 25, 2021, in which the process server attested that service was effectuated upon the defendant on January 7, 2021, pursuant to CPLR 308(2) by delivering a copy of the summons and complaint to "Denise Cotto" at the defendant's actual place of business and by mailing a copy of the summons and complaint to the defendant at his actual place of business. [*2]The plaintiff argued that the service on January 7, 2021, was timely pursuant to Executive Order (A. Cuomo) No. 202.8 (9 NYCRR 8.202.8). Alternatively, the plaintiff cross-moved pursuant to CPLR 306-b to extend the time to serve the summons and complaint upon the defendant. In an order dated December 6, 2021, the Supreme Court granted the defendant's motion and denied the plaintiff's cross-motion. The plaintiff appeals.</p>
+<p>Contrary to the plaintiff's contention, the amended affidavit of service could not cure the deficiencies in the original affidavit of service, regardless of whether leave to amend the proof of service was sought (<i>see id. </i>§ 305[c]; <i>John Doe v Mesivtha, Inc.</i>, <span class="citation no-link">226 AD3d 971</span>, 973; <i>HSBC Bank USA, N.A. v Rini</i>, <span class="citation no-link">218 AD3d 664</span>; <i>Jampolskaya v Ilona Genis, MD, P.C.</i>, <span class="citation no-link">205 AD3d 785</span>, 787). Nevertheless, the Supreme Court erred in granting the defendant's motion pursuant to CPLR 3211(a)(8) to dismiss the complaint insofar as asserted against him for lack of personal jurisdiction.</p>
+<p>Service of a summons and complaint must be made within 120 days after commencement of the action (<i>see</i> CPLR 306-b). On March 20, 2020, on which date the time for the plaintiff to serve process had not lapsed, former Governor Andrew M. Cuomo issued Executive Order 202.8, which tolled "any specific time limit for the commencement, filing, or service of any legal action, notice, motion, or other process or proceeding, as prescribed by the procedural laws of the state, including but not limited to . . . the civil practice law and rules" (<i>see Blue Lagoon, LLC v Reisman</i>, <span class="citation no-link">214 AD3d 938</span>, 942). The former Governor issued a series of nine subsequent executive orders that continued the toll that was put in place by Executive Order 202.8 through November 3, 2020 (<i>see Brash v Richards</i>, <span class="citation no-link">195 AD3d 582</span>, 583-584). "A toll . . . suspends the running of the applicable statute of limitations for a finite . . . time period," and "the period of the toll is excluded from the calculation of the [relevant time period]" (<i>Chavez v Occidental Chem. Corp.</i>, <span class="citation no-link">35 NY3d 492</span>, 505 n 8; <i>see Brash v Richards</i>, 195 AD3d at 582).</p>
+<p>Here, in opposition to the defendant's motion, the plaintiff demonstrated that the 120-day period (<i>see </i>CPLR 306-b) had not expired when the defendant was served pursuant to CPLR 308(2) on January 7, 2021, such that the service was timely (<i>see Cruz v Guaba</i>, <span class="citation no-link">226 AD3d 964</span>, 965; <i>Baker v 40 Wall St. Holdings Corp.</i>, <span class="citation no-link">226 AD3d 637</span>, 638). As a consequence, "[t]he plaintiff's re-service of the summons and complaint during the pendency of the defendant's motion 'effectively obviated his jurisdictional objection to the action against him, and constituted prima facie evidence of proper service pursuant to CPLR 308(2)'" (<i>Deutsche Bank Trust Co. Ams. v Marous</i>, <span class="citation no-link">186 AD3d 669</span>, 671-672, quoting <i>Rosenberg v Trazzera</i>, <span class="citation" data-id="4147543"><a href="/opinion/4370283/rosenberg-v-trazzera/#1101" aria-description="Citation for case: Rosenberg v. Trazzera">147 AD3d 1099, 1101</a></span>; <i>see Bank of Am., N.A. v Valentino</i>, <span class="citation" data-id="2794068"><a href="/opinion/2794068/bank-of-america-national-assn-v-valentino/#904" aria-description="Citation for case: Bank of America, National Ass&#x27;n v. Valentino">127 AD3d 904, 904</a></span>). In response, the defendant failed to rebut the prima facie proof of proper service set forth in the affidavit of service sworn to on January 25, 2021 (<i>see Deutsche Bank Trust Co. Ams. v Marous</i>, 186 AD3d at 672; <i>Rosenberg v Trazzera</i>, <span class="citation" data-id="4147543"><a href="/opinion/4370283/rosenberg-v-trazzera/#1101" aria-description="Citation for case: Rosenberg v. Trazzera">147 AD3d at 1101</a></span>; <i>Bank of Am., N.A. v Valentino</i>, <span class="citation" data-id="2794068"><a href="/opinion/2794068/bank-of-america-national-assn-v-valentino/#904" aria-description="Citation for case: Bank of America, National Ass&#x27;n v. Valentino">127 AD3d at 904</a></span>). Accordingly, the Supreme Court should have denied the defendant's motion pursuant to CPLR 3211(a)(8) to dismiss the complaint insofar as asserted against him for lack of personal jurisdiction.</p>
+<p>In light of our determination, it is not necessary to consider the plaintiff's remaining contentions.</p>
+<p>LASALLE, P.J., FORD, VOUTSINAS and GOLIA, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

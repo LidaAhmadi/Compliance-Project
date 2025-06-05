@@ -1,0 +1,71 @@
+<div>
+
+Malek v Malek (<span class="citation" data-id="11022105"><a href="/opinion/10555517/malek-v-malek/" aria-description="Citation for case: Malek v. Malek">2025 NY Slip Op 02766</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Malek v Malek</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="11022105"><a href="/opinion/10555517/malek-v-malek/" aria-description="Citation for case: Malek v. Malek">2025 NY Slip Op 02766</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on May 7, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>LARA J. GENOVESI, J.P.
+<br>VALERIE BRATHWAITE NELSON
+<br>BARRY E. WARHIT
+<br>JAMES P. MCCORMACK, JJ.
+
+<div align="center"></div>
+<br>2023-01784
+<br> (Index No. 516802/17)
+
+<br><br><div align="center"><b>[*1]Mordechai Hersh Malek, etc., et al., appellants,
+<br><br>v<br><br>Chaim Hillel Malek, et al., respondents,
+</b></div><br><br>
+<br><br>
+<p>J. Michael Gottesman, New York, NY, for appellants.</p>
+<p>Howard R. Birnbach, Great Neck, NY, for respondents.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action, inter alia, pursuant to RPAPL article 15 to quiet title to real property, the plaintiffs appeal from an order of the Supreme Court, Kings County (Wayne P. Saitta, J.), dated December 15, 2022. The order, insofar as appealed from, denied those branches of the plaintiffs' motion which were for a preliminary injunction enjoining the defendants from signing checks or documents on behalf of the defendant E &amp; S Realty Management, LLC, and to appoint a receiver.</p>
+<p>ORDERED that the order is affirmed insofar as appealed from, with costs.</p>
+<p>In August 2017, the plaintiffs commenced this action, inter alia, pursuant to RPAPL article 15 to quiet title to real property located in Brooklyn (hereinafter the property). The complaint alleged, among other things, that the signature of the plaintiff Mordechai Hersh Malek had been forged on a May 2001 deed, which purportedly conveyed the property to the plaintiff E &amp; S Realty Trust, and that the signatures of the other grantors, including the defendants Shulem Malek, Chaim Hillel Malek, and Chaya Sura Radzminsky, had also been forged. The complaint sought, among other relief, to cancel the May 2001 deed, as well as a November 2007 deed purportedly conveying the property to the defendant E &amp; S Realty Management, LLC (hereinafter E &amp; S Realty Management).</p>
+<p>The plaintiffs subsequently moved, inter alia, for a preliminary injunction enjoining the defendants from selling or transferring the property, altering the ownership of E &amp; S Realty Management and/or the property, and signing checks or documents on behalf of E &amp; S Realty Management, and to appoint a receiver for the property and E &amp; S Realty Management. In an order dated December 15, 2022, the Supreme Court, among other things, granted that branch of the plaintiff's motion which was for a preliminary injunction only to the extent of enjoining the defendants from selling or transferring the property and the ownership interests of E &amp; S Realty Management during the pendency of the action. The court also denied those branches of the motion which were for a preliminary injunction enjoining the defendants from signing checks or documents on behalf of E &amp; S Realty Management and to appoint a receiver. The plaintiffs appeal.</p>
+<p>CPLR 6401(a) permits the court, upon a motion by a person with an "apparent interest" in property, to appoint a temporary receiver of that property, inter alia, where "there is danger" that it will be "lost, materially injured or destroyed" (<i>see Rozenberg v Perlstein</i>, <span class="citation no-link">200 AD3d 915</span>, 920). However, "[t]he appointment of a temporary receiver is an extreme remedy resulting in the taking and withholding of possession of property from a party without an adjudication on the [*2]merits" (<i>Vardaris Tech, Inc. v Paleros Inc.</i>, <span class="citation" data-id="5746830"><a href="/opinion/5889986/vardaris-tech-inc-v-paleros-inc/#632" aria-description="Citation for case: Vardaris Tech, Inc. v. Paleros Inc.">49 AD3d 631, 632</a></span> [internal quotation marks omitted]; <i>see Rozenberg v Perlstein</i>, 200 AD3d at 920). Therefore, "[a] party moving for the appointment of a temporary receiver must submit 'clear and convincing evidence of irreparable loss or waste to the subject property and that a temporary receiver is needed to protect their interests'" (<i>Board of Mgrs. of Nob Hill Condominium Section II v Board of Mgrs. of Nob Hill Condominium Section I</i>, <span class="citation multiple-matches"><a href="/c/AD3d/100/673/">100 AD3d 673</a></span>, 673, quoting <i>Natoli v Milazzo</i>, <span class="citation" data-id="5782329"><a href="/opinion/5924417/natoli-v-milazzo/#1310" aria-description="Citation for case: Natoli v. Milazzo">65 AD3d 1309, 1310</a></span>; <i>see Rozenberg v Perlstein</i>, 200 AD3d at 920). Here, the plaintiffs failed to make such a clear evidentiary showing (<i>see Manning-Kranes v Manning-Franzman</i>, <span class="citation no-link">175 AD3d 1403</span>; <i>Board of Mgrs. of Nob Hill Condominium Section II v Board of Mgrs. of Nob Hill Condominium Section I</i>, 100 AD3d at 673). Accordingly, the Supreme Court providently exercised its discretion in denying that branch of the plaintiffs' motion which was for the appointment of a receiver for the property and E &amp; S Realty Management.</p>
+<p>"To establish the right to a preliminary injunction, a movant must demonstrate (1) the likelihood of success on the merits, (2) irreparable injury absent a preliminary injunction, and (3) that the equities balance in the movant's favor" (<i>Benaim v S2 Corona, LLC</i>, <span class="citation no-link">214 AD3d 760</span>, 761; <i>see</i> CPLR 6301; <i>Braunstein v Hodges</i>, <span class="citation no-link">157 AD3d 850</span>). "The decision whether to grant or deny a preliminary injunction rests in the sound discretion of the court hearing the motion" (<i>Benaim v S2 Corona, LLC</i>, 214 AD3d at 761; <i>see Cong. Machon Chana v Machon Chana Women's Inst., Inc.</i>, <span class="citation no-link">162 AD3d 635</span>, 637). "Absent unusual or compelling circumstances, appellate courts are reluctant to disturb that determination" (<i>Cong. Machon Chana v Machon Chana Women's Inst., Inc.</i>, 162 AD3d at 637; <i>see Cushing v Sanford Equities Corp.</i>, <span class="citation no-link">223 AD3d 870</span>, 871). Here, the Supreme Court providently exercised its discretion in denying that branch of the plaintiffs' motion which was for a preliminary injunction enjoining the defendants from signing checks or documents on behalf of E &amp; S Realty Management. The plaintiffs failed to demonstrate irreparable injury absent the preliminary injunction (<i>see Benaim v S2 Corona, LLC</i>, 214 AD3d at 761).</p>
+<p>The plaintiffs' remaining contention is without merit.</p>
+<p>GENOVESI, J.P., BRATHWAITE NELSON, WARHIT and MCCORMACK, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

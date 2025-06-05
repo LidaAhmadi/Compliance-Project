@@ -1,0 +1,76 @@
+
+
+US Bank N.A. v Pane (2025 NY Slip Op 02619)
+
+
+
+
+
+US Bank N.A. v Pane
+
+
+2025 NY Slip Op 02619
+
+
+Decided on April 30, 2025
+
+
+Appellate Division, Second Department
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+Decided on April 30, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+ANGELA G. IANNACCI, J.P.
+PAUL WOOTEN
+BARRY E. WARHIT
+CARL J. LANDICINO, JJ.
+
+
+2023-05315
+ (Index No. 34293/11)
+
+[*1]US Bank National Association, etc., respondent,
+vSalvatore Pane, appellant, et al., defendants.
+
+
+Justin F. Pane, P.C., Bohemia, NY, for appellant.
+Woods Oviatt Gilman LLP (Reed Smith LLP, New York, NY [Andrew B. Messite and Michael V. Margarella], of counsel), for respondent.
+
+
+
+DECISION &amp; ORDER
+In an action to foreclose a mortgage, the defendant Salvatore Pane appeals from an order and judgment of foreclosure and sale (one paper) of the Supreme Court, Suffolk County (S. Betsy Heckman Torres, J.), entered March 28, 2023. The order and judgment of foreclosure and sale, upon an order of the same court dated January 23, 2023, inter alia, granting the plaintiff's motion to confirm a referee's report and for a judgment of foreclosure and sale and denying that defendant's cross-motion pursuant to CPLR 3215(c) to dismiss the complaint insofar as asserted against him as abandoned, among other things, granted the same relief to the plaintiff and directed the sale of the subject property.
+ORDERED that the order and judgment of foreclosure and sale is affirmed, with costs.
+In November 2011, the plaintiff commenced this action against, among others, Salvatore Pane (hereinafter the defendant) to foreclose a mortgage on certain residential property located in Lindenhurst. The defendant failed to timely answer the complaint.
+On May 2, 2012, the plaintiff filed a request for judicial intervention (hereinafter RJI) seeking a residential mortgage foreclosure settlement conference. A foreclosure settlement conference was held on July 10, 2012, at which the defendant failed to appear, and the action was released from the foreclosure settlement part on the same day.
+On May 21, 2013, the plaintiff moved, inter alia, for leave to enter a default judgment against the defendant and for an order of reference. In an order dated February 25, 2014, the Supreme Court granted the plaintiff's motion and referred the matter to a referee to ascertain and compute the amount due to the plaintiff.
+In August 2019, the plaintiff moved to confirm the referee's report and for a judgment of foreclosure and sale. The defendant cross-moved pursuant to CPLR 3215(c) to dismiss the complaint insofar as asserted against him as abandoned. In an order dated January 23, 2023, the Supreme Court granted the plaintiff's motion and denied the defendant's cross-motion. On March 28, 2023, the court entered an order and judgment of foreclosure and sale, among other things, [*2]directing the sale of the subject property. The defendant appeals.
+CPLR 3215(c) provides that "[i]f the plaintiff fails to take proceedings for the entry of judgment within one year after [a defendant's] default, the court shall not enter judgment but shall dismiss the complaint as abandoned . . . unless sufficient cause is shown why the complaint should not be dismissed." "'The language of CPLR 3215(c) is not, in the first instance, discretionary, but mandatory, inasmuch as courts "shall" dismiss claims (CPLR 3215[c]) for which default judgments are not sought within the requisite one-year period, as those claims are then deemed abandoned'" (Deutsche Bank Natl. Trust Co. v O'Connor, 223 AD3d 872, 874, quoting Giglio v NTIMP, Inc., 86 AD3d 301, 307-308). "To establish sufficient cause, the plaintiff must 'proffer a reasonable excuse for the delay in timely moving for a default judgment and . . . demonstrate that the cause of action is potentially meritorious'" (id., quoting HSBC Bank USA, N.A. v Grella, 145 AD3d 669, 671). Where an action is subject to a mandatory settlement conference (see CPLR 3408), motions shall be held in abeyance while conferences are held and the one-year deadline imposed by CPLR 3215(c) is tolled (see 22 NYCRR 202.12-a[c][7]; Deutsche Bank Natl. Trust Co. v O'Connor, 223 AD3d at 874).
+Here, the defendant was personally served with process on February 22, 2012, and thus, had 20 days, or until March 13, 2012, to answer or otherwise appear in the action (see CPLR 320[a]; 3012[a]). The defendant failed to do so, and therefore, was in default as of March 14, 2012. Thus, the plaintiff had one year from March 14, 2012, to take proceedings for the entry of a default judgment (see id. § 3215[c]). The plaintiff did not take such proceedings until approximately 14 months later, when it moved, inter alia, for leave to enter a default judgment against the defendant and an order of reference in May 2013.
+Contrary to the plaintiff's contention, the one-year deadline pursuant to CPLR 3215(c) was not tolled for the period of approximately two months after the RJI was filed on May 2, 2012, and before the action was released from the foreclosure settlement part on July 10, 2012. Pursuant to CPLR 3408(a), mandatory settlement conferences must be held "in any residential foreclosure action involving a home loan as such term is defined in [RPAPL 1304], in which the defendant is a resident of the property subject to foreclosure" (CPLR 3408[a][1] [emphasis added]; see 22 NYCRR § 202.12-a[a]; Bank of N.Y. Mellon v Lee, 201 AD3d 852, 853; Richlew Real Estate Venture v Grant, 131 AD3d 1223, 1224). Here, the record reflects that the defendant was not a resident of the subject property at the time this action was commenced, and therefore, that the action was not subject to mandatory settlement conferences (see HSBC Bank USA, N.A. v Seidner, 159 AD3d 1035, 1036). Thus, the plaintiff's time to move for leave to enter a default judgment was not tolled while the matter was in the foreclosure settlement conference part (see id.).
+Further, "where . . . a settlement conference is a necessary prerequisite to obtaining a default judgment," the filing of an RJI seeking a mandatory foreclosure settlement conference constitutes the taking of proceedings for the entry of judgment pursuant to CPLR 3215(c) (Citimortgage, Inc. v Zaibak, 188 AD3d 982, 983; see U.S. Bank N.A. v Jerriho-Cadogan, 224 AD3d 788, 790). Here, however, since the action was not subject to mandatory foreclosure settlement conferences (see HSBC Bank USA, N.A. v Seidner, 159 AD3d 1035, 1036), a settlement conference was not "a necessary prerequisite to obtaining a default judgment" (Citimortgage, Inc. v Zaibak, 188 AD3d at 983), and therefore, the plaintiff's filing of the RJI did not constitute the taking of proceedings for the entry of judgment within the meaning of CPLR 3215(c).
+Nevertheless, under the particular circumstances of this case, the plaintiff demonstrated a reasonable excuse for failing to timely move for leave to enter a default judgment against the defendant based upon its reasonable belief that the action was subject to mandatory foreclosure settlement conferences (see U.S. Bank N.A. v 63 Holiday Drive Realty Corp., 230 AD3d 713, 714). Moreover, the plaintiff demonstrated a potentially meritorious cause of action.
+Accordingly, the Supreme Court properly granted the plaintiff's motion to confirm the referee's report and for a judgment of foreclosure and sale and denied the defendant's cross-motion pursuant to CPLR 3215(c) to dismiss the complaint insofar as asserted against him as [*3]abandoned.
+The defendant's remaining contentions are without merit.
+IANNACCI, J.P., WOOTEN, WARHIT and LANDICINO, JJ., concur.
+ENTER:
+Darrell M. Joseph
+Clerk of the Court
+
+
+
+
+
+
+
+

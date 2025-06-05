@@ -1,0 +1,68 @@
+
+
+U.S. Bank N.A. v DLJ Mtge. Capital, Inc. (2025 NY Slip Op 02139)
+
+
+
+
+
+U.S. Bank N.A. v DLJ Mtge. Capital, Inc.
+
+
+2025 NY Slip Op 02139
+
+
+Decided on April 10, 2025
+
+
+Appellate Division, First Department
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+Decided and Entered: April 10, 2025
+
+Before: Kern, J.P., Kennedy, Gesmer, Pitt-Burke, O'Neill Levy, JJ. 
+
+
+Index No. 653140/15, 654701/19|Appeal No. 4086-4087&amp;[M-708-M-876]|Case No. 2024-00716, 2024-00717|
+
+[*1]U.S. Bank National Association, etc., Plaintiff-Appellant-Respondent,
+vDLJ Mortgage Capital, Inc., et al., Defendants-Respondents-Appellants. 
+
+
+Selendy Gay PLLC, New York (Andrew R. Dunlap of counsel), appellant-respondent.
+Orrick, Herrington &amp; Sutcliffe LLP, New York (Daniel A. Rubens of counsel), for DLJ Mortgage Capital, Inc., respondent-appellant.
+Buchalter, A Professional Corporation, Seattle, WA (Joanne N. Davies of the bar of the State of Washington, admitted pro hac vice, of counsel), for Ameriquest Mortgage Company, respondent-appellant.
+
+
+
+Order, Supreme Court, New York County (Joel M. Cohen, J.), entered January 2, 2024, which, insofar as appealed from, granted defendants' motions to dismiss the 2015 action as to the first, second, and third causes of action and denied defendant DLJ Mortgage Capital, Inc.'s (DLJ) motion to dismiss as to the fourth cause of action, unanimously modified, on the law, to grant DLJ's motion in its entirety, and otherwise affirmed, without costs. Order, same court and Justice, entered January 2, 2024, which granted defendants' motions to dismiss the 2019 action, unanimously modified, on the law, to deny defendant DLJ's motion to dismiss as to the 2019 Notice Claims, and otherwise affirmed, without costs.
+These appeals involve two substantively identical breach of contract actions brought in 2015 and 2019 by plaintiff as trustee of the Asset Backed Securities Corporation Home Equity Loan Trust 2006-HE7, a residential mortgage-backed securities (RMBS) trust sponsored by defendant DLJ and involving mortgage loans originated or acquired and sold to DLJ by defendant Ameriquest Mortgage Company. Both the amended complaint in the 2015 action and the original complaint in the 2019 action assert the following four claims: (1) a claim against Ameriquest for breach of its obligation under § 3 of the Reconstitution Agreement (RA) "to cure or repurchase defective loans upon discovering or being notified of" breaches of the RA representations and warranties (R&amp;Ws) (first cause of action); (2) a claim against DLJ for breach of its obligation under § 2.03(a)(i) of the Pooling and Servicing Agreement (PSA) (the Backstop Provision) to repurchase loans in breach of the RA R&amp;Ws after Ameriquest failed to do so (third cause of action); (3) a claim against DLJ for breach of its obligation under § 2.03(a)(ii) of the PSA "to cure or repurchase defective loans upon discovering or being notified of" breaches of the PSA R&amp;Ws (second cause of action); and (4) a claim against DLJ for breach of its obligation under §§ 2.03 and 2.05 of the PSA to give prompt written notice to plaintiff upon discovering R&amp;W breaches (fourth cause of action).
+The claims in both actions based on DLJ's failure to notify plaintiff of R&amp;W breaches (fourth cause of action) should have been dismissed because DLJ had a repurchase obligation (see U.S. Bank N.A. v EquiFirst Corp., 234 AD3d 463, 463 [1st Dept 2025]).
+The claims in both actions based on defendants' obligation to cure or repurchase as triggered by breach notices sent in 2012 (portions of the first and third causes of action) were properly dismissed due to plaintiff's noncompliance with paragraph 4 of § 7.04 of the Mortgage Loan Purchase and Interim Servicing Agreement (MLPA) (the Notice of Discovery Deadline). This provision unambiguously excuses Ameriquest from its repurchase obligation (and therefore DLJ from its backstop repurchase obligation) where (as here, with respect to the 2012 notice loans) plaintiff fails to notify Ameriquest within [*2]90 days of discovering the alleged breaches. Contrary to plaintiff's claim, this Court did not previously find that the Notice of Discovery Deadline was ambiguous (see U.S. Bank N.A. v DLJ Mtge. Capital, Inc., 146 AD3d 603, 603-604 [1st Dept 2017]). Plaintiff's proposed alternative readings of the Notice of Discovery Deadline are inconsistent with its plain text.
+Plaintiff did not plead any claims in either action based on defendants' obligation to cure or repurchase as triggered by Ameriquest's independent discovery of RA R&amp;W breaches. Although plaintiff alleged that Ameriquest and DLJ knew or should have known of the RA R&amp;W breaches at the time of the RA and PSA closings, respectively, plaintiff did not rely on these allegations as a basis for its substantive repurchase claims. Rather, these allegations were made in support of plaintiff's argument that its failure to timely notify Ameriquest of the breaches with respect to the 2012 Notice Loans should be excused due to Ameriquest's own gross negligence and in support of plaintiff's failure to notify claim against DLJ. Therefore, these allegations were insufficient to put defendants on notice that the breach of a discovery-based obligation was also being pled (see Sebro Packaging Corp. v S.T.S. Indus., 93 AD2d 785, 785 [1st Dept 1983]).
+We decline to consider plaintiff's argument, made for the first time on appeal, that it should be granted leave to amend to add such claims. Even if considered, plaintiff's failure to proffer a reasonable excuse for its extended delay in moving to amend constitutes an independent basis to deny leave to amend (see Pecora v Pecora, 204 AD3d 611, 611-612 [1st Dept 2022]).
+Were we to reach the merits of plaintiff's purported discovery-based claims, we would find them unavailing. Pursuant to MLPA § 7.04 and the Backstop Provision, compliance with the Notice of Discovery Deadline is also a contractual condition precedent to bringing a breach of a discovery-based obligation against Ameriquest and DLJ. Therefore, plaintiff's noncompliance with the Notice of Discovery Deadline would be fatal to these claims if properly pled.
+We decline to consider plaintiff's argument that its noncompliance with the Notice of Discovery Deadline should be excused as futile, which was raised for the first time on appeal. In any event, this argument was already considered and rejected by this Court on a prior appeal (U.S. Bank N.A. v DLJ Mtge. Capital, Inc., 141 AD3d 431, 431-432 [1st Dept 2016], affd 33 NY3d 84 [2019]), and this prior determination constitutes the law of the case (see Board of Mgrs. of the 25 Charles St. Condominium v Seligson, 106 AD3d 130, 135 [1st Dept 2013]).
+The claims based on defendants' obligation to cure or repurchase as triggered by breach notices sent in 2019 (portions of the first, second, and third causes of action) (the 2019 Notice Claims) were properly dismissed from the 2015 action but not the 2019 action due to plaintiff's failure to provide pre-suit [*3]notice, as required by the Backstop Provision and paragraph 2 of MLPA § 7.04. Where, as here, an RMBS contract requires notice as a contractual condition precedent to suit, that notice must be loan-specific and must be provided "pre-suit" (see U.S. Bank N.A. v DLJ Mtge. Capital, Inc., 38 NY3d 169, 176-183 [2022] [HEAT 2007-1]). Where, as in the 2015 action, loan-specific notice is provided after suit is initiated but before an amended complaint is filed, such notice has not been provided "pre-suit" (see HEAT 2007-1, 38 NY3d at 183; Southern Wine &amp; Spirits of Am., Inc. v Impact Envtl. Eng'g, PLLC, 104 AD3d 613, 613 [1st Dept 2013]). Where, however, as in the 2019 action, notice is provided prior to initiation of the instant suit but after initiation of a prior suit on which the instant suit relies (pursuant to CPLR 205[a]) to establish timeliness, the pre-suit notice condition is satisfied (see U.S. Bank N.A. v DLJ Mtge. Capital, Inc., 33 NY3d 72, 76-82 [2019] [ABSHE V]; Southern Wine, 104 AD3d at 613).
+The 2019 action (including the 2019 Notice Claims) is properly dismissed as against Ameriquest on the ground that this action was not timely commenced as against Ameriquest. The 2019 action relies on CPLR 205(a) to establish timeliness, but it was not commenced within six months of the termination of any action against Ameriquest. The Court of Appeals' decision in ABSHE V (33 NY3d 72) resulted only in the final termination of the 2012 action as against DLJ. The 2012 action had already been terminated as against Ameriquest by stipulation years earlier.
+In view of our disposition of these issues, we need not reach the parties' arguments with respect to the timeliness of the underlying 2012 action as against Ameriquest.
+The 2019 Notice Claims (the sole remaining claims) in the 2019 action are not, however, properly dismissed as against DLJ (the sole remaining defendant) on the ground that they are duplicative of the corresponding claims in the 2015 action pursuant to CPLR 3211(a)(4). Although these claims are substantively identical, the different procedural postures of the 2015 and 2019 actions have a significant impact on their viability, for the reasons explained above.
+U.S. Bank N.A. v DLJ Mtge. Capital, Inc.	M-708 Motion for leave to file a surreply brief, granted.	M-876 Motion for leave to file a response to plaintiff's proposed surreply brief, granted.
+THIS CONSTITUTES THE DECISION AND ORDER OF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.
+ENTERED: April 10, 2025
+
+
+
+
+
+
+
+

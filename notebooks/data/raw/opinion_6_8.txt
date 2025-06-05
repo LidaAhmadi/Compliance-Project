@@ -1,0 +1,74 @@
+<div>
+
+Bank of Am., N.A. v Bente (<span class="citation" data-id="10849510"><a href="/opinion/10382922/bank-of-am-na-v-bente/" aria-description="Citation for case: Bank of Am., N.A. v. Bente">2025 NY Slip Op 02304</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Bank of Am., N.A. v Bente</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10849510"><a href="/opinion/10382922/bank-of-am-na-v-bente/" aria-description="Citation for case: Bank of Am., N.A. v. Bente">2025 NY Slip Op 02304</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 23, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 23, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>BETSY BARROS, J.P.
+<br>LINDA CHRISTOPHER
+<br>BARRY E. WARHIT
+<br>JAMES P. MCCORMACK, JJ.
+
+<div align="center"></div>
+<br>2023-02693
+<br>2023-07775
+<br> (Index No. 605920/17)
+
+<br><br><div align="center"><b>[*1]Bank of America, N.A., respondent,
+<br><br>v<br><br>Dale Bente, appellant, et al., defendants.
+</b></div><br><br>
+<br><br>
+<p>Rosenberg &amp; Estis, P.C., New York, NY (Christopher A. Gorman of counsel), for appellant.</p>
+<p>Hinshaw &amp; Culberston LLP, New York, NY (Gabrielle B. Mannuzza and Charles W. Miller III of counsel), for respondent.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action to foreclose a mortgage, the defendant Dale Bente appeals from (1) an order of the Supreme Court, Suffolk County (S. Betsy Heckman Torres, J.), dated January 19, 2023, and (2) an order and judgment of foreclosure and sale (one paper) of the same court entered February 7, 2023. The order granted the plaintiff's motion to confirm a referee's report and for a judgment of foreclosure and sale and denied that defendant's cross-motion for leave to renew her opposition to those branches of the plaintiff's prior motion which were for summary judgment on the complaint insofar as asserted against her and for an order of reference, which had been granted in an order of the same court (Howard H. Heckman, Jr., J.) dated November 20, 2018. The order and judgment of foreclosure and sale, inter alia, confirmed the referee's report and directed the sale of the subject property.</p>
+<p>ORDERED that the appeal from the order dated January 19, 2023, is dismissed; and it is further,</p>
+<p>ORDERED that the order and judgment of foreclosure and sale is affirmed; and it is further,</p>
+<p>ORDERED that one bill of costs is awarded to the plaintiff.</p>
+<p>The appeal from the order dated January 19, 2023, must be dismissed because the right of direct appeal therefrom terminated with the entry of the order and judgment of foreclosure and sale in the action (<i>see Matter of Aho</i>, <span class="citation" data-id="5530460"><a href="/opinion/5681991/in-re-aho/#248" aria-description="Citation for case: In re Aho">39 NY2d 241, 248</a></span>). The issues raised on the appeal from the order dated January 19, 2023, are brought up for review and have been considered on the appeal from the order and judgment of foreclosure and sale (<i>see</i> CPLR 5501[a][1]).</p>
+<p>In March 2017, the plaintiff commenced this action to foreclose a mortgage against the defendant Dale Bente (hereinafter the defendant), among others. The plaintiff subsequently moved, inter alia, for summary judgment on the complaint insofar as asserted against the defendant [*2]and for an order of reference. In support of its motion, the plaintiff submitted, among other things, an affidavit of an assistant vice president of the plaintiff, who, based upon her review of the plaintiff's business records, inter alia, attested to the defendant's default in payment. In an order dated November 20, 2018, the Supreme Court, among other things, granted those branches of the plaintiff's motion.</p>
+<p>In February 2022, the plaintiff moved to confirm the referee's report and for a judgment of foreclosure and sale. The defendant opposed the plaintiff's motion and cross-moved for leave to renew her opposition to those branches of the plaintiff's prior motion which were for summary judgment on the complaint insofar as asserted against her and for an order of reference. The defendant's cross-motion was based on a purported change in the law with respect to establishing a defendant's default in payment. In an order dated January 19, 2023, the Supreme Court granted the plaintiff's motion and denied the defendant's cross-motion. Subsequently, in an order and judgment of foreclosure and sale entered February 7, 2023, the court, inter alia, confirmed the referee's report and directed the sale of the subject property. The defendant appeals.</p>
+<p>The Supreme Court properly denied the defendant's cross-motion for leave to renew her opposition to those branches of the plaintiff's prior motion which were for summary judgment on the complaint insofar as asserted against her and for an order of reference, since the defendant failed to demonstrate that there had been a change in the law that would have altered the prior determination (<i>see</i> CPLR 2221[e][2]; <i>U.S. Bank Trust, N.A. v McCobb</i>, <span class="citation no-link">222 AD3d 696</span>). In any event, contrary to the defendant's contention, the business records on which the plaintiff's assistant vice president relied in attesting to the defendant's default in payment were attached to the affidavit of the assistant vice president, and the records themselves evinced the defendant's default (<i>see Citigroup v Kopelowitz</i>, <span class="citation" data-id="4147609"><a href="/opinion/4370349/citigroup-v-kopelowitz/#1015" aria-description="Citation for case: Citigroup v. Kopelowitz">147 AD3d 1014, 1015</a></span>).</p>
+<p>Further, the Supreme Court properly granted the plaintiff's motion to confirm the referee's report and for a judgment of foreclosure and sale. Contrary to the defendant's contention, the failure of the referee to conduct a hearing does not require reversal of the order and judgment of foreclosure and sale, as the defendant had the opportunity to raise questions and submit relevant evidence to the court (<i>see U.S. Bank N.A. v Mays</i>, <span class="citation no-link">221 AD3d 934</span>, 935; <i>Wilmington Trust, N.A. v Reed</i>, <span class="citation no-link">210 AD3d 731</span>, 732). Moreover, the referee's findings with respect to the total amount due upon the mortgage were substantially supported by the record (<i>see Wilmington Trust, N.A. v Reed</i>, 210 AD3d at 732).</p>
+<p>BARROS, J.P., CHRISTOPHER, WARHIT and MCCORMACK, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>

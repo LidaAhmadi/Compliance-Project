@@ -1,0 +1,72 @@
+<div>
+
+Sisalima v Thorne Constr., Inc. (<span class="citation" data-id="10849451"><a href="/opinion/10382863/sisalima-v-thorne-constr-inc/" aria-description="Citation for case: Sisalima v. Thorne Constr., Inc.">2025 NY Slip Op 02363</a></span>)
+
+
+
+<table width="80%" border="1" cellspacing="2" cellpadding="5" align="center">
+<tr>
+<td align="center"><b>Sisalima v Thorne Constr., Inc.</b></td>
+</tr>
+<tr>
+<td align="center"><span class="citation" data-id="10849451"><a href="/opinion/10382863/sisalima-v-thorne-constr-inc/" aria-description="Citation for case: Sisalima v. Thorne Constr., Inc.">2025 NY Slip Op 02363</a></span></td>
+</tr>
+<tr>
+<td align="center">Decided on April 23, 2025</td>
+</tr>
+<tr>
+<td align="center">Appellate Division, Second Department</td>
+</tr>
+
+<tr>
+<td align="center">Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.</td>
+</tr>
+<tr>
+<td align="center">This opinion is uncorrected and subject to revision before publication in the Official Reports.</td>
+</tr>
+</table>
+<br><br>
+Decided on April 23, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+<br>MARK C. DILLON, J.P.
+<br>PAUL WOOTEN
+<br>JANICE A. TAYLOR
+<br>JAMES P. MCCORMACK, JJ.
+
+<div align="center"></div>
+<br>2023-05476
+<br> (Index No. 621289/19)
+
+<br><br><div align="center"><b>[*1]Julio Wilmer Sisalima, appellant-respondent,
+<br><br>v<br><br>Thorne Construction, Inc., et al., defendants, Limonejo's Framing Corp., respondent-appellant.
+</b></div><br><br>
+<br><br>
+<p>Gorayeb &amp; Associates, P.C., New York, NY (John M. Shaw of counsel), for appellant-respondent.</p>
+<p>Tarbet &amp; Lester, PLLC, East Hampton, NY (Brian J. Lester of counsel), for respondent-appellant.</p>
+<br><br>
+
+
+<p>DECISION &amp; ORDER</p>
+<p>In an action to recover damages for personal injuries, the plaintiff appeals, and the defendant Limonejo's Framing Corp. cross-appeals, from an order of the Supreme Court, Suffolk County (Joseph A. Santorelli, J.), dated April 17, 2023. The order, insofar as appealed from, denied the plaintiff's motion for summary judgment on the issue of liability on the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against the defendant Limonejo's Framing Corp. The order, insofar as cross-appealed from, denied the cross-motion of the defendant Limonejo's Framing Corp. for summary judgment on its second and seventh affirmative defenses.</p>
+<p>ORDERED that the order is affirmed insofar as appealed and cross-appealed from, without costs or disbursements.</p>
+<p>On January 4, 2019, the plaintiff allegedly was injured when he fell from the roof of a building while checking to make sure a tarp was properly placed and a gust of wind raised the tarp, which "threw" him from the roof. The plaintiff's company, JWS Construction and Remodeling Corp., had been hired by the defendant Limonejo's Framing Corp. (hereinafter the defendant) to perform work on the building as part of an extension and remodeling project. In October 2019, the plaintiff commenced this action to recover damages for personal injuries against, among others, the defendant. Thereafter, the plaintiff moved for summary judgment on the issue of liability on the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against the defendant. The defendant cross-moved for summary judgment on its second and seventh affirmative defenses, alleging, respectively, that the plaintiff was the sole proximate cause of the accident and was a recalcitrant worker. In an order dated April 17, 2023, the Supreme Court denied the plaintiff's motion and the defendant's cross-motion. The plaintiff appeals and the defendant cross-appeals.</p>
+<p>"Labor Law § 240(1) imposes upon owners and general contractors, and their agents, a nondelegable duty to provide safety devices necessary to protect workers from risks inherent in elevated work sites" (<i>Guaman v 178 Ct. St., LLC</i>, <span class="citation no-link">200 AD3d 655</span>, 657; <i>see McCarthy v Turner Constr., Inc.</i>, <span class="citation" data-id="2528724"><a href="/opinion/2528724/mccarthy-v-turner-construction-inc/#374" aria-description="Citation for case: McCarthy v. Turner Construction, Inc.">17 NY3d 369, 374</a></span>). "To prevail on a Labor Law § 240(1) cause of action, 'a plaintiff must prove that the defendant violated the statute and that such violation was a proximate cause of [*2]his or her injuries'" (<i>Hossain v Condominium Bd. of Grand Professional Bldg.</i>, <span class="citation no-link">221 AD3d 981</span>, 983, quoting <i>Exley v Cassell Vacation Homes, Inc.</i>, <span class="citation no-link">209 AD3d 839</span>, 840).</p>
+<p>Here, the plaintiff's submissions in support of his motion, including a transcript of his deposition testimony, failed to eliminate triable issues of fact as to whether adequate safety devices were provided to him at the work site and, if not, whether the absence of adequate safety devices was a proximate cause of the accident (<i>see Lewis v Lester's of N.Y., Inc.</i>, <span class="citation no-link">205 AD3d 796</span>, 798; <i>Guaman v 178 Ct. St., LLC</i>, 200 AD3d at 657). Since the plaintiff failed to establish his prima facie entitlement to judgment as a matter of law on the issue of liability on the cause of action alleging a violation of Labor Law § 240(1), the Supreme Court properly denied the plaintiff's motion for summary judgment on that cause of action insofar as asserted against the defendant, without regard to the sufficiency of the opposition papers (<i>see Winegrad v New York Univ. Med. Ctr.</i>, <span class="citation" data-id="5536915"><a href="/opinion/5687761/winegrad-v-new-york-university-medical-center/#853" aria-description="Citation for case: Winegrad v. New York University Medical Center">64 NY2d 851, 853</a></span>).</p>
+<p>"[W]here the plaintiff is the sole proximate cause of his or her own injuries, there can be no liability under Labor Law § 240(1)" (<i>Lojano v Soiefer Bros. Realty Corp.</i>, <span class="citation no-link">187 AD3d 1160</span>, 1162; <i>see Chiarella v New York State Thruway Auth.</i>, <span class="citation no-link">230 AD3d 463</span>, 465). "To establish, prima facie, that a plaintiff was the sole proximate cause of an accident, a defendant has to establish that the plaintiff misused an otherwise proper safety device, chose to use an inadequate safety device when proper devices were readily available, or failed to use any device when proper devices were available" (<i>Lochan v H &amp; H Sons Home Improvement, Inc.</i>, <span class="citation no-link">216 AD3d 630</span>, 633). "'Generally, the issue of whether a particular safety device provided proper protection is a question of fact for the jury'" (<i>Welsch v Maimonides Med. Ctr.</i>, <span class="citation" data-id="5813248"><a href="/opinion/5954441/welsch-v-maimonides-medical-center/#756" aria-description="Citation for case: Welsch v. Maimonides Medical Center">80 AD3d 755, 756</a></span>, quoting <i>Delahaye v Saint Anns School</i>, <span class="citation" data-id="5727236"><a href="/opinion/5870829/delahaye-v-saint-anns-school/#682" aria-description="Citation for case: Delahaye v. Saint Anns School">40 AD3d 679, 682</a></span>).</p>
+<p>Here, viewing the evidence in the light most favorable to the plaintiff (<i>see Jean-Joseph v Port Auth. of N.Y. &amp; N.J.</i>, <span class="citation no-link">211 AD3d 717</span>, 718), the defendant failed to eliminate triable issues of fact as to whether adequate safety devices were readily available to the plaintiff (<i>see Lochan v H &amp; H Sons Home Improvement, Inc.</i>, 216 AD3d at 633; <i>Welsch v Maimonides Med. Ctr.</i>, <span class="citation" data-id="5813248"><a href="/opinion/5954441/welsch-v-maimonides-medical-center/#756" aria-description="Citation for case: Welsch v. Maimonides Medical Center">80 AD3d at 756</a></span>). Moreover, the defendant failed to demonstrate, prima facie, that the plaintiff was specifically instructed to use ropes while working on the roof and disregarded those instructions (<i>see Gurung v Arnav Retirement Trust</i>, <span class="citation" data-id="5811344"><a href="/opinion/5952577/gurung-v-arnav-retirement-trust/#970" aria-description="Citation for case: Gurung v. Arnav Retirement Trust">79 AD3d 969, 970</a></span>; <i>Santo v Scro</i>, <span class="citation" data-id="5732934"><a href="/opinion/5876425/santo-v-scro/#898" aria-description="Citation for case: Santo v. Scro">43 AD3d 897, 898-899</a></span>). Thus, the defendant failed to establish, prima facie, that the plaintiff was the sole proximate cause of the accident or was a recalcitrant worker. Accordingly, the Supreme Court properly denied the defendant's cross-motion for summary judgment on its second and seventh affirmative defenses, without regard to the sufficiency of the opposition papers (<i>see Winegrad v New York Univ. Med. Ctr.</i>, <span class="citation" data-id="5536915"><a href="/opinion/5687761/winegrad-v-new-york-university-medical-center/#853" aria-description="Citation for case: Winegrad v. New York University Medical Center">64 NY2d at 853</a></span>).</p>
+<p>The plaintiff's remaining contention is improperly raised for the first time on appeal and, thus, is not properly before this Court.</p>
+<p>DILLON, J.P., WOOTEN, TAYLOR and MCCORMACK, JJ., concur.</p>
+ENTER:
+<p>Darrell M. Joseph</p>
+<p>Clerk of the Court</p>
+
+
+<br><br><div align="center">
+
+
+
+</div>
+
+</div>
