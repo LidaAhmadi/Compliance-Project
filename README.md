@@ -1,32 +1,17 @@
-#  Compliance NLP Project
+# Compliance NLP Project
 
-This project builds a prototype search tool that retrieves real-world legal rulings related to tax and fraud.  
-The goal is to help compliance analysts, auditors, or legal researchers find relevant court rulings  
-that inform risk assessments and audits.
+## Overview
 
----
+This project explores how natural language processing (NLP) and rule-based techniques can be applied to support compliance and risk review workflows. The goal is to transform large-scale unstructured regulatory text into structured, searchable insights that enable faster decision-making.
 
-##  Dataset
+## Goals
 
-We sourced legal opinions using the [CourtListener API](https://www.courtlistener.com/), a public legal database.
+- Build a prototype pipeline to:
+  - Fetch and clean legal and regulatory text data (e.g., court rulings)
+  - Apply NLP methods such as NER, embeddings, clustering, and semantic search
+  - Evaluate potential use cases for compliance review and automation
 
-- Queried rulings that mention **"tax"** or **"fraud"**
-- Filtered for documents with usable full text
-- Saved results as `.txt` files in `data/raw/`
+## Tech Stack
 
-Scripts:
-- Data fetch: `notebooks/01_fetch_opinions.ipynb`
-- Config: `config.py` (stores API key, search query, output paths, etc.)
-
----
-
-##  To Extend
-
-To fetch more rulings:
-1. Increase `MAX_PAGES` in `config.py`
-2. Re-run the fetch notebook to save additional `.txt` files
-
-Coming next:
-- Text cleaning and preprocessing
-- Embedding and retrieval via Sentence-BERT or TF-IDF
-- Optional: risk labeling and summarization
+- **Languages**: Python
+- **Libraries**: `pan
