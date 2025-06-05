@@ -19,18 +19,19 @@ This project explores how natural language processing (NLP) and rule-based techn
 
 ## Project Structure
 
+```text
 compliance-nlp/
 │
-├── data/ # Raw and processed text data
-├── notebooks/ # Step-by-step development in Jupyter
-├── src/ # Modular Python code
-│ ├── cleaning.py # Text normalization and cleaning functions
-│ ├── embedding.py # Embedding generation
-│ ├── search.py # FAISS-based semantic search
-│ └── labeling.py # Risk scoring and rule-based classification
-├── README.md # Project documentation
-└── requirements.txt # Environment setup
-
+├── data/                  # Raw and processed text data
+├── notebooks/             # Step-by-step development in Jupyter
+├── src/                   # Modular Python code
+│   ├── cleaning.py        # Text normalization and cleaning functions
+│   ├── embedding.py       # Embedding generation
+│   ├── search.py          # FAISS-based semantic search
+│   └── labeling.py        # Risk scoring and rule-based classification
+├── README.md              # Project documentation
+└── requirements.txt       # Environment setup
+```
 
 ## Progress & Roadmap
 
@@ -44,7 +45,7 @@ compliance-nlp/
 
 ## Sample Use Case
 
-> Retrieve relevant rulings and risk indicators for a given legal clause (e.g., IRC 482).  
+> Retrieve relevant rulings and risk indicators for a given legal clause.  
 > Return top-matching documents with semantic similarity and assign risk tags based on heuristics or language cues.
 
 ## Future Work
