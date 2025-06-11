@@ -1,33 +1,81 @@
+# Overview
 
-#  Compliance NLP Project
+This project applies natural language processing (NLP), semantic search, and rule-based techniques to support real-world compliance and risk review workflows.
 
-This project builds a prototype search tool that retrieves real-world legal rulings related to tax and fraud.  
-The goal is to help compliance analysts, auditors, or legal researchers find relevant court rulings  
-that inform risk assessments and audits.
+Inspired by challenges encountered in my professional role at the IRS, it transforms large-scale unstructured legal and regulatory texts into structured, searchable insights for faster, more informed decision-making. Built independently using public data, the project demonstrates practical methods for identifying relevant cases, surfacing risk signals, and supporting auditable analysis pipelines.
+
+# Goals
+
+Build a prototype pipeline to:
+
+- Fetch and clean legal and regulatory text data (e.g., court rulings)  
+- Apply NLP methods such as NER, embeddings, semantic search, and rule-based labeling  
+- Evaluate retrieval quality using IR metrics such as Precision@k and NDCG  
+- Evaluate potential use cases for compliance review and automation
+
+# Tech Stack
+
+- **Languages**: Python  
+- **Libraries**: `pandas`, `re`, `scikit-learn`, `sentence-transformers`, `faiss`, `matplotlib`, `spacy`  
+- **Tools**: JupyterLab, Git, GitHub  
+- **Concepts**: Semantic Search, Embeddings, Information Extraction, Risk Labeling, Evaluation Metrics
+
+# Data Source
+
+The data used in this project comes from [CourtListener](https://www.courtlistener.com/), an open-access repository of legal opinions maintained by the Free Law Project. CourtListener provides bulk downloads and APIs containing court rulings from U.S. federal and state courts, including appellate decisions with full-text legal opinions.
+
+# Project Structure
+
+compliance-nlp/
+│
+├── data/                  # Raw and processed text data
+├── notebooks/             # Step-by-step development in Jupyter
+├── src/                   # Modular Python code
+│   ├── cleaning.py        # Text normalization and cleaning functions
+│   ├── embedding.py       # Embedding generation
+│   ├── search.py          # FAISS-based semantic search
+│   └── labeling.py        # Risk labeling via rule-based or semantic classification
+├── README.md              # Project documentation
+└── requirements.txt       # Environment setup
+
+# Progress & Roadmap
+
+| Phase                                              | Status     |
+|---------------------------------------------------|------------|
+| Data fetching (CourtListener)                     | Completed |
+| Text cleaning and standardization                 | Completed |
+| Semantic search with SBERT + FAISS                | Completed|
+| Risk labeling (rule-based and LLM-assisted)       | Upcoming |
+| Evaluation (Precision@k, NDCG) + Output Reporting | Upcoming |
+
+# Sample Use Case
+
+Retrieve relevant rulings and risk indicators for a given legal clause.  
+Return top-matching documents with semantic similarity and assign risk tags based on heuristics or language cues.
+
+# Understanding Ruling Structure
+
+The court rulings retrieved from CourtListener follow a semi-structured format. Each ruling typically includes:
+
+- **Metadata**: Case name, date, court, docket number, and legal representatives  
+- **Procedural Context**: Explanation of how the case arrived at the court (e.g., appeals, motions)  
+- **Decision and Order**: The court’s final ruling and legal reasoning  
+- **Legal Citations**: References to relevant statutes and past cases
+
+# Example Cleaned Ruling (Preview)
+
+> **Pantanilla v Yuson (2025 NY Slip Op 02597)**  
+> Decided on April 30, 2025  
+> Appellate Division, Second Department  
+> In an action to recover damages for unjust enrichment, the plaintiff alleged an agreement to purchase a business and partial payments made. The defendant rescinded the agreement without refunding the payments. A default judgment was entered in favor of the plaintiff for $40,000. The court affirmed the judgment.
+
+# Future Work
+
+- Add LLM-based prompting and comparison with rule-based methods  
+- Evaluate outputs using IR metrics (Precision@k, NDCG)  
+- Build simple Streamlit app for demo interface  
+- Explore model versioning and MLOps integration
 
 ---
 
-##  Dataset
-
-We sourced legal opinions using the [CourtListener API](https://www.courtlistener.com/), a public legal database.
-
-- Queried rulings that mention **"tax"** or **"fraud"**
-- Filtered for documents with usable full text
-- Saved results as `.txt` files in `data/raw/`
-
-Scripts:
-- Data fetch: `notebooks/01_fetch_opinions.ipynb`
-- Config: `config.py` (stores API key, search query, output paths, etc.)
-
----
-
-##  To Extend
-
-To fetch more rulings:
-1. Increase `MAX_PAGES` in `config.py`
-2. Re-run the fetch notebook to save additional `.txt` files
-
-Coming next:
-- Text cleaning and preprocessing
-- Embedding and retrieval via Sentence-BERT or TF-IDF
-- Optional: risk labeling and summarization
+> *This project is conducted in a personal capacity using only public data. It does not reflect the views or data of the IRS.*
