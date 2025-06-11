@@ -1,68 +1,30 @@
-
-
-People v Foy (2025 NY Slip Op 02795)
-
-
-
-
-
-People v Foy
-
-
-2025 NY Slip Op 02795
-
-
-Decided on May 7, 2025
-
-
-Appellate Division, Second Department
-
-
-
-Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
-
-
-This opinion is uncorrected and subject to revision before publication in the Official Reports.
-
-
-
-Decided on May 7, 2025
-SUPREME COURT OF THE STATE OF NEW YORK
-Appellate Division, Second Judicial Department
-
-MARK C. DILLON, J.P.
-CHERYL E. CHAMBERS
-LOURDES M. VENTURA
-JAMES P. MCCORMACK, JJ.
-
-
+people v foy (2025 ny slip op 02795)
+people v foy
+2025 ny slip op 02795
+decided on may 7, 2025
+appellate division, second department
+published by new york state law reporting bureau pursuant to judiciary law § 431.
+this opinion is uncorrected and subject to revision before publication in the official reports.
+decided on may 7, 2025
+supreme court of the state of new york
+appellate division, second judicial department
+mark c. dillon, j.p.
+cheryl e. chambers
+lourdes m. ventura
+james p. mccormack, jj.
 2022-07404
- (Ind. No. 38/21)
-
-[*1]The People of the State of New York, respondent,
-vPerry Foy, appellant.
-
-
-Arza Feldman, Manhasset, NY, for appellant.
-Susan Cacace, District Attorney, White Plains, NY (Raffaelina Gianfrancesco of counsel), for respondent.
-
-
-
-DECISION &amp; ORDER
-Appeal by the defendant from a judgment of the County Court, Westchester County (Robert J. Prisco, J.), rendered June 24, 2022, convicting him of attempted assault in the first degree, upon his plea of guilty, and imposing sentence.
-ORDERED that the judgment is affirmed.
-The defendant's challenge to the validity of his plea of guilty is unpreserved for appellate review (see People v Bellamy, 235 AD3d 994, 994; People v Myke, 232 AD3d 913). In any event, the record establishes that the defendant's plea of guilty was made knowingly, voluntarily, and intelligently (see People v Fiumefreddo, 82 NY2d 536, 543). Appellate review of the defendant's challenge to the County Court's Sandoval ruling (see People v Sandoval, 34 NY2d 371) is foreclosed by his plea of guilty (see People v Stinson, 189 AD3d 1271, 1272; People v Sirico, 135 AD3d 19, 24).
-Contrary to the defendant's contention, the record demonstrates that he validly waived his right to appeal (see People v Bryant, 28 NY3d 1094; People v Batista, 167 AD3d 69, 73-74).
-Appellate review of the defendant's challenge to the County Court's suppression determination is precluded by his valid appeal waiver (see People v Hightower-Castro, 219 AD3d 504, 505) and was waived by the defendant withdrawing his motions as a condition of his plea of guilty (see People v Cabot, 210 AD3d 902).
-DILLON, J.P., CHAMBERS, VENTURA and MCCORMACK, JJ., concur.
-ENTER:
-Darrell M. Joseph
-Clerk of the Court
-
-
-
-
-
-
-
-
+ (ind. no. 38/21)
+[*1]the people of the state of new york, respondent,
+vperry foy, appellant.
+arza feldman, manhasset, ny, for appellant.
+susan cacace, district attorney, white plains, ny (raffaelina gianfrancesco of counsel), for respondent.
+decision &amp; order
+appeal by the defendant from a judgment of the county court, westchester county (robert j. prisco, j.), rendered june 24, 2022, convicting him of attempted assault in the first degree, upon his plea of guilty, and imposing sentence.
+ordered that the judgment is affirmed.
+the defendant's challenge to the validity of his plea of guilty is unpreserved for appellate review (see people v bellamy, 235 ad3d 994, 994; people v myke, 232 ad3d 913). in any event, the record establishes that the defendant's plea of guilty was made knowingly, voluntarily, and intelligently (see people v fiumefreddo, 82 ny2d 536, 543). appellate review of the defendant's challenge to the county court's sandoval ruling (see people v sandoval, 34 ny2d 371) is foreclosed by his plea of guilty (see people v stinson, 189 ad3d 1271, 1272; people v sirico, 135 ad3d 19, 24).
+contrary to the defendant's contention, the record demonstrates that he validly waived his right to appeal (see people v bryant, 28 ny3d 1094; people v batista, 167 ad3d 69, 73-74).
+appellate review of the defendant's challenge to the county court's suppression determination is precluded by his valid appeal waiver (see people v hightower-castro, 219 ad3d 504, 505) and was waived by the defendant withdrawing his motions as a condition of his plea of guilty (see people v cabot, 210 ad3d 902).
+dillon, j.p., chambers, ventura and mccormack, jj., concur.
+enter:
+darrell m. joseph
+clerk of the court

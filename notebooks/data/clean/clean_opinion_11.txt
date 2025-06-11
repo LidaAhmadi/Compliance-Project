@@ -1,71 +1,33 @@
-
-
-Granizo v Krystal Fruits &amp; Vegetables, Inc. (2025 NY Slip Op 02761)
-
-
-
-
-
-Granizo v Krystal Fruits &amp; Vegetables, Inc.
-
-
-2025 NY Slip Op 02761
-
-
-Decided on May 7, 2025
-
-
-Appellate Division, Second Department
-
-
-
-Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
-
-
-This opinion is uncorrected and subject to revision before publication in the Official Reports.
-
-
-
-Decided on May 7, 2025
-SUPREME COURT OF THE STATE OF NEW YORK
-Appellate Division, Second Judicial Department
-
-LARA J. GENOVESI, J.P.
-VALERIE BRATHWAITE NELSON
-BARRY E. WARHIT
-JAMES P. MCCORMACK, JJ.
-
-
+granizo v krystal fruits &amp; vegetables, inc. (2025 ny slip op 02761)
+granizo v krystal fruits &amp; vegetables, inc.
+2025 ny slip op 02761
+decided on may 7, 2025
+appellate division, second department
+published by new york state law reporting bureau pursuant to judiciary law § 431.
+this opinion is uncorrected and subject to revision before publication in the official reports.
+decided on may 7, 2025
+supreme court of the state of new york
+appellate division, second judicial department
+lara j. genovesi, j.p.
+valerie brathwaite nelson
+barry e. warhit
+james p. mccormack, jj.
 2023-12019
- (Index No. 600362/23)
-
-[*1]Anthony Mancheno Granizo, appellant,
-v Krystal Fruits &amp; Vegetables, Inc., et al., respondents.
-
-
-The NHG Law Group, P.C., Massapequa, NY (Keith E. Williams and Victoria Spagnolo of counsel), for appellant.
-Naness, Chaiet &amp; Naness, LLC, Jericho, NY (W. Matthew Groh of counsel), for respondents.
-
-
-
-DECISION &amp; ORDER
-In an action, inter alia, to recover damages for unpaid wages in violation of Labor Law article 19, the plaintiff appeals from an order of the Supreme Court, Nassau County (Lisa A. Cairo, J.), dated September 15, 2023. The order granted the defendants' motion pursuant to CPLR 3211(a) to dismiss the amended complaint.
-ORDERED that the order is modified, on the law, by deleting the provision thereof granting those branches of the defendants' motion which were pursuant to CPLR 3211(a) to dismiss the first, second, third, and fifth causes of action in the amended complaint, and substituting therefor a provision denying those branches of the motion; as so modified, the order is affirmed, with costs to the plaintiff.
-The plaintiff was formerly employed as a delivery driver by the defendant Krystal Fruits &amp; Vegetables, Inc. (hereinafter Krystal). In January 2023, the plaintiff commenced this action against Krystal and its owner, the defendant Michael Longo, among other things, to recover damages for unpaid wages and failure to provide wage statements in violation of the Labor Law. The defendants moved pursuant to CPLR 3211(a)(1) and (7) to dismiss the complaint. The plaintiff opposed the motion and filed an amended complaint. In an order dated September 15, 2023, the Supreme Court considered the defendants' motion as directed against the amended complaint and granted the motion. The plaintiff appeals. We modify.
-"On a motion to dismiss pursuant to CPLR 3211(a)(7), the complaint is to be afforded a liberal construction, the facts alleged are presumed to be true, the plaintiff is afforded the benefit of every favorable inference, and the court is to determine only whether the facts as alleged fit within any cognizable legal theory" (Gorbatov v Tsirelman, 155 AD3d 836, 837; see MJ Lilly Assoc., LLC v Ovis Creative, LLC, 221 AD3d 805, 807). "Where evidentiary material is submitted and considered on a motion to dismiss a complaint pursuant to CPLR 3211(a)(7), and the motion is not converted into one for summary judgment, the question becomes whether the plaintiff has a cause of action, not whether the plaintiff has stated one and, unless it has been shown that a material fact as claimed by the plaintiff to be one is not a fact at all and unless it can be said that no significant dispute exists regarding it, dismissal should not eventuate" (Agai v Liberty Mut. Agency Corp., 118 [*2]AD3d 830, 832; see Guggenheimer v Ginzburg, 43 NY2d 268, 275).
-"A motion to dismiss a complaint pursuant to CPLR 3211(a)(1) may be granted only if the documentary evidence submitted by the moving party utterly refutes the factual allegations of the complaint and conclusively establishes a defense to the claims as a matter of law" (MJ Lilly Assoc., LLC v Ovis Creative, LLC, 221 AD3d at 806 [internal quotation marks omitted]; see 533 Park Ave. Realty, LLC v Park Ave. Bldg. &amp; Roofing Supplies, LLC, 156 AD3d 744, 746). "[T]o be considered 'documentary,' evidence must be unambiguous and of undisputed authenticity" (Fontanetta v John Doe 1, 73 AD3d 78, 86; see MJ Lilly Assoc., LLC v Ovis Creative, LLC, 221 AD3d at 806).
-Here, accepting the allegations in the amended complaint as true and according the plaintiff the benefit of every favorable inference, the first through third causes of action adequately stated causes of action to recover damages for unpaid wages and overtime compensation (see Cabrera v Deadwood Constr., Inc., 226 AD3d 743, 744), as well as failure to pay spread-of-hours compensation (see 12 NYCRR 142-2.4). Additionally, the fifth cause of action in the amended complaint, which alleged, inter alia, that the plaintiff's wage statements inaccurately reflected the hours that he worked, stated a cognizable cause of action alleging a violation of Labor Law § 195(3) (see Cabrera v Deadwood Constr., Inc., 226 AD3d at 744; Silvers v Jamaica Hosp., 218 AD3d 817, 819). Moreover, the evidentiary proof submitted by the defendants did not establish, with respect to the first through third and fifth causes of action in the amended complaint, that a material fact as claimed by the plaintiff is not a fact at all and that no significant dispute exists regarding it (see Kings Harbor Multicare Ctr. v Townes, 231 AD3d 936, 938-939).
-Further, the Supreme Court should have denied dismissal of the first through third and fifth causes of action in the amended complaint pursuant to CPLR 3211(a)(1). Contrary to the defendants' contention, the plaintiff's pay stubs and handwritten records of his hours worked, the accuracy of which is in dispute, did not utterly refute the plaintiff's factual allegations and conclusively establish a defense to the first through third and fifth causes of action in the amended complaint as a matter of law (see Sobel v Ansanelli, 98 AD3d 1020, 1022).
-However, the Supreme Court properly granted dismissal of the fourth cause of action in the amended complaint, alleging a failure to provide wage notices in violation of Labor Law § 195(1), pursuant to CPLR 3211(a)(1). In support of their motion, the defendants submitted wage notices containing the plaintiff's electronic signature confirming receipt thereof. The wage notices, the authenticity of which the plaintiff did not dispute, utterly refuted the plaintiff's allegations that he never received wage notices as required by the Labor Law (see Giambrone v Arnone, Lowth, Wilson, Leibowitz, Adriano &amp; Greco, 197 AD3d 459, 461-462).
-GENOVESI, J.P., BRATHWAITE NELSON, WARHIT and MCCORMACK, JJ., concur.
-ENTER:
-Darrell M. Joseph
-Clerk of the Court
-
-
-
-
-
-
-
-
+ (index no. 600362/23)
+[*1]anthony mancheno granizo, appellant,
+v krystal fruits &amp; vegetables, inc., et al., respondents.
+the nhg law group, p.c., massapequa, ny (keith e. williams and victoria spagnolo of counsel), for appellant.
+naness, chaiet &amp; naness, llc, jericho, ny (w. matthew groh of counsel), for respondents.
+decision &amp; order
+in an action, inter alia, to recover damages for unpaid wages in violation of labor law article 19, the plaintiff appeals from an order of the supreme court, nassau county (lisa a. cairo, j.), dated september 15, 2023. the order granted the defendants' motion pursuant to cplr 3211(a) to dismiss the amended complaint.
+ordered that the order is modified, on the law, by deleting the provision thereof granting those branches of the defendants' motion which were pursuant to cplr 3211(a) to dismiss the first, second, third, and fifth causes of action in the amended complaint, and substituting therefor a provision denying those branches of the motion; as so modified, the order is affirmed, with costs to the plaintiff.
+the plaintiff was formerly employed as a delivery driver by the defendant krystal fruits &amp; vegetables, inc. (hereinafter krystal). in january 2023, the plaintiff commenced this action against krystal and its owner, the defendant michael longo, among other things, to recover damages for unpaid wages and failure to provide wage statements in violation of the labor law. the defendants moved pursuant to cplr 3211(a)(1) and (7) to dismiss the complaint. the plaintiff opposed the motion and filed an amended complaint. in an order dated september 15, 2023, the supreme court considered the defendants' motion as directed against the amended complaint and granted the motion. the plaintiff appeals. we modify.
+"on a motion to dismiss pursuant to cplr 3211(a)(7), the complaint is to be afforded a liberal construction, the facts alleged are presumed to be true, the plaintiff is afforded the benefit of every favorable inference, and the court is to determine only whether the facts as alleged fit within any cognizable legal theory" (gorbatov v tsirelman, 155 ad3d 836, 837; see mj lilly assoc., llc v ovis creative, llc, 221 ad3d 805, 807). "where evidentiary material is submitted and considered on a motion to dismiss a complaint pursuant to cplr 3211(a)(7), and the motion is not converted into one for summary judgment, the question becomes whether the plaintiff has a cause of action, not whether the plaintiff has stated one and, unless it has been shown that a material fact as claimed by the plaintiff to be one is not a fact at all and unless it can be said that no significant dispute exists regarding it, dismissal should not eventuate" (agai v liberty mut. agency corp., 118 [*2]ad3d 830, 832; see guggenheimer v ginzburg, 43 ny2d 268, 275).
+"a motion to dismiss a complaint pursuant to cplr 3211(a)(1) may be granted only if the documentary evidence submitted by the moving party utterly refutes the factual allegations of the complaint and conclusively establishes a defense to the claims as a matter of law" (mj lilly assoc., llc v ovis creative, llc, 221 ad3d at 806 [internal quotation marks omitted]; see 533 park ave. realty, llc v park ave. bldg. &amp; roofing supplies, llc, 156 ad3d 744, 746). "[t]o be considered 'documentary,' evidence must be unambiguous and of undisputed authenticity" (fontanetta v john doe 1, 73 ad3d 78, 86; see mj lilly assoc., llc v ovis creative, llc, 221 ad3d at 806).
+here, accepting the allegations in the amended complaint as true and according the plaintiff the benefit of every favorable inference, the first through third causes of action adequately stated causes of action to recover damages for unpaid wages and overtime compensation (see cabrera v deadwood constr., inc., 226 ad3d 743, 744), as well as failure to pay spread-of-hours compensation (see 12 nycrr 142-2.4). additionally, the fifth cause of action in the amended complaint, which alleged, inter alia, that the plaintiff's wage statements inaccurately reflected the hours that he worked, stated a cognizable cause of action alleging a violation of labor law § 195(3) (see cabrera v deadwood constr., inc., 226 ad3d at 744; silvers v jamaica hosp., 218 ad3d 817, 819). moreover, the evidentiary proof submitted by the defendants did not establish, with respect to the first through third and fifth causes of action in the amended complaint, that a material fact as claimed by the plaintiff is not a fact at all and that no significant dispute exists regarding it (see kings harbor multicare ctr. v townes, 231 ad3d 936, 938-939).
+further, the supreme court should have denied dismissal of the first through third and fifth causes of action in the amended complaint pursuant to cplr 3211(a)(1). contrary to the defendants' contention, the plaintiff's pay stubs and handwritten records of his hours worked, the accuracy of which is in dispute, did not utterly refute the plaintiff's factual allegations and conclusively establish a defense to the first through third and fifth causes of action in the amended complaint as a matter of law (see sobel v ansanelli, 98 ad3d 1020, 1022).
+however, the supreme court properly granted dismissal of the fourth cause of action in the amended complaint, alleging a failure to provide wage notices in violation of labor law § 195(1), pursuant to cplr 3211(a)(1). in support of their motion, the defendants submitted wage notices containing the plaintiff's electronic signature confirming receipt thereof. the wage notices, the authenticity of which the plaintiff did not dispute, utterly refuted the plaintiff's allegations that he never received wage notices as required by the labor law (see giambrone v arnone, lowth, wilson, leibowitz, adriano &amp; greco, 197 ad3d 459, 461-462).
+genovesi, j.p., brathwaite nelson, warhit and mccormack, jj., concur.
+enter:
+darrell m. joseph
+clerk of the court

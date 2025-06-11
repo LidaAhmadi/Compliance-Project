@@ -1,69 +1,31 @@
-
-
-Matter of Cirillo v Grullon (2025 NY Slip Op 02586)
-
-
-
-
-
-Matter of Cirillo v Grullon
-
-
-2025 NY Slip Op 02586
-
-
-Decided on April 30, 2025
-
-
-Appellate Division, Second Department
-
-
-
-Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
-
-
-This opinion is uncorrected and subject to revision before publication in the Official Reports.
-
-
-
-Decided on April 30, 2025
-SUPREME COURT OF THE STATE OF NEW YORK
-Appellate Division, Second Judicial Department
-
-ANGELA G. IANNACCI, J.P.
-LARA J. GENOVESI
-PAUL WOOTEN
-LAURENCE L. LOVE, JJ.
-
-
+matter of cirillo v grullon (2025 ny slip op 02586)
+matter of cirillo v grullon
+2025 ny slip op 02586
+decided on april 30, 2025
+appellate division, second department
+published by new york state law reporting bureau pursuant to judiciary law § 431.
+this opinion is uncorrected and subject to revision before publication in the official reports.
+decided on april 30, 2025
+supreme court of the state of new york
+appellate division, second judicial department
+angela g. iannacci, j.p.
+lara j. genovesi
+paul wooten
+laurence l. love, jj.
 2024-08832
- (Docket No. V-5406-24)
-
-[*1]In the Matter of Kristin M. Cirillo, appellant,
-vRonald Grullon, respondent.
-
-
-Kenneth M. Tuccillo, Hastings on Hudson, NY, for appellant.
-Steven A. Feldman, Manhasset, NY, for respondent.
-
-
-
-DECISION &amp; ORDER
-In a proceeding pursuant to Family Court Act article 6, the mother appeals from an order of the Family Court, Nassau County (Darlene D. Harris, J.), dated August 8, 2024. The order dismissed the mother's petition for custody of the parties' child for lack of subject matter jurisdiction.
-ORDERED that the order is affirmed, without costs or disbursements.
-The mother and the father have one child. In September 2023, the father filed a petition for custody of the child in the State of Connecticut. In October 2023, the parties entered into a temporary custody agreement, which was approved by the Superior Court, State of Connecticut (hereinafter the Connecticut court), awarding them joint legal and physical custody of the child and setting forth a parental access schedule. On June 21, 2024, the mother commenced this proceeding pursuant to Family Court Act article 6 for custody of the child. After a conference at which the Family Court conferred with the Connecticut court, the Family Court dismissed the petition for lack of subject matter jurisdiction. The mother appeals.
-Contrary to the mother's contention, the Family Court properly concluded that it lacked subject matter jurisdiction to determine the petition. The record is clear that the State of Connecticut has exclusive, continuing jurisdiction over the custody dispute, as the father continued to reside in Connecticut and the Connecticut court had not declined jurisdiction (see Domestic Relations Law § 76-b; Conn Gen Stat Ann §§ 46b-115aa, 46b-115l[a]; Matter of Etzel v Freleng, 188 AD3d 1054, 1055; Matter of Renaud v Barnett, 174 AD3d 906).
-Moreover, contrary to the mother's contention, there was no evidence before the Family Court that the father posed a risk of harm to the child so as to warrant the exercise of the court's temporary emergency jurisdiction pursuant to Domestic Relations Law § 76-c (see Matter of Chavez v Maldonado, 213 AD3d 757, 759; Matter of Hearne v Hearne, 61 AD3d 758, 759).
-The mother's remaining contentions are without merit.
-IANNACCI, J.P., GENOVESI, WOOTEN and LOVE, JJ., concur.
-ENTER:
-Darrell M. Joseph
-Clerk of the Court
-
-
-
-
-
-
-
-
+ (docket no. v-5406-24)
+[*1]in the matter of kristin m. cirillo, appellant,
+vronald grullon, respondent.
+kenneth m. tuccillo, hastings on hudson, ny, for appellant.
+steven a. feldman, manhasset, ny, for respondent.
+decision &amp; order
+in a proceeding pursuant to family court act article 6, the mother appeals from an order of the family court, nassau county (darlene d. harris, j.), dated august 8, 2024. the order dismissed the mother's petition for custody of the parties' child for lack of subject matter jurisdiction.
+ordered that the order is affirmed, without costs or disbursements.
+the mother and the father have one child. in september 2023, the father filed a petition for custody of the child in the state of connecticut. in october 2023, the parties entered into a temporary custody agreement, which was approved by the superior court, state of connecticut (hereinafter the connecticut court), awarding them joint legal and physical custody of the child and setting forth a parental access schedule. on june 21, 2024, the mother commenced this proceeding pursuant to family court act article 6 for custody of the child. after a conference at which the family court conferred with the connecticut court, the family court dismissed the petition for lack of subject matter jurisdiction. the mother appeals.
+contrary to the mother's contention, the family court properly concluded that it lacked subject matter jurisdiction to determine the petition. the record is clear that the state of connecticut has exclusive, continuing jurisdiction over the custody dispute, as the father continued to reside in connecticut and the connecticut court had not declined jurisdiction (see domestic relations law § 76-b; conn gen stat ann §§ 46b-115aa, 46b-115l[a]; matter of etzel v freleng, 188 ad3d 1054, 1055; matter of renaud v barnett, 174 ad3d 906).
+moreover, contrary to the mother's contention, there was no evidence before the family court that the father posed a risk of harm to the child so as to warrant the exercise of the court's temporary emergency jurisdiction pursuant to domestic relations law § 76-c (see matter of chavez v maldonado, 213 ad3d 757, 759; matter of hearne v hearne, 61 ad3d 758, 759).
+the mother's remaining contentions are without merit.
+iannacci, j.p., genovesi, wooten and love, jj., concur.
+enter:
+darrell m. joseph
+clerk of the court

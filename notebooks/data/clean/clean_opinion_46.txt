@@ -1,62 +1,24 @@
-
-
-JDM Wash. St. LLC v 90 Wash. St., LLC (2025 NY Slip Op 02036)
-
-
-
-
-
-JDM Wash. St. LLC v 90 Wash. St., LLC
-
-
-2025 NY Slip Op 02036
-
-
-Decided on April 08, 2025
-
-
-Appellate Division, First Department
-
-
-
-Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
-
-
-This opinion is uncorrected and subject to revision before publication in the Official Reports.
-
-
-
-Decided and Entered: April 08, 2025
-
-Before: Moulton, J.P., González, Scarpulla, Higgitt, Michael, JJ. 
-
-
-Index No. 161333/19|Appeal No. 4064|Case No. 2024-06001|
-
-[*1]JDM Washington Street LLC, Plaintiff-Appellant,
-v90 Washington Street, LLC, et al., Defendants-Respondents.
-
-
-Rosenberg &amp; Estis, P.C., New York (Norman Flitt of counsel), for appellant.
-Akerman LLP, New York (Joshua D. Bernstein of counsel), for respondents.
-
-
-
-Order and judgment (one paper), Supreme Court, New York County (Nicholas W. Moyne, J.), entered September 6, 2024, which granted defendants' CPLR 4401 motion, dismissed the complaint, and vacated the Yellowstone injunction, unanimously affirmed, with costs.
-Orders and judgments are frequently drafted by counsel for the parties at the direction of the court (see Funk v Barry, 89 NY2d 364, 367 [1996]; Hendershot v Hendershot, 187 AD3d 1584, 1585 [4th Dept 2020]). Plaintiff's argument that the order appealed from represents an improper delegation of the court's judicial duties is unpreserved. Plaintiff participated in the process of drafting the order under appeal. It did not argue at the trial level that the court was improperly delegating its authority. Plaintiff thus waived this argument on appeal (see generally People v Kelly, 11 AD3d 133, 146-148 [1st Dept 2004], affd 5 NY3d 116 [2005]).
-Plaintiff's contention that the court's order should be reversed because it is inconsistent with its oral decision is unavailing. The written order is generally consistent with the court's oral decision, and in the few areas where there is a conflict between the oral rulings and the written order, we rely on the oral rulings (see Matter of Tawanda A.A. v Joseph D.A., 188 AD3d 401, 402 [1st Dept 2020]).
-As to the issue of the expiration of the cure period under the Yellowstone injunction (see First Natl. Stores, Inc. v Yellowstone Shopping Ctr., Inc., 21 NY2d 630 [1968]), on a prior appeal, we extended the Yellowstone injunction "until a determination on the merits of the action" (JDM Wash. St. LLC v 90 Wash. St., LLC, 200 AD3d 612 [1st Dept 2021]). The written order is therefore incorrect when it states that the Yellowstone injunction expired on April 30, 2021 and that plaintiff's time to cure pursuant to the injunction expired on May 3, 2021. However, in its July 8, 2024 oral decision, the court recognized that we had extended the injunction until a determination of the merits, and, on that date, the court made its determination. Plaintiff commenced this action with only one day remaining to cure. Its time to cure under the Yellowstone injunction thus expired on July 9, 2024.
-Plaintiff challenges the court's finding that it breached its lease. However, it is undisputedthat the exterior of the premises was deemed "unsafe" and a Local Law 11 violation was issued by the New York City Department of Buildings (DOB) in 2010; a stop work order was issued by DOB in 2015. The court's written order, which is dated September 5, 2024, notes that the Local Law 11 violation remained outstanding. The unsafe conditions described in the DOB violation include vertical cracking, shifting corners, spalling, and cracked brick. Some of the defaults set forth in the notice to cure were also incurable. In sum, the trial court correctly found that plaintiff breached the lease.
-Plaintiff's contention that it is entitled to additional time to cure under section 18.01(c) of the lease [*2]is unavailing. That section requires plaintiff to "proceed[] with due diligence during" the original period to cure. Defendants extended plaintiff's time to cure from October 3, 2018 to November 22, 2019, and the courts further extended it to July 9, 2024. However, as of September 5, 2024 — more than six years after defendants sent plaintiff a 30-day notice to cure — plaintiff still had not cured the Local Law 11 violation, notwithstanding warnings by its site managers. Moreover, the trial evidence showed that other defaults were either far from resolved or incurable. Thus, the trial court's findingthat plaintiff had not proceeded with due diligence was fully supported by the record.
-Section 18.01(c) only extends the cure period "for an additional period not to exceed the time necessary to cure the same." Plaintiff's April 22, 2013 agreement with the original contractor contemplated that the work would be substantially complete by December 13, 2013. In September 2020, plaintiff submitted an affidavit in support of its motion to extend the Yellowstone injunction to April 30, 2021, stating that "[a]t the time the Yellowstone injunction was issued on February 19, 2020, the FaÇade Project was expected to be complete in 2020"; due to the COVID-19 pandemic, there were delays; and "[a]ssuming . . . no further setbacks or delays," plaintiff "expect[ed] the FaÇade Project to be completed by April 2021." As the trial court correctly found, plaintiff has exceeded the time reasonably necessary to fix the faÇade.
-We find plaintiff's argument, raised in its reply brief, that the trial court did not apply the proper standards for a CPLR 4401 motion, to be unavailing. Although we give plaintiff every inference that can properly be drawn from the facts and consider the facts in the light most favorable to it (see Szcerbiak v Pilat, 90 NY2d 553, 556 [1997]), there is no rational basis by which the trier of fact could find that plaintiff had not breached the lease.
-THIS CONSTITUTES THE DECISION AND ORDER OF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.
-ENTERED: April 8, 2025
-
-
-
-
-
-
-
-
+jdm wash. st. llc v 90 wash. st., llc (2025 ny slip op 02036)
+jdm wash. st. llc v 90 wash. st., llc
+2025 ny slip op 02036
+decided on april 08, 2025
+appellate division, first department
+published by new york state law reporting bureau pursuant to judiciary law § 431.
+this opinion is uncorrected and subject to revision before publication in the official reports.
+decided and entered: april 08, 2025
+before: moulton, j.p., gonzález, scarpulla, higgitt, michael, jj. 
+index no. 161333/19|appeal no. 4064|case no. 2024-06001|
+[*1]jdm washington street llc, plaintiff-appellant,
+v90 washington street, llc, et al., defendants-respondents.
+rosenberg &amp; estis, p.c., new york (norman flitt of counsel), for appellant.
+akerman llp, new york (joshua d. bernstein of counsel), for respondents.
+order and judgment (one paper), supreme court, new york county (nicholas w. moyne, j.), entered september 6, 2024, which granted defendants' cplr 4401 motion, dismissed the complaint, and vacated the yellowstone injunction, unanimously affirmed, with costs.
+orders and judgments are frequently drafted by counsel for the parties at the direction of the court (see funk v barry, 89 ny2d 364, 367 [1996]; hendershot v hendershot, 187 ad3d 1584, 1585 [4th dept 2020]). plaintiff's argument that the order appealed from represents an improper delegation of the court's judicial duties is unpreserved. plaintiff participated in the process of drafting the order under appeal. it did not argue at the trial level that the court was improperly delegating its authority. plaintiff thus waived this argument on appeal (see generally people v kelly, 11 ad3d 133, 146-148 [1st dept 2004], affd 5 ny3d 116 [2005]).
+plaintiff's contention that the court's order should be reversed because it is inconsistent with its oral decision is unavailing. the written order is generally consistent with the court's oral decision, and in the few areas where there is a conflict between the oral rulings and the written order, we rely on the oral rulings (see matter of tawanda a.a. v joseph d.a., 188 ad3d 401, 402 [1st dept 2020]).
+as to the issue of the expiration of the cure period under the yellowstone injunction (see first natl. stores, inc. v yellowstone shopping ctr., inc., 21 ny2d 630 [1968]), on a prior appeal, we extended the yellowstone injunction "until a determination on the merits of the action" (jdm wash. st. llc v 90 wash. st., llc, 200 ad3d 612 [1st dept 2021]). the written order is therefore incorrect when it states that the yellowstone injunction expired on april 30, 2021 and that plaintiff's time to cure pursuant to the injunction expired on may 3, 2021. however, in its july 8, 2024 oral decision, the court recognized that we had extended the injunction until a determination of the merits, and, on that date, the court made its determination. plaintiff commenced this action with only one day remaining to cure. its time to cure under the yellowstone injunction thus expired on july 9, 2024.
+plaintiff challenges the court's finding that it breached its lease. however, it is undisputedthat the exterior of the premises was deemed "unsafe" and a local law 11 violation was issued by the new york city department of buildings (dob) in 2010; a stop work order was issued by dob in 2015. the court's written order, which is dated september 5, 2024, notes that the local law 11 violation remained outstanding. the unsafe conditions described in the dob violation include vertical cracking, shifting corners, spalling, and cracked brick. some of the defaults set forth in the notice to cure were also incurable. in sum, the trial court correctly found that plaintiff breached the lease.
+plaintiff's contention that it is entitled to additional time to cure under section 18.01(c) of the lease [*2]is unavailing. that section requires plaintiff to "proceed[] with due diligence during" the original period to cure. defendants extended plaintiff's time to cure from october 3, 2018 to november 22, 2019, and the courts further extended it to july 9, 2024. however, as of september 5, 2024 — more than six years after defendants sent plaintiff a 30-day notice to cure — plaintiff still had not cured the local law 11 violation, notwithstanding warnings by its site managers. moreover, the trial evidence showed that other defaults were either far from resolved or incurable. thus, the trial court's findingthat plaintiff had not proceeded with due diligence was fully supported by the record.
+section 18.01(c) only extends the cure period "for an additional period not to exceed the time necessary to cure the same." plaintiff's april 22, 2013 agreement with the original contractor contemplated that the work would be substantially complete by december 13, 2013. in september 2020, plaintiff submitted an affidavit in support of its motion to extend the yellowstone injunction to april 30, 2021, stating that "[a]t the time the yellowstone injunction was issued on february 19, 2020, the façade project was expected to be complete in 2020"; due to the covid-19 pandemic, there were delays; and "[a]ssuming . . . no further setbacks or delays," plaintiff "expect[ed] the façade project to be completed by april 2021." as the trial court correctly found, plaintiff has exceeded the time reasonably necessary to fix the façade.
+we find plaintiff's argument, raised in its reply brief, that the trial court did not apply the proper standards for a cplr 4401 motion, to be unavailing. although we give plaintiff every inference that can properly be drawn from the facts and consider the facts in the light most favorable to it (see szcerbiak v pilat, 90 ny2d 553, 556 [1997]), there is no rational basis by which the trier of fact could find that plaintiff had not breached the lease.
+this constitutes the decision and order of the supreme court, appellate division, first department.
+entered: april 8, 2025

@@ -1,68 +1,30 @@
-
-
-People v Gilyard (2025 NY Slip Op 02606)
-
-
-
-
-
-People v Gilyard
-
-
-2025 NY Slip Op 02606
-
-
-Decided on April 30, 2025
-
-
-Appellate Division, Second Department
-
-
-
-Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
-
-
-This opinion is uncorrected and subject to revision before publication in the Official Reports.
-
-
-
-Decided on April 30, 2025
-SUPREME COURT OF THE STATE OF NEW YORK
-Appellate Division, Second Judicial Department
-
-ANGELA G. IANNACCI, J.P.
-LARA J. GENOVESI
-PAUL WOOTEN
-LAURENCE L. LOVE, JJ.
-
-
+people v gilyard (2025 ny slip op 02606)
+people v gilyard
+2025 ny slip op 02606
+decided on april 30, 2025
+appellate division, second department
+published by new york state law reporting bureau pursuant to judiciary law § 431.
+this opinion is uncorrected and subject to revision before publication in the official reports.
+decided on april 30, 2025
+supreme court of the state of new york
+appellate division, second judicial department
+angela g. iannacci, j.p.
+lara j. genovesi
+paul wooten
+laurence l. love, jj.
 2023-04472
- (Ind. No. 71196/22)
-
-[*1]The People of the State of New York, respondent,
-vDeshaun Gilyard, appellant.
-
-
-Twyla Carter, New York, NY (Mary-Kathryn Smith of counsel), for appellant.
-Melinda Katz, District Attorney, Kew Gardens, NY (Johnnette Traill, Charles T. Pollak, and Maryam Sheikh of counsel; Ann Marie Turton on the brief), for respondent.
-
-
-
-DECISION &amp; ORDER
-Appeal by the defendant from a judgment of the Supreme Court, Queens County (Toni M. Cimino, J.), rendered June 27, 2022, convicting him of criminal possession of a weapon in the fourth degree, upon his plea of guilty, and imposing sentence. The appeal brings up for review an order of protection issued in favor of Dave McDonald at the time of sentencing.
-ORDERED that upon the appeal from the judgment, the order of protection issued in favor of Dave McDonald at the time of sentencing is vacated, as a matter of discretion in the interest of justice; and it is further,
-ORDERED that the judgment is affirmed.
-The defendant's contention that the Supreme Court improperly issued an order of protection in favor of Dave McDonald at the time of sentencing is unpreserved for appellate review (see CPL 470.05[2]; People v Nieves, 2 NY3d 310, 316-318), but we nevertheless reach the issue in the exercise of our interest of justice jurisdiction (see People v Fletcher, 220 AD3d 805; People v Rosales, 198 AD3d 988). As the defendant correctly contends, the court had no authority to issue an order of protection in favor of that individual, as he was neither a victim nor a witness to the particular crime to which the defendant pleaded guilty (see CPL 530.13[4]; People v Alvarado, 235 AD3d 889; People v Lebron, 233 AD3d 710).
-Accordingly, we vacate the order of protection issued in favor of Dave McDonald at the time of sentencing.
-IANNACCI, J.P., GENOVESI, WOOTEN and LOVE, JJ., concur.
-ENTER:
-Darrell M. Joseph
-Clerk of the Court
-
-
-
-
-
-
-
-
+ (ind. no. 71196/22)
+[*1]the people of the state of new york, respondent,
+vdeshaun gilyard, appellant.
+twyla carter, new york, ny (mary-kathryn smith of counsel), for appellant.
+melinda katz, district attorney, kew gardens, ny (johnnette traill, charles t. pollak, and maryam sheikh of counsel; ann marie turton on the brief), for respondent.
+decision &amp; order
+appeal by the defendant from a judgment of the supreme court, queens county (toni m. cimino, j.), rendered june 27, 2022, convicting him of criminal possession of a weapon in the fourth degree, upon his plea of guilty, and imposing sentence. the appeal brings up for review an order of protection issued in favor of dave mcdonald at the time of sentencing.
+ordered that upon the appeal from the judgment, the order of protection issued in favor of dave mcdonald at the time of sentencing is vacated, as a matter of discretion in the interest of justice; and it is further,
+ordered that the judgment is affirmed.
+the defendant's contention that the supreme court improperly issued an order of protection in favor of dave mcdonald at the time of sentencing is unpreserved for appellate review (see cpl 470.05[2]; people v nieves, 2 ny3d 310, 316-318), but we nevertheless reach the issue in the exercise of our interest of justice jurisdiction (see people v fletcher, 220 ad3d 805; people v rosales, 198 ad3d 988). as the defendant correctly contends, the court had no authority to issue an order of protection in favor of that individual, as he was neither a victim nor a witness to the particular crime to which the defendant pleaded guilty (see cpl 530.13[4]; people v alvarado, 235 ad3d 889; people v lebron, 233 ad3d 710).
+accordingly, we vacate the order of protection issued in favor of dave mcdonald at the time of sentencing.
+iannacci, j.p., genovesi, wooten and love, jj., concur.
+enter:
+darrell m. joseph
+clerk of the court

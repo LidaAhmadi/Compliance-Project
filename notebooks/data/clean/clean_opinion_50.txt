@@ -1,57 +1,19 @@
-
-
-Brown-Clarke v  City of New York (2025 NY Slip Op 02031)
-
-
-
-
-
-Brown-Clarke v  City of New York
-
-
-2025 NY Slip Op 02031
-
-
-Decided on April 08, 2025
-
-
-Appellate Division, First Department
-
-
-
-Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
-
-
-This opinion is uncorrected and subject to revision before publication in the Official Reports.
-
-
-
-Decided and Entered: April 08, 2025
-
-Before: Moulton, J.P., González, Scarpulla, Higgitt, Michael, JJ. 
-
-
-Index No. 20868/16|Appeal No. 4078-4079|Case No. 2024-01562, 2024-03802|
-
-[*1]Sonja Brown-Clarke, Plaintiff-Respondent,
-vThe City of New York, Defendant, Riverbay Corporation, Defendant-Appellant.
-
-
-Malapero Prisco &amp; Klauber LLP, New York (Raymond J. Malapero of counsel), for appellant.
-Law Office of Stephen B. Kaufman, P.C., Bronx (John V. Decolator of counsel), for respondent.
-
-
-
-Order, Supreme Court, Bronx County (Mitchell Danziger, J.), entered June 7, 2024, which granted plaintiff's motion to extend the time to serve on defendants a copy of a May 25, 2021 order with notice of entry and denied defendant Riverbay Corporation's cross-motion to deem that order abandoned or vacated, unanimously affirmed, without costs. Appeal from order, same court and Justice, entered on or about October 31, 2023, which denied, without prejudice, plaintiff's motion to extend the time to serve the May 25, 2021 order and Riverbay's cross-motion to deem that order abandoned, unanimously dismissed, without costs, as superseded by the aforementioned order deciding the motion and the cross-motion on the merits.
-Supreme Court providently exercised its discretion in granting plaintiff's motion for an extension of time to serve the May 25, 2021 order, which, upon reargument, denied Riverbay's motion for summary judgment dismissing the complaint against it. The inadvertent failure by plaintiff's counsel to cause the order to be served on defendants, as directed by the court, was "a mistake, omission, defect or irregularity" that the court was entitled to correct under CPLR 2001 (see S.A.N. v New York City Hous. Auth., 233 AD3d 557, 558 [1st Dept 2024]; TD Bank, N.A. v Clinton Ct. Dev., LLC, 105 AD3d 1032, 1034 [2d Dept 2013]; see also CPLR 2004). Furthermore, Riverbay failed to show that it was prejudiced in any way by not receiving service of a copy of the order. Indeed, Riverbay was aware of the reargument order, as the parties continued to engage in discovery after that order reinstated the claims against Riverbay (see Narvaez v Sammartino, 154 AD3d 500, 501 [1st Dept 2017]).
-We have considered Riverbay's remaining contentions and find them unavailing.
-THIS CONSTITUTES THE DECISION AND ORDER OF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.
-ENTERED: April 8, 2025
-
-
-
-
-
-
-
-
+brown-clarke v city of new york (2025 ny slip op 02031)
+brown-clarke v city of new york
+2025 ny slip op 02031
+decided on april 08, 2025
+appellate division, first department
+published by new york state law reporting bureau pursuant to judiciary law § 431.
+this opinion is uncorrected and subject to revision before publication in the official reports.
+decided and entered: april 08, 2025
+before: moulton, j.p., gonzález, scarpulla, higgitt, michael, jj. 
+index no. 20868/16|appeal no. 4078-4079|case no. 2024-01562, 2024-03802|
+[*1]sonja brown-clarke, plaintiff-respondent,
+vthe city of new york, defendant, riverbay corporation, defendant-appellant.
+malapero prisco &amp; klauber llp, new york (raymond j. malapero of counsel), for appellant.
+law office of stephen b. kaufman, p.c., bronx (john v. decolator of counsel), for respondent.
+order, supreme court, bronx county (mitchell danziger, j.), entered june 7, 2024, which granted plaintiff's motion to extend the time to serve on defendants a copy of a may 25, 2021 order with notice of entry and denied defendant riverbay corporation's cross-motion to deem that order abandoned or vacated, unanimously affirmed, without costs. appeal from order, same court and justice, entered on or about october 31, 2023, which denied, without prejudice, plaintiff's motion to extend the time to serve the may 25, 2021 order and riverbay's cross-motion to deem that order abandoned, unanimously dismissed, without costs, as superseded by the aforementioned order deciding the motion and the cross-motion on the merits.
+supreme court providently exercised its discretion in granting plaintiff's motion for an extension of time to serve the may 25, 2021 order, which, upon reargument, denied riverbay's motion for summary judgment dismissing the complaint against it. the inadvertent failure by plaintiff's counsel to cause the order to be served on defendants, as directed by the court, was "a mistake, omission, defect or irregularity" that the court was entitled to correct under cplr 2001 (see s.a.n. v new york city hous. auth., 233 ad3d 557, 558 [1st dept 2024]; td bank, n.a. v clinton ct. dev., llc, 105 ad3d 1032, 1034 [2d dept 2013]; see also cplr 2004). furthermore, riverbay failed to show that it was prejudiced in any way by not receiving service of a copy of the order. indeed, riverbay was aware of the reargument order, as the parties continued to engage in discovery after that order reinstated the claims against riverbay (see narvaez v sammartino, 154 ad3d 500, 501 [1st dept 2017]).
+we have considered riverbay's remaining contentions and find them unavailing.
+this constitutes the decision and order of the supreme court, appellate division, first department.
+entered: april 8, 2025

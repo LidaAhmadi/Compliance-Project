@@ -1,59 +1,21 @@
-
-
-BGC Notes, LLC v Prusse (2025 NY Slip Op 02150)
-
-
-
-
-
-BGC Notes, LLC v Prusse
-
-
-2025 NY Slip Op 02150
-
-
-Decided on April 15, 2025
-
-
-Appellate Division, First Department
-
-
-
-Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
-
-
-This opinion is uncorrected and subject to revision before publication in the Official Reports.
-
-
-
-Decided and Entered: April 15, 2025
-
-Before: Kern, J.P., Gesmer, Mendez, O'Neill Levy, Michael, JJ. 
-
-
-Index No. 656359/20|Appeal No. 4115|Case No. 2024-04802|
-
-[*1]BGC Notes, LLC, Respondent,
-vRyan S. Prusse, Appellant.
-
-
-Tarter Krinsky &amp; Drogin LLP, New York (Shari S. Laskowitz of counsel), and Broer &amp; Passannante, Vancouver, WA (Mark G. Passannante of the bar of the State of Oregon and the bar of the State of Washington, admitted pro hac vice, of counsel), for appellant.
-Cantor Fitzgerald, New York (Ross Peyser of counsel), for respondent.
-
-
-
-Judgment, Supreme Court, New York County (Arthur F. Engoron, J.), entered June 27, 2024, awarding plaintiff a money judgment against defendant, and bringing up for review an order, same court and Justice, entered on or about March 26, 2024, which granted plaintiff's motion for summary judgment, unanimously affirmed, with costs.
-Defendant real estate appraiser was employed with Newmark Knight Frank Valuation &amp; Advisory, LLC (Newmark) pursuant to an employment agreement. On December 17, 2017, plaintiff, an affiliate of Newmark, executed a cash advance distribution and promissory note with defendant under which plaintiff loaned defendant the principal sum of $255,937.50. As of the date of the note, defendant was also a partner with nonparty BGC Holdings, LP, another affiliate of plaintiff and Newmark. His limited partnership interest entitled him to receive prospective cash distributions. The note required defendant to pay principal and interest from partnership distributions until the note was fully satisfied.
-On September 2, 2020, defendant emailed his supervisor stating that he intended to stop performing his duties at Newmark. As a result, defendant was terminated from his employment with Newmark, ceased to provide services for Newmark, and ceased to be a limited partner in BGC Holdings. These events caused the outstanding amounts owed under the note to become immediately due and payable.
-Defendant's contention that the note was not immediately due and payable because he continued to provide services to Newmark is incorrect. Although the term "services" is not explicitly defined within the employment agreement, the agreement expressly states, under section 2, titled "Duties," that "Employee represents and warrants that Employee holds a current real estate appraisal license in and under the laws of any state where Employee renders appraisal services pursuant to this Agreement." "[B]ecause the terms of a contract must be read in context" (By Design LLC v Samsung Fire &amp; Mar. Ins. Co. Ltd. [U.S. Branch], 173 AD3d 590, 591 [1st Dept 2019]), the term "services," as used in the note, which was executed contemporaneously with the employment agreement, refers to defendant's duties under the employment agreement to render real estate appraisal services (see Bijan Designer for Men v Fireman's Fund Ins. Co., 264 AD2d 48, 52 [1st Dept 2000], lv denied 96 NY2d 707 [2001]). Sections 6 and 7 of the employment agreement, the non-solicitation and non-competition clauses, described post termination obligations, as opposed to affirmative duties to perform services (see e.g. Process America, Inc. v Cynergy Holdings, LLC, 839 F3d 125, 137 [2d Cir 2016]).
-In addition, we reject defendant's argument that he did not cease to be a partner as that term is defined in the loan agreement with plaintiff. Although defendant is defined as a "Partner" in the note, the contemporaneously executed partnership agreements unequivocally state that partnership status ends following [*2]termination (see 1471 Second Corp. v NAT of NY Corp., 162 AD3d 449, 450 [1st Dept 2018] ["agreements executed at substantially the same time and related to the same subject matter are regarded as contemporaneous writings and must be read together as one" (internal quotation marks omitted)]). Defendant's argument concerning the receipt of non-exchangeable partnership units does not change this result. 
-THIS CONSTITUTES THE DECISION AND ORDER OF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.
-ENTERED: April 15, 2025
-
-
-
-
-
-
-
-
+bgc notes, llc v prusse (2025 ny slip op 02150)
+bgc notes, llc v prusse
+2025 ny slip op 02150
+decided on april 15, 2025
+appellate division, first department
+published by new york state law reporting bureau pursuant to judiciary law § 431.
+this opinion is uncorrected and subject to revision before publication in the official reports.
+decided and entered: april 15, 2025
+before: kern, j.p., gesmer, mendez, o'neill levy, michael, jj. 
+index no. 656359/20|appeal no. 4115|case no. 2024-04802|
+[*1]bgc notes, llc, respondent,
+vryan s. prusse, appellant.
+tarter krinsky &amp; drogin llp, new york (shari s. laskowitz of counsel), and broer &amp; passannante, vancouver, wa (mark g. passannante of the bar of the state of oregon and the bar of the state of washington, admitted pro hac vice, of counsel), for appellant.
+cantor fitzgerald, new york (ross peyser of counsel), for respondent.
+judgment, supreme court, new york county (arthur f. engoron, j.), entered june 27, 2024, awarding plaintiff a money judgment against defendant, and bringing up for review an order, same court and justice, entered on or about march 26, 2024, which granted plaintiff's motion for summary judgment, unanimously affirmed, with costs.
+defendant real estate appraiser was employed with newmark knight frank valuation &amp; advisory, llc (newmark) pursuant to an employment agreement. on december 17, 2017, plaintiff, an affiliate of newmark, executed a cash advance distribution and promissory note with defendant under which plaintiff loaned defendant the principal sum of $255,937.50. as of the date of the note, defendant was also a partner with nonparty bgc holdings, lp, another affiliate of plaintiff and newmark. his limited partnership interest entitled him to receive prospective cash distributions. the note required defendant to pay principal and interest from partnership distributions until the note was fully satisfied.
+on september 2, 2020, defendant emailed his supervisor stating that he intended to stop performing his duties at newmark. as a result, defendant was terminated from his employment with newmark, ceased to provide services for newmark, and ceased to be a limited partner in bgc holdings. these events caused the outstanding amounts owed under the note to become immediately due and payable.
+defendant's contention that the note was not immediately due and payable because he continued to provide services to newmark is incorrect. although the term "services" is not explicitly defined within the employment agreement, the agreement expressly states, under section 2, titled "duties," that "employee represents and warrants that employee holds a current real estate appraisal license in and under the laws of any state where employee renders appraisal services pursuant to this agreement." "[b]ecause the terms of a contract must be read in context" (by design llc v samsung fire &amp; mar. ins. co. ltd. [u.s. branch], 173 ad3d 590, 591 [1st dept 2019]), the term "services," as used in the note, which was executed contemporaneously with the employment agreement, refers to defendant's duties under the employment agreement to render real estate appraisal services (see bijan designer for men v fireman's fund ins. co., 264 ad2d 48, 52 [1st dept 2000], lv denied 96 ny2d 707 [2001]). sections 6 and 7 of the employment agreement, the non-solicitation and non-competition clauses, described post termination obligations, as opposed to affirmative duties to perform services (see e.g. process america, inc. v cynergy holdings, llc, 839 f3d 125, 137 [2d cir 2016]).
+in addition, we reject defendant's argument that he did not cease to be a partner as that term is defined in the loan agreement with plaintiff. although defendant is defined as a "partner" in the note, the contemporaneously executed partnership agreements unequivocally state that partnership status ends following [*2]termination (see 1471 second corp. v nat of ny corp., 162 ad3d 449, 450 [1st dept 2018] ["agreements executed at substantially the same time and related to the same subject matter are regarded as contemporaneous writings and must be read together as one" (internal quotation marks omitted)]). defendant's argument concerning the receipt of non-exchangeable partnership units does not change this result. 
+this constitutes the decision and order of the supreme court, appellate division, first department.
+entered: april 15, 2025
