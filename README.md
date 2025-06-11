@@ -71,9 +71,8 @@ The court rulings retrieved from CourtListener follow a semi-structured format. 
 # Example Cleaned Ruling (Preview)
 
 > pantanilla v yuson (2025 ny slip op 02597)  
-> decided on april 30, 2025  
-> appellate division, second department  
-> in an action to recover damages for unjust enrichment, the plaintiff alleged an agreement to purchase a business and partial payments > made. the defendant rescinded the agreement without refunding the payments. a default judgment was entered in favor of the plaintiff > for $40,000. the court affirmed the judgment.
+decided on april 30, 2025  
+appellate division, second department in an action to recover damages for unjust enrichment, the plaintiff alleged an agreement to purchase a business and partial payments made. the defendant rescinded the agreement without refunding the payments. a default judgment was entered in favor of the plaintiff for $40,000. the court affirmed the judgment.
 
 
 # Future Work
