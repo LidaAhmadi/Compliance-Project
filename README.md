@@ -25,19 +25,25 @@ Build a prototype pipeline to:
 The data used in this project comes from [CourtListener](https://www.courtlistener.com/), an open-access repository of legal opinions maintained by the Free Law Project. CourtListener provides bulk downloads and APIs containing court rulings from U.S. federal and state courts, including appellate decisions with full-text legal opinions.
 
 # Project Structure
-
+```
 compliance-nlp/
 │
-├── data/                  # Raw and processed text data
-├── notebooks/             # Step-by-step development in Jupyter
-├── src/                   # Modular Python code
-│   ├── cleaning.py        # Text normalization and cleaning functions
-│   ├── embedding.py       # Embedding generation
-│   ├── search.py          # FAISS-based semantic search
-│   └── labeling.py        # Risk labeling via rule-based or semantic classification
-├── README.md              # Project documentation
-└── requirements.txt       # Environment setup
-
+├── data/                                # Raw and processed text data
+│   ├── raw/                             # Unprocessed fetched files (raw txt)
+│   └── clean/                           # Cleaned and normalized texts
+│
+├── notebooks/                           # Jupyter notebooks for exploration and prototyping
+│   ├── 01_fetch_opinions.ipynb          # Fetch and store rulings from CourtListener's API 
+│   ├── 02_load_and_clean_rulings.ipynb  # Clean and normalize text for further processing
+│   ├── 03_semantic_search.ipynb         # Perform similarity search using embeddings + FAISS
+│   └── 04_label_and_review.ipynb        # Risk labeling via rule-based or semantic classification
+├── src/                                 # Modular Python code
+│
+├── README.md                            # Project documentation
+├── config.py                            # Configuration 
+├── requirements.txt                     # Environment setup
+└── .gitignore                           # Files and folders to exclude from Git
+```
 # Progress & Roadmap
 
 | Phase                                              | Status     |
