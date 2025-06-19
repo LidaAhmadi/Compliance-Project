@@ -1,0 +1,17 @@
+phrase,label
+parental rights terminated,high
+default judgment,high
+appeal dismissed,medium
+order affirmed,medium
+judgment reversed,low
+remanded for further proceedings,medium
+conviction affirmed,high
+conviction reversed,low
+motion to dismiss granted,low
+motion to dismiss denied,medium
+custody transferred,high
+no appeal lies,low
+best interests of the child,medium
+suppressed evidence,high
+ineffective assistance of counsel,high
+verdict not against the weight of the evidence,medium

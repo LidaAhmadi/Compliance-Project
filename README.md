@@ -30,13 +30,17 @@ compliance-nlp/
 │
 ├── data/                                # Raw and processed text data
 │   ├── raw/                             # Unprocessed fetched files (raw txt)
-│   └── clean/                           # Cleaned and normalized texts
+│   ├── clean/                           # Cleaned and normalized texts
+│   └── labels/                           # Label dictionaries, phrase-label mappings (CSV/Excel)
+
 │
 ├── notebooks/                           # Jupyter notebooks for exploration and prototyping
 │   ├── 01_fetch_opinions.ipynb          # Fetch and store rulings from CourtListener's API 
 │   ├── 02_load_and_clean_rulings.ipynb  # Clean and normalize text for further processing
-│   ├── 03_semantic_search.ipynb         # Perform similarity search using embeddings + FAISS
-│   └── 04_label_and_review.ipynb        # Risk labeling via rule-based or semantic classification
+│   ├── 03_rule_based_labeling.ipynb      # Apply phrase-level risk labeling using dictionary
+│   ├── 04_semantic_search.ipynb          # Similarity search with embeddings + FAISS
+│   └── 05_label_review_and_eval.ipynb    # Manual review, evaluation, and LLM-assisted labeling
+
 ├── src/                                 # Modular Python code
 │
 ├── README.md                            # Project documentation
@@ -50,8 +54,8 @@ compliance-nlp/
 |---------------------------------------------------|------------|
 | Data fetching (CourtListener)                     | Completed |
 | Text cleaning and standardization                 | Completed |
-| Semantic search with SBERT + FAISS                | Completed|
-| Risk labeling (rule-based and LLM-assisted)       | Upcoming |
+| Rule-based Risk labeling                          | Completed |
+| Semantic search with SBERT + FAISS                | Upcoming|
 | Evaluation (Precision@k, NDCG) + Output Reporting | Upcoming |
 
 # Sample Use Case
@@ -76,9 +80,7 @@ appellate division, second department in an action to recover damages for unjust
 
 
 # Future Work
-
-- Add LLM-based prompting and comparison with rule-based methods  
-- Evaluate outputs using IR metrics (Precision@k, NDCG)  
+  
 - Build simple Streamlit app for demo interface  
 - Explore model versioning and MLOps integration
 
