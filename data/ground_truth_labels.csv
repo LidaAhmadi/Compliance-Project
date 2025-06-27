@@ -1,0 +1,60 @@
+doc_index,Rationale,human_label
+0,"Affirms a weapon conviction, denying significant procedural challenges like suppression and ineffective counsel.",high
+1,The case was resolved by a default judgment due to the defendant's failure to answer the complaint.,high
+2,A standard commercial real estate dispute where the court granted a necessary license to a neighbor.,low
+3,A family offense case was remitted to a lower court to determine the threshold issue of subject matter jurisdiction.,medium
+4,"A mortgage foreclosure was decided on summary judgment, with the court denying a motion for leave to renew.",medium
+5,A court denied a late motion to amend the bill of particulars in a medical malpractice case.,medium
+6,The court terminated the parental rights of both parents on the grounds of permanent neglect.,high
+7,An appeal was dismissed because it was taken from a nonappealable paper (a refusal to sign an order).,low
+8,An appeal regarding child placement was dismissed as academic because the child aged out of the system.,low
+9,A lawsuit for unpaid wages under the Labor Law was partially reinstated after being improperly dismissed.,medium
+10,"The court affirms a conviction, finding the defendant was not deprived of the effective assistance of counsel.",high
+11,"The court affirmed a conviction, denying a request for an adjournment as a trial tactic without merit.",low
+12,A personal injury claim was dismissed for failure to serve a timely notice of claim.,medium
+13,"A complex lawsuit was dismissed based on collateral estoppel from a prior, related action.",medium
+14,A grandparent's custody petition was granted a new hearing after being improperly dismissed.,medium
+15,A motion for summary judgment was denied in a personal injury car accident case due to triable issues of fact.,low
+16,"An appeal was precluded by a valid waiver, and claims of ineffective counsel regarding immigration consequences were denied.",high
+17,"A revived Child Victims Act claim was allowed to proceed, denying a motion to dismiss it as time-barred.",medium
+18,An appeal regarding sentencing as a persistent violent felony offender was dismissed as unpreserved for review.,low
+19,A complaint alleging undue influence over beneficiary designations was partially reinstated.,medium
+20,A motion to vacate an order of preclusion was denied due to an insufficient excuse of law office failure.,medium
+21,A motion to dismiss for lack of personal jurisdiction was denied due to timely re-service of the summons.,medium
+22,A custody petition was dismissed for lack of subject matter jurisdiction as another state had exclusive jurisdiction.,medium
+23,A denial of summary judgment was affirmed because the danger (a toll booth arm) was not considered open and obvious.,low
+24,A sentence was affirmed as not excessive.,low
+25,A complex lawsuit against multiple law firms was dismissed based on collateral estoppel and failure to state a cause of action.,medium
+26,"A motion for summary judgment was granted, dismissing an employment discrimination claim.",medium
+27,A co-op's lien for attorneys' fees was found unenforceable as unconscionable and the judgment was modified.,medium
+28,Summary judgment was granted to turn over a safe deposit box due to a fraudulent conveyance of property.,high
+29,"Summary judgment was denied in a res ipsa loquitur case, finding triable issues of fact regarding negligence.",low
+30,"The court denied the appointment of a receiver in a real estate dispute, finding no clear evidence of irreparable loss.",low
+31,A Fair Debt Collection Practices Act (FDCPA) claim was dismissed for the plaintiff's lack of standing.,medium
+32,The court granted an extension of time to serve a summons in a foreclosure action in the interest of justice.,low
+33,Summary judgment was granted to turn over property due to a fraudulent conveyance made to hinder creditors.,high
+34,An order of protection was vacated as it was improperly issued in favor of a non-victim/non-witness.,medium
+35,A city council's denial of a special use permit was annulled as it lacked a rational basis and was based on community objection.,medium
+36,A sentence was vacated and remanded for resentencing due to an incomplete and inadequate presentence report.,high
+37,A defendant was granted the right to file a late notice of appeal.,low
+38,A cross-motion to reduce postjudgment interest in a foreclosure was denied as no bad faith was shown.,low
+39,A negligence claim against a police department was dismissed for failure to state a cause of action.,medium
+40,Summary judgment was denied in a Labor Law case due to triable issues of fact about safety devices.,low
+41,A claim of false imprisonment and medical malpractice was dismissed due to the plaintiff's lack of diligence in serving the defendant.,medium
+42,A motion to dismiss a complaint as abandoned after a default judgment was denied due to a reasonable excuse.,high
+43,"A defendant was designated a level two sex offender, and his request for a downward departure was denied.",medium
+44,A cross-motion to reduce postjudgment interest was denied.,low
+45,A personal injury claim was dismissed for failure to serve a timely notice of claim against a municipality.,medium
+46,Summary judgment was denied in a Labor Law case due to triable issues about whether the plaintiff was the sole proximate cause.,low
+47,The court terminated the parental rights of both parents on the grounds of permanent neglect.,high
+48,"The court affirmed a conviction for rape, finding no merit to claims of ineffective assistance of counsel.",high
+49,A father was found liable for child care arrears as stipulated in a separation agreement.,low
+50,"A weapon conviction was affirmed, denying challenges on suppression, Miranda rights, and effective counsel.",high
+51,"A sentence was affirmed, with the court declining to review an unpreserved challenge to an order of protection.",low
+52,Summary judgment was granted against a real estate appraiser to enforce the terms of a promissory note.,low
+53,A father was found liable for child care arrears as stipulated in a separation agreement.,low
+54,A motion to compel a physical examination after the note of issue was filed was denied.,low
+55,"A conviction was affirmed, as the defendant's challenges were precluded by a valid waiver of the right to appeal.",high
+56,"A sentence was affirmed, with the court declining to review an unpreserved challenge to an order of protection.",low
+57,A conviction for predatory sexual assault against a child was affirmed against a weight of the evidence challenge.,high
+58,A sentence was affirmed after finding the defendant's waiver of the right to appeal was invalid.,high
