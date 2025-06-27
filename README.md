@@ -21,7 +21,7 @@ The refined Triage model from Phase 1 was evaluated against a manually labeled g
 * **Precision (for `high` risk): 75%**
 * **Recall (for `high` risk): 40%**
 
-![Confusion Matrix for Triage Model](images/confusion_matrix_final.png)
+<img src="images/confusion_matrix_final.png" width="500">
 
 > **Conclusion:** The model is a successful proof-of-concept. It is **reliable** when it flags a case as high priority (good precision), but it is not yet **comprehensive** (low recall). This result provides a strong quantitative baseline and a clear, data-driven justification for moving to more advanced methods in Phase 2.
 
