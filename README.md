@@ -117,7 +117,7 @@ The successful completion of this rule-based classification phase provides the p
     * The top priority is to address the 40% recall from the Triage model. I will implement a semantic search pipeline using SBERT and FAISS to find conceptually similar documents that our rule dictionary currently misses. This will provide a powerful new layer of risk detection.
 
 2.  **Compare with Advanced Methods (Phase 2):**
-    * Using the `decisions_with_risk_labels.csv` file as a high-quality labeled dataset, I will train and evaluate an LLM-based classifier (likely using a RAG approach) and compare its performance directly against the rule-based baseline.
+        * Using our **`ground_truth_labels.csv`** as a high-quality evaluation set, I will benchmark the rule-based model against an LLM-based classifier. This will likely involve using examples from the ground truth set for few-shot prompting in a RAG system, allowing for a direct, objective comparison of the two approaches.
 
 3.  **Build an Interactive Demo (Phase 2/3):**
     * To showcase the results of these models, I will develop a simple web application using Streamlit. This will allow a user to paste in text or query the system and see the risk classification and semantic search results in real time.
