@@ -31,8 +31,9 @@ The refined Triage model from Phase 1 was evaluated against a manually labeled g
 - **Languages**: Python
 - **Tools**: JupyterLab, Git, GitHub
 
-- **Phase 1 Libraries**: `pandas`, `re` (for regular expressions), `scikit-learn` (for evaluation), `matplotlib`, `seaborn`, `cmocean`
-- **Libraries for Future Phases**: `spacy`, `sentence-transformers`, `faiss`, `streamlit`
+- **Phase 1 Libraries**: `pandas`, `re`, `scikit-learn`, `matplotlib`
+- **Libraries for Future Phases**: `spacy`, `sentence-transformers`, `faiss`, `transformers` (Hugging Face), `langchain`, `streamlit`
+
 
 - **Phase 1 Concepts & Methods**: Text Normalization, Rule-Based Classification, Manual Refinement, Model Evaluation (Precision, Recall, Confusion Matrix)
 
