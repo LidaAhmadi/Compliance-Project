@@ -1,12 +1,12 @@
 # A Multi-Phase Project for Risk Analysis
 
-# Overview
+## Overview
 
 This project applies natural language processing (NLP), rule-based techniques, and semantic search to support real-world compliance and risk review workflows.
 
 Inspired by challenges I've encountered in my professional role, this project transforms large-scale unstructured legal texts into structured, actionable insights. Built independently using public data, it demonstrates a practical, end-to-end process for identifying relevant cases, surfacing risk signals, and creating a transparent, auditable analysis pipeline.
 
-# Project Phases & Roadmap
+## Project Phases & Roadmap
 
 | Phase                                              | Status     | Key Milestone |
 |---------------------------------------------------|------------|-----------------------------------|
@@ -25,7 +25,7 @@ The refined Triage model from Phase 1 was evaluated against a manually labeled g
 
 > **Conclusion:** The model is a successful proof-of-concept. It is **reliable** when it flags a case as high priority (good precision), but it is not yet **comprehensive** (low recall). This result provides a strong quantitative baseline and a clear, data-driven justification for moving to more advanced methods in Phase 2.
 
-# Tech Stack
+## Tech Stack
 
 - **Languages**: Python
 - **Tools**: JupyterLab, Git, GitHub
@@ -35,11 +35,11 @@ The refined Triage model from Phase 1 was evaluated against a manually labeled g
 
 - **Phase 1 Concepts & Methods**: Text Normalization, Rule-Based Classification, Manual Refinement, Model Evaluation (Precision, Recall, Confusion Matrix)
 
-# Data Source
+## Data Source
 
 The data used in this project comes from [CourtListener](https://www.courtlistener.com/), an open-access repository of legal opinions maintained by the Free Law Project. CourtListener provides bulk downloads and APIs containing court rulings from U.S. federal and state courts, including appellate decisions with full-text legal opinions.
 
-# Project Structure
+## Project Structure
 ```
 compliance-nlp/
 │
@@ -71,7 +71,7 @@ compliance-nlp/
 ```
 
 
-# Use Cases & Project Vision
+## Use Cases & Project Vision
 
 The end-goal of this multi-phase project is to create an integrated system that supports deep, contextual analysis of legal texts. The ultimate use case is to:
 
@@ -86,7 +86,7 @@ Each phase of this project builds a critical component of that final vision:
     * This phase will build on the foundation by introducing semantic search. This will allow an analyst to move beyond fixed rules and find documents that are *conceptually similar* to a query, even if they don't share the same keywords. This directly addresses the recall limitations discovered in Phase 1.
 
 
-# Understanding Ruling Structure
+## Data Processing & Schema
 
 The court rulings retrieved from CourtListener follow a semi-structured format. Each ruling typically includes:
 
@@ -94,8 +94,6 @@ The court rulings retrieved from CourtListener follow a semi-structured format. 
 - **Procedural Context**: Explanation of how the case arrived at the court (e.g., appeals, motions)  
 - **Decision and Order**: The court’s final ruling and legal reasoning  
 - **Legal Citations**: References to relevant statutes and past cases
-
-# Data Processing & Schema
 
 The raw text files from CourtListener are processed by the `02_load_and_clean_rulings.ipynb` notebook into a structured `pandas` DataFrame. This DataFrame serves as the primary input for the analysis.
 
@@ -110,7 +108,7 @@ For this initial phase, I focused on extracting three key fields: `doc_index`, `
 
 While the raw data contains additional metadata (like court, date, docket number, etc.), I made a strategic decision to defer full metadata extraction to a future phase. This allowed me to keep the scope of Phase 1 focused on building and validating the core text analysis and classification pipeline.
 
-# Future Work (Phase 2 & 3)
+## Future Work (Phase 2 & 3)
 
 The successful completion of this rule-based classification phase provides the perfect foundation for the next steps. The quantitative evaluation of Phase 1 gives us a data-driven mandate to explore more advanced techniques.
 
