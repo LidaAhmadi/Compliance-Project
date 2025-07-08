@@ -1,0 +1,166 @@
+Walker-Little v Westchester Med. Ctr. (
+2025 NY Slip Op 02620
+)
+
+
+
+
+
+
+
+
+Walker-Little v Westchester Med. Ctr.
+
+
+
+
+
+
+2025 NY Slip Op 02620
+
+
+
+
+
+
+Decided on April 30, 2025
+
+
+
+
+
+
+Appellate Division, Second Department
+
+
+
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+
+
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+
+
+
+
+Decided on April 30, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+
+MARK C. DILLON, J.P.
+
+FRANCESCA E. CONNOLLY
+
+LINDA CHRISTOPHER
+
+BARRY E. WARHIT, JJ.
+
+
+
+
+2022-07806
+
+ (Index No. 57137/22)
+
+
+[*1]Nebesia Walker-Little, appellant,
+
+v
+Westchester Medical Center, respondent.
+
+
+
+
+
+StolzenbergCortelli, LLP, White Plains, NY (Terrence James Cortelli of counsel), for appellant.
+
+
+Wilson, Bave, Conboy, Cozza & Couzens, P.C., White Plains, NY (Claudine L. Weis of counsel), for respondent.
+
+
+
+
+DECISION & ORDER
+
+
+In an action to recover damages for personal injuries, the plaintiff appeals from an order of the Supreme Court, Westchester County (Lewis J. Lubell, J.), dated August 16, 2022. The order, insofar as appealed from, granted the defendant's motion pursuant to CPLR 3211(a) to dismiss the complaint and denied that branch of the plaintiff's cross-motion which was for leave to serve a late notice of claim.
+
+
+ORDERED that the order is affirmed insofar as appealed from, with costs.
+
+
+In August 2020, the plaintiff allegedly sustained injuries when she slipped and fell on wet carpet at the premises of the defendant, Westchester Medical Center (hereinafter WMC). On October 16, 2020, the plaintiff sent a letter (hereinafter the October 2020 letter) notifying WMC of her fall and her intention to commence an action to recover damages for personal injuries. The October 2020 letter stated, inter alia, the date and the address where the accident occurred. However, the October 2020 letter did not describe the exact location within WMC's premises where the accident occurred. On March 4, 2022, the plaintiff commenced this action against WMC.
+
+
+WMC moved pursuant to CPLR 3211(a)(5) and (7) to dismiss the complaint as time-barred and for failure to state a cause of action. The plaintiff cross-moved, inter alia, for leave to serve a late notice of claim. In an order dated August 16, 2022, the Supreme Court, among other things, granted WMC's motion and denied that branch of the plaintiff's cross-motion. The plaintiff appeals.
+
+
+General Municipal Law § 50-e(1)(a) requires a plaintiff to serve a notice of claim within 90 days after a claim arises as a condition precedent to commencement of a tort action against a municipal corporation. "'[I]n determining compliance with the requirements of General Municipal Law § 50-e, courts should focus on the purpose served by a Notice of Claim: whether based on the claimant's description municipal authorities can locate the place, fix the time and understand the nature of the accident'" (
+T.N. v City of New York
+, 
+227 AD3d 815
+, 816, quoting 
+Brown v City of New York
+, 
+95 NY2d 389, 393
+; 
+see Behrens v Town of Huntington
+, 
+230 AD3d 730
+, 731-732).
+
+
+Here, the plaintiff contends that the October 2020 letter served as a valid notice of claim. However, the October 2020 letter failed to comply with the specificity requirements of General Municipal Law § 50-e(2), as it, inter alia, failed to describe the location of the plaintiff's accident with sufficient specificity, and thus, the October 2020 letter was insufficient to serve as a valid notice of claim (
+see Behrens v Town of Huntington
+, 230 AD3d at 732). Furthermore, even taking into account Executive Order (A. Cuomo) No. 202.8 (9 NYCRR 8.202.8), which tolled certain statutes of limitation in response to the COVID-19 pandemic through November 4, 2020, the plaintiff only had 90 days after the toll was lifted, or until February 2, 2021, to serve a notice of claim, and she failed to do so. Therefore, the plaintiff failed to comply with the condition precedent of General Municipal Law § 50-e(1), as she failed to timely serve a notice of claim.
+
+
+"In determining whether to grant a petition for leave to serve a late notice of claim or to deem a late notice of claim timely served nunc pro tunc, a court must consider all relevant circumstances, including, but not limited to, whether the municipality acquired actual knowledge of the essential facts constituting the claim within 90 days after the claim arose or a reasonable time thereafter, whether the delay would substantially prejudice the municipality in its defense, and whether the petitioner demonstrated a reasonable excuse for the failure to serve a timely notice of claim" (
+Matter of Ionescu v City of New York
+, 
+230 AD3d 1143
+, 1144; 
+see
+ General Municipal Law § 50-e[5]; 
+Matter of Cleary v Nassau Health Care Corp.
+, 
+215 AD3d 958
+, 959; 
+Matter of Ibrahim v New York City Tr. Auth.
+, 
+202 AD3d 786
+, 787). "Neither the presence nor absence of any one factor is determinative, although it is generally recognized that the question of whether the municipality timely acquired actual knowledge is of great importance" (
+Matter of C.N. v City of New York
+, 
+208 AD3d 784
+, 785; 
+see I.N. v City of Yonkers
+, 
+203 AD3d 721
+, 723). Here, the plaintiff failed to establish that WMC had actual knowledge of the essential facts constituting the claim, failed to provide a reasonable excuse, and failed to establish that it would not substantially prejudice WMC in its defense if the late notice were allowed. Accordingly, the Supreme Court providently exercised its discretion in denying that branch of the plaintiff's cross-motion which was for leave to serve a late notice of claim.
+
+
+Moreover, even assuming that the plaintiff satisfied General Municipal Law § 50-e(5), she then had one year and 90 days after the toll on the statute of limitations was lifted, or until February 2, 2022, to commence this action but did not do so until March 4, 2022, 30 days after the applicable statute of limitations had expired. Therefore, the Supreme Court properly granted WMC's motion to dismiss the complaint on the ground that the action was time-barred.
+
+
+The plaintiff's remaining contentions are improperly raised for the first time on appeal.
+
+
+DILLON, J.P., CONNOLLY, CHRISTOPHER and WARHIT, JJ., concur.
+
+ENTER:
+
+Darrell M. Joseph
+
+
+Clerk of the Court

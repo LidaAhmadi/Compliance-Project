@@ -1,5 +1,3 @@
-# config.py
-
 # Authentication
 API_TOKEN = "f4da303a8e7157096cac7c76565e21032fb33013"
 

@@ -1,0 +1,204 @@
+Franklin Carroll, LLC v Carroll Dev. Plaza, LLC (
+2025 NY Slip Op 02759
+)
+
+
+
+
+
+
+
+
+Franklin Carroll, LLC v Carroll Dev. Plaza, LLC
+
+
+
+
+
+
+2025 NY Slip Op 02759
+
+
+
+
+
+
+Decided on May 7, 2025
+
+
+
+
+
+
+Appellate Division, Second Department
+
+
+
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+
+
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+
+
+
+
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+
+ANGELA G. IANNACCI, J.P.
+
+LINDA CHRISTOPHER
+
+BARRY E. WARHIT
+
+DONNA-MARIE E. GOLIA, JJ.
+
+
+
+
+2024-03137
+
+ (Index No. 502435/24)
+
+
+[*1]Franklin Carroll, LLC, appellant, 
+
+v
+Carroll Development Plaza, LLC, respondent.
+
+
+
+
+
+Butler, Fitzgerald & Fiveson, P.C., New York, NY (David K. Fiveson of counsel), for appellant.
+
+
+Peraino Malinowski LLP, New York, NY (David M. Peraino and Matthew C. Schwartz of counsel), for respondent.
+
+
+
+
+DECISION & ORDER
+
+
+In an action, inter alia, for injunctive relief and to recover damages for trespass, the plaintiff appeals from an order of the Supreme Court, Kings County (Carolyn E. Wade, J.), dated February 27, 2024. The order denied the plaintiff's motion for a preliminary injunction and, in effect, granted the defendant's cross-motion for a license, among other things, to access the plaintiff's real property, subject to certain conditions.
+
+
+ORDERED that the order is affirmed, with costs.
+
+
+The plaintiff and the defendant own adjacent real properties located in Brooklyn. In 2019, in furtherance of the defendant's plan to construct a building on its property, the parties entered into a license agreement. The plaintiff agreed to permit the defendant to access the plaintiff's property and to install "TEMPORARY PROTECTIONS" on the plaintiff's property, including, monitoring equipment, a construction fence on the lot line, and a construction shed and scaffold in the plaintiff's rear yard. In consideration, the defendant agreed, inter alia, to pay to the plaintiff a monthly licensing fee, commencing upon the installation of the temporary protections. The defendant deposited with the plaintiff's attorney licensing fees for the first six months, to be held in escrow. However, the defendant's project was delayed and it is undisputed that the term of the license agreement expired on October 22, 2021, without the defendant ever having entered upon the plaintiff's property. The funds held in escrow were not returned to the defendant.
+
+
+In 2023, the parties attempted to negotiate a new license agreement, but the negotiations were unsuccessful. Nevertheless, in September 2023, the defendant entered upon the plaintiff's property and installed temporary protections. The defendant then began construction of its building.
+
+
+On or about January 24, 2024, the plaintiff commenced this action, among other things, for an injunction directing the defendant to remove the temporary protections and to refrain from entering upon the plaintiff's property and to recover damages for trespass. The following day, the plaintiff moved for a preliminary injunction. Invoking RPAPL 881, the defendant cross-moved [*2]for a license, inter alia, to access the plaintiff's property. The Supreme Court granted the defendant's cross-motion for a license, upon certain specified conditions, including the payment of monthly licensing fees as set forth in the 2019 license agreement, with a credit for the fees already paid, and requirements that the defendant name the plaintiff as an additional insured on its commercial general liability insurance policy and repair any physical damage to the plaintiff's property caused by the defendant's access. The court also denied the plaintiff's motion for a preliminary injunction. The plaintiff appeals.
+
+
+RPAPL 881 allows an owner of real property planning to make improvements thereon to seek a license to enter the premises of an adjoining owner when such entry is necessary to make the improvements and the adjoining owner has refused such access (
+see
+ 
+id.
+; 
+Matter of Voron v Board of Mgrs. of Newswalk Condominium
+, 
+186 AD3d 833
+, 834). In determining whether to grant a license pursuant to RPAPL 881, the court may consider the following factors: "the nature and extent of the requested access, the duration of the access, the protections to the adjoining property that are needed, the lack of an alternative means to perform the work, the public interest in the completion of the project, and the measures in place to ensure the financial compensation of the adjoining owner for any damage or inconvenience resulting from the intrusion" (
+Matter of Voron v Board of Mgrs. of Newswalk Condominium
+, 186 AD3d at 835; 
+see Matter of Queens Coll. Special Projects Fund, Inc. v Newman
+, 
+154 AD3d 943, 944
+). In general, "[c]ourts are required to balance the interests of the parties and should issue a license when necessary, under reasonable conditions, and where the inconvenience to the adjacent property owner is relatively slight compared to the hardship of his [or her] neighbor if the license is refused" (
+Matter of Voron v Board of Mgrs. of Newswalk Condominium
+, 186 AD3d at 835 [internal quotation marks omitted]).
+
+
+Here, the Supreme Court did not improvidently exercise its discretion in issuing a license to the defendant with specified conditions. The defendant's evidence demonstrated that the temporary protections would be in place for no more than 12 months and were necessary for the defendant to construct its building while protecting the plaintiff's property in accordance with the requirements of the New York City Building Code (
+see
+ 
+Matter of Queens Coll. Special Projects Fund, Inc. v Newman
+, 
+154 AD3d at 944
+). Further, the plaintiff would be protected financially by the defendant's payment of substantial monthly licensing fees, being named as an additional insured on the defendant's insurance policy, and the defendant's payment for any physical damage to the plaintiff's property (
+see
+ 
+id.
+; 
+Matter of Voron v Board of Mgrs. of Newswalk Condominium
+, 186 AD3d at 835).
+
+
+In opposition to the defendant's showing, the plaintiff did not submit any evidence, such as an opposing expert affidavit, to show that, or to raise any triable issues of fact as to whether, the temporary protections were unnecessary or unreasonable or that the balance of the parties' interests required denial of the license. Further, as no triable issues of fact were raised, the plaintiff was not entitled to a hearing on the defendant's request for a license (
+see
+ RPAPL 881; CPLR 409). Contrary to the plaintiff's contention, the Supreme Court's granting of a license did not serve to excuse, after the fact, the defendant's trespass on the plaintiff's property. The license was not granted nunc pro tunc to the defendant's entry onto the plaintiff's property in September 2023. Nor was such relief requested by the defendant. Thus, the defendant's use of the plaintiff's property was licensed only as of the issuance of the court's order.
+
+
+Contrary to the plaintiff's further contention, in issuing the license, the Supreme Court had the authority to impose "such terms as justice requires," including the terms to which the parties had previously agreed in the 2019 license agreement (RPAPL 881). The conditions imposed by the court were not an improvident exercise of its discretion.
+
+
+The Supreme Court also did not improvidently exercise its discretion in denying the plaintiff's motion for a preliminary injunction. "Although the purpose of a preliminary injunction is to preserve the status quo pending a trial, the remedy is considered a drastic one, which should be used sparingly" (
+Soundview Cinemas, Inc. v AC I Soundview, LLC
+, 
+149 AD3d 1121, 1123
+). "To obtain a preliminary injunction, a movant must establish (1) a likelihood of success on the merits, (2) irreparable injury absent a preliminary injunction, and (3) a balancing of the equities in the [*3]movant's favor" (
+Samaha v Brooklyn Bridge Park Corp.
+, 
+230 AD3d 608
+, 610 [internal quotation marks omitted]; 
+see
+ CPLR 6301).
+
+
+Here, while the plaintiff showed a likelihood of success on its cause of action to recover damages for the past trespass (
+see
+ 
+Umlas v Britton
+, 
+222 AD3d 1031
+, 1032; 
+Shrage v Con Edison Co.
+, 
+216 AD3d 1023
+, 1025-1026), it is not likely to succeed on its cause of action for an injunction in light of the order granting the defendant's cross-motion for a license (
+see
+ 
+Spatafore v U.S. Bank Trust N.A.
+, 
+231 AD3d 985
+, 986). Furthermore, even absent the granting of the license, at the point when the plaintiff made its motion, the balance of the equities favored the defendant. Among other things, the defendant demonstrated that removal of the temporary protections at that time would have endangered the plaintiff's property, the occupants of the property, and the general public. Further, the defendant accessed the plaintiff's property under conditions to which the plaintiff had previously agreed and for which it had been partially paid. Under the circumstances, even without considering the license granted to the defendant in the order, the plaintiff would not have been entitled to a preliminary injunction (
+see
+ 
+Soundview Cinemas, Inc. v AC I Soundview, LLC
+, 
+149 AD3d at 1124
+).
+
+
+The parties' remaining contentions are either without merit or not properly before this Court as they are based on matter dehors the record.
+
+
+Accordingly, we affirm the order appealed from.
+
+
+IANNACCI, J.P., CHRISTOPHER, WARHIT and GOLIA, JJ., concur.
+
+ENTER:
+
+Darrell M. Joseph
+
+
+Clerk of the Court
