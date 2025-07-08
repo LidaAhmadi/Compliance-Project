@@ -1,0 +1,138 @@
+Matter of Kasowitz, Benson, Torres & Friedman, LLP v JPMorgan Chase Bank, N.A. (
+2025 NY Slip Op 02131
+)
+
+
+
+
+
+
+
+
+Matter of Kasowitz, Benson, Torres & Friedman, LLP v JPMorgan Chase Bank, N.A.
+
+
+
+
+
+
+2025 NY Slip Op 02131
+
+
+
+
+
+
+Decided on April 10, 2025
+
+
+
+
+
+
+Appellate Division, First Department
+
+
+
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+
+
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+
+
+
+
+Decided and Entered: April 10, 2025
+
+
+Before: Renwick, P.J., Singh, González, Scarpulla, JJ. 
+
+
+
+
+Index No. 157631/15|Appeal No. 16482-16483|Case No. 2021-03399. 2021-03400, 2022-00030|
+
+
+[*1]In the Matter of Kasowitz, Benson, Torres & Friedman, LLP, Petitioner,
+
+v
+JPMorgan Chase Bank, N.A., Respondent-Appellant, The Dakota, Inc., Respondent-Respondent, Alphonse Fletcher, Jr., Respondent, Fletcher International, Ltd., et al., Intervenor-Respondents. 
+
+
+
+
+
+Thompson Coburn Hahn & Hessen LLP, New York (Zachary G. Newman of counsel), and Parker Ibrahim & Berg LLP, New York (James P. Berg of counsel), for appellant.
+
+
+Smith, Gambrell & Russell, LLP, New York (John Van Der Tuin of counsel), for The Dakota Inc., respondent.
+
+
+
+
+Judgment, Supreme Court, New York County (Lewis J. Lubell, J.), entered November 8, 2021, declaring that the lien of The Dakota, Inc. is superior to that of JPMorgan Chase Bank, N.A., unanimously modified, on the law, and The Dakota's lien declared superior only to the extent of $592,189.69, and otherwise affirmed, without costs. Appeal from order, same court and Justice, entered on or about August 4, 2021, which granted The Dakota's summary judgment motion and denied Chase's summary judgment motion, unanimously dismissed, without costs, as subsumed in the appeal from the judgment.
+
+
+At issue on remand from the Court of Appeals (
+Matter of Kasowitz, Benson, Torres & Friedman, LLP v JPMorgan Chase Bank, N.A.
+, — NY3d —, 
+2024 NY Slip Op 05876
+, [2024], 
+revg 
+209 AD3d 529
+ [1st Dept 2022]) is Chase's challenge to the award of attorneys' fees to The Dakota in prior litigation initiated by its former shareholder-tenant Alphonse Fletcher, Jr.
+
+
+The proprietary lease between The Dakota and Fletcher states that The Dakota would be entitled to attorneys' fees "[i]f the Lessee shall at any time be in default hereunder, and the Lessor shall take any action against the Lessee based upon such default, or if the Lessor shall defend any action or proceeding (or claim therein) commenced by the Lessee." This provision makes clear that attorneys' fees are to be awarded under two circumstances: first, when the lessee is in default; second, whenever a lessee sues The Dakota, even if The Dakota is in default.
+
+
+Because the lease provides for attorneys' fees regardless of default or merit, in a dispute between a residential co-op and a shareholder tenant, we find this provision to be unenforceable as unconscionable (
+compare Matter of Krodel v Amalgamated Dwellings Inc.
+, 
+166 AD3d 412
+, 413-414 [1st Dept 2018] [finding similar provision unconscionable in a dispute between those types of parties], 
+lv denied 
+33 NY3d 910
+ [2019], 
+with Glaze Teriyaki LLC v MacArthur Props. I LLC
+, 
+206 AD3d 513
+, 513 [1st Dept 2022] [finding attorneys' fee provision enforceable in dispute with commercial tenant "(i)n light of the fact that the parties to the lease are sophisticated entities that negotiated the lease terms through counsel"]). The lease is not "silent as to whether such right is contingent upon the merits of plaintiff's action" (
+Firemen's Assn. of the State of N.Y. v 99 Washington, LLC
+, 
+73 AD3d 1320, 1322
+ [3d Dept 2010]), but explicitly provides for attorneys' fees whenever the tenant sues The Dakota. This interpretation is not changed by the description of the fees as "reasonable" (
+see Krodel
+, 166 AD3d at 412 [interpreting a provision that provided for "reasonable legal fees"]). "Bearing in mind that agreements providing for payment of attorneys' fees should be construed strictly" (
+Andrews 44 Coffee Shops Inc. v TST/TMW 405 Lexington, L.P.
+, 
+40 AD3d 544, 545
+ [1st Dept 2007]), we will not rewrite the parties' agreement simply because The Dakota prevailed in the underlying litigation (
+see Krodel[*2]
+, 166 AD3d at 412-413 [affirming dismissal of counterclaim for attorneys' fees prior to resolution of the merits])."To enforce such a provision would produce an unjust result because it would dissuade aggrieved parties from pursuing litigation and preclude tenant-shareholders from making meaningful decisions about how to vindicate their rights in legitimate instances of landlord default" (
+Krodel
+, 166 AD3dat 414).
+
+
+Chase now concedes that The Dakota's lien has priority insofar as it is based on charges unrelated to the disputed claim for legal fees, and that those unrelated charges come to $592,189.69. Therefore, the judgment is modified to that extent.
+
+
+The Decision and Order of this Court entered herein on January 28, 2025 is hereby recalled and vacated (
+see
+ M-1174 decided simultaneously herewith).
+
+
+THIS CONSTITUTES THE DECISION AND ORDER OF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.
+
+
+ENTERED: April 10, 2025

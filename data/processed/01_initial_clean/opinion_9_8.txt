@@ -1,0 +1,195 @@
+Sisalima v Thorne Constr., Inc. (
+2025 NY Slip Op 02363
+)
+
+
+
+
+
+
+
+
+Sisalima v Thorne Constr., Inc.
+
+
+
+
+
+
+2025 NY Slip Op 02363
+
+
+
+
+
+
+Decided on April 23, 2025
+
+
+
+
+
+
+Appellate Division, Second Department
+
+
+
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+
+
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+
+
+
+
+Decided on April 23, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+
+MARK C. DILLON, J.P.
+
+PAUL WOOTEN
+
+JANICE A. TAYLOR
+
+JAMES P. MCCORMACK, JJ.
+
+
+
+
+2023-05476
+
+ (Index No. 621289/19)
+
+
+[*1]Julio Wilmer Sisalima, appellant-respondent,
+
+v
+Thorne Construction, Inc., et al., defendants, Limonejo's Framing Corp., respondent-appellant.
+
+
+
+
+
+Gorayeb & Associates, P.C., New York, NY (John M. Shaw of counsel), for appellant-respondent.
+
+
+Tarbet & Lester, PLLC, East Hampton, NY (Brian J. Lester of counsel), for respondent-appellant.
+
+
+
+
+DECISION & ORDER
+
+
+In an action to recover damages for personal injuries, the plaintiff appeals, and the defendant Limonejo's Framing Corp. cross-appeals, from an order of the Supreme Court, Suffolk County (Joseph A. Santorelli, J.), dated April 17, 2023. The order, insofar as appealed from, denied the plaintiff's motion for summary judgment on the issue of liability on the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against the defendant Limonejo's Framing Corp. The order, insofar as cross-appealed from, denied the cross-motion of the defendant Limonejo's Framing Corp. for summary judgment on its second and seventh affirmative defenses.
+
+
+ORDERED that the order is affirmed insofar as appealed and cross-appealed from, without costs or disbursements.
+
+
+On January 4, 2019, the plaintiff allegedly was injured when he fell from the roof of a building while checking to make sure a tarp was properly placed and a gust of wind raised the tarp, which "threw" him from the roof. The plaintiff's company, JWS Construction and Remodeling Corp., had been hired by the defendant Limonejo's Framing Corp. (hereinafter the defendant) to perform work on the building as part of an extension and remodeling project. In October 2019, the plaintiff commenced this action to recover damages for personal injuries against, among others, the defendant. Thereafter, the plaintiff moved for summary judgment on the issue of liability on the cause of action alleging a violation of Labor Law § 240(1) insofar as asserted against the defendant. The defendant cross-moved for summary judgment on its second and seventh affirmative defenses, alleging, respectively, that the plaintiff was the sole proximate cause of the accident and was a recalcitrant worker. In an order dated April 17, 2023, the Supreme Court denied the plaintiff's motion and the defendant's cross-motion. The plaintiff appeals and the defendant cross-appeals.
+
+
+"Labor Law § 240(1) imposes upon owners and general contractors, and their agents, a nondelegable duty to provide safety devices necessary to protect workers from risks inherent in elevated work sites" (
+Guaman v 178 Ct. St., LLC
+, 
+200 AD3d 655
+, 657; 
+see McCarthy v Turner Constr., Inc.
+, 
+17 NY3d 369, 374
+). "To prevail on a Labor Law § 240(1) cause of action, 'a plaintiff must prove that the defendant violated the statute and that such violation was a proximate cause of [*2]his or her injuries'" (
+Hossain v Condominium Bd. of Grand Professional Bldg.
+, 
+221 AD3d 981
+, 983, quoting 
+Exley v Cassell Vacation Homes, Inc.
+, 
+209 AD3d 839
+, 840).
+
+
+Here, the plaintiff's submissions in support of his motion, including a transcript of his deposition testimony, failed to eliminate triable issues of fact as to whether adequate safety devices were provided to him at the work site and, if not, whether the absence of adequate safety devices was a proximate cause of the accident (
+see Lewis v Lester's of N.Y., Inc.
+, 
+205 AD3d 796
+, 798; 
+Guaman v 178 Ct. St., LLC
+, 200 AD3d at 657). Since the plaintiff failed to establish his prima facie entitlement to judgment as a matter of law on the issue of liability on the cause of action alleging a violation of Labor Law § 240(1), the Supreme Court properly denied the plaintiff's motion for summary judgment on that cause of action insofar as asserted against the defendant, without regard to the sufficiency of the opposition papers (
+see Winegrad v New York Univ. Med. Ctr.
+, 
+64 NY2d 851, 853
+).
+
+
+"[W]here the plaintiff is the sole proximate cause of his or her own injuries, there can be no liability under Labor Law § 240(1)" (
+Lojano v Soiefer Bros. Realty Corp.
+, 
+187 AD3d 1160
+, 1162; 
+see Chiarella v New York State Thruway Auth.
+, 
+230 AD3d 463
+, 465). "To establish, prima facie, that a plaintiff was the sole proximate cause of an accident, a defendant has to establish that the plaintiff misused an otherwise proper safety device, chose to use an inadequate safety device when proper devices were readily available, or failed to use any device when proper devices were available" (
+Lochan v H & H Sons Home Improvement, Inc.
+, 
+216 AD3d 630
+, 633). "'Generally, the issue of whether a particular safety device provided proper protection is a question of fact for the jury'" (
+Welsch v Maimonides Med. Ctr.
+, 
+80 AD3d 755, 756
+, quoting 
+Delahaye v Saint Anns School
+, 
+40 AD3d 679, 682
+).
+
+
+Here, viewing the evidence in the light most favorable to the plaintiff (
+see Jean-Joseph v Port Auth. of N.Y. & N.J.
+, 
+211 AD3d 717
+, 718), the defendant failed to eliminate triable issues of fact as to whether adequate safety devices were readily available to the plaintiff (
+see Lochan v H & H Sons Home Improvement, Inc.
+, 216 AD3d at 633; 
+Welsch v Maimonides Med. Ctr.
+, 
+80 AD3d at 756
+). Moreover, the defendant failed to demonstrate, prima facie, that the plaintiff was specifically instructed to use ropes while working on the roof and disregarded those instructions (
+see Gurung v Arnav Retirement Trust
+, 
+79 AD3d 969, 970
+; 
+Santo v Scro
+, 
+43 AD3d 897, 898-899
+). Thus, the defendant failed to establish, prima facie, that the plaintiff was the sole proximate cause of the accident or was a recalcitrant worker. Accordingly, the Supreme Court properly denied the defendant's cross-motion for summary judgment on its second and seventh affirmative defenses, without regard to the sufficiency of the opposition papers (
+see Winegrad v New York Univ. Med. Ctr.
+, 
+64 NY2d at 853
+).
+
+
+The plaintiff's remaining contention is improperly raised for the first time on appeal and, thus, is not properly before this Court.
+
+
+DILLON, J.P., WOOTEN, TAYLOR and MCCORMACK, JJ., concur.
+
+ENTER:
+
+Darrell M. Joseph
+
+
+Clerk of the Court

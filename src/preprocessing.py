@@ -2,32 +2,26 @@
 from bs4 import BeautifulSoup
 import re
 
-# --- Clean HTML ----
+# --- HTML Cleaning ---
 def clean_html(raw_html):
     """
-    Remove HTML tags from a raw ruling while preserving line breaks.
+    Remove HTML tags from a raw string while preserving line breaks.
 
     Parameters:
         raw_html (str): The raw HTML string from a ruling.
 
     Returns:
-        str: Cleaned text with HTML tags removed and logical breaks preserved.
+        str: Cleaned text with HTML tags removed.
     """
-    # Parse the HTML string into a structured tree
-    soup = BeautifulSoup(raw_html, "html.parser") 
-    
-    # Replace each block-level tag (like <p>, <div>, etc.) with a newline \n
-    return soup.get_text(separator="\n").strip()  
+    if not raw_html or not isinstance(raw_html, str):
+        return ""
+    soup = BeautifulSoup(raw_html, "html.parser")
+    return soup.get_text(separator="\n").strip()
 
-# --- Extract Decision Section ---
+# --- Core Text Extraction & Cleaning ---
 def extract_decision_section(ruling_text):
     """
-    Extract the main decision section from a court ruling.
-
-    This function searches for common structural markers like "DECISION & ORDER",
-    or fallback patterns such as "APPEAL..." or "Judgment..." to find the start
-    of the decision. It then identifies the likely end based on judge signatures 
-    or closing phrases.
+    Extract the main decision section from a court ruling using heuristics.
 
     Parameters:
         ruling_text (str): Full cleaned text of a court ruling.
@@ -35,138 +29,118 @@ def extract_decision_section(ruling_text):
     Returns:
         str or None: Extracted decision section, or None if no section is found.
     """
-    # Check for ruling texts that are "" or None -- Also, whether the input is not a string
     if not ruling_text or not isinstance(ruling_text, str):
         return None
 
-    # Normalize line breaks and remove empty lines
-    lines = ruling_text.strip().splitlines()
-    # Filter out empty lines like " " or "\n"
-    clean_lines = [line.strip() for line in lines if line.strip()]
+    lines = [line.strip() for line in ruling_text.strip().splitlines() if line.strip()]
     
-    # --- Step 1: Identify start of decision text ---
     start_idx = None
-    for i, line in enumerate(clean_lines):
-        if "decision & order" in line.lower():
+    # Find start marker using a list of patterns
+    start_patterns = ["decision & order"]
+    fallback_patterns = ["appeal", "judgment", "in an action"]
+
+    for i, line in enumerate(lines):
+        if any(p in line.lower() for p in start_patterns):
             start_idx = i + 1
-            break # Don't need to check any more lines after this
+            break
     if start_idx is None:
-        for i, line in enumerate(clean_lines):
-            if line.lower().startswith("appeal") or line.lower().startswith("judgment"):
+        for i, line in enumerate(lines):
+            if any(line.lower().startswith(p) for p in fallback_patterns):
                 start_idx = i
-                break  
+                break
     if start_idx is None:
         return None
 
-    # --- Step 2: Identify end of decision text ---
-    end_idx = len(clean_lines)
-    for i in range(start_idx, len(clean_lines)):
-        line = clean_lines[i]
-        if ("J.P." in line or "JJ." in line or 
-            "this constitutes" in line.lower() or 
-            "entered:" in line.lower()):
+    # Find end marker
+    end_idx = len(lines)
+    end_patterns = ["j.p.", "jj.", "this constitutes", "entered:"]
+    for i in range(start_idx, len(lines)):
+        line = lines[i]
+        if any(p in line.lower() for p in end_patterns):
             end_idx = i
             break
+            
+    return "\n".join(lines[start_idx:end_idx]).strip()
 
-    # --- Step 3: Return joined block ---
-    return "\n".join(clean_lines[start_idx:end_idx]).strip()
-
-# --- Clean  Decision Section ---
-def clean_decision_text(text):
-    """
-    Light cleaning for legal decision sections, suitable for semantic search and LLM tasks.
-    - Preserves legal citations and structure
-    - Removes editorial footnotes like [*1]
-    - Flattens formatting without damaging semantic content
-    """
-    text = re.sub(r'\[\*\d+\]', '', text)
-
-    # Replace multiple blank lines with a double newline (preserves paragraph boundaries)
-    text = re.sub(r'\n\s*\n+', '\n\n', text)
-    
-    # Replace remaining line breaks with space to join wrapped sentences into full paragraphs
-    text = re.sub(r'\n+', ' ', text)
-
-    # Replace multiple spaces with a single space to normalize spacing
-    text = re.sub(r'\s{2,}', ' ', text)
-
-    # Remove leading and trailing whitespace
-    return text.strip()
-
-# --- Further Clean and Format Decsions ---
 def clean_and_format_decision(text):
     """
-    Clean and lightly format a legal decision text for downstream NLP tasks.
-    - Removes editorial noise
-    - Preserves legal citations
-    - Adds paragraph breaks at key transitions
+    A single, robust function to clean and format decision text.
+    Removes editorial noise and adds paragraph breaks for readability.
+
+    Parameters:
+        text (str): The text to be cleaned.
+
+    Returns:
+        str: The processed text.
     """
+    if not text:
+        return ""
 
-    # --- CLEANING ---
-
-    # Remove markers like [*1], [*2]
+    # Basic cleaning: remove editorial markers like [*1]
     text = re.sub(r'\[\*\d+\]', '', text)
+    
+    # Flatten the text by replacing all newlines and multiple spaces with a single space
+    text = re.sub(r'\s+', ' ', text).strip()
 
-    # Replace multiple blank lines with a double newline
-    text = re.sub(r'\n\s*\n+', '\n\n', text)
-
-    # Replace remaining newlines with spaces to flatten paragraph content
-    text = re.sub(r'\n+', ' ', text)
-
-    # Normalize extra spaces
-    text = re.sub(r'\s{2,}', ' ', text)
-
-    # Strip leading/trailing whitespace
-    text = text.strip()
-
-
-    # --- FORMATTING FOR DISPLAY ---
-
-    # Add paragraph breaks after key legal transitions
+    # Add paragraph breaks after key legal transitions for readability
+    # The (.*?) part is a non-greedy capture of everything until the next pattern or end of string.
     break_phrases = [
-        r'(ORDERED that.*?)', 
+        r'(ORDERED that.*?)',
         r'(Here,.*?)',
         r'(Accordingly,.*?)',
         r'(The defendant appeals\.)',
         r'(The defendant contends that.*?)'
     ]
     for pattern in break_phrases:
-        text = re.sub(pattern, r'\n\n\1', text, flags=re.IGNORECASE)
+        # Use re.sub with a function to handle matches and add newlines
+        text = re.sub(pattern, lambda m: '\n\n' + m.group(1).strip(), text, flags=re.IGNORECASE)
 
-    return text
+    return text.strip()
 
-# --- Extract Parties Involved ---
+
+# --- Party Information Extraction & Cleaning ---
 def extract_party_block(text):
     """
-    Extract party names using the [*1] marker and nearby lines.
+    Extracts party names using the [*1] marker as an anchor.
+    Stops when it encounters common counsel/address patterns or a major heading.
 
     Parameters:
-        text (str): Cleaned ruling text
+        text (str): Cleaned ruling text.
 
     Returns:
-        str: Combined party string in "A v B" format, or empty if not found
+        str: Combined party string, or empty if not found.
     """
-    lines = [line.strip() for line in text.splitlines() if line.strip()]
-    
-    for i, line in enumerate(lines):
-        if '[*1]' in line:
-            party1 = line.replace('[*1]', '').strip()
-            # Look ahead to skip possible blank lines and capture "v" pattern
-            if i + 2 < len(lines):
-                party2 = lines[i + 2].strip()
-                return f"{party1} v {party2}"
+    if not text:
+        return ""
+
+    # Find the block of text starting from [*1]
+    # We use re.DOTALL so that '.' matches newlines
+    match = re.search(r'\[\*1\](.*)', text, re.DOTALL | re.IGNORECASE)
+    if not match:
+        return ""
+
+    potential_party_text = match.group(1)
+    lines = [line.strip() for line in potential_party_text.splitlines() if line.strip()]
+
+    party_lines = []
+    # Loop through the lines and collect them until we hit a stop word
+    for line in lines:
+        line_lower = line.lower()
+        
+        # Define the "stop signs" that indicate the party block has ended
+        if ("of counsel" in line_lower or 
+            "decided and entered:" in line_lower or 
+            "decision & order" in line_lower):
             break
+            
+        party_lines.append(line)
 
-    return ""
-
-
-
-# --- Clean Party Line ---
+    # Join the collected lines and clean up any extra whitespace
+    return " ".join(party_lines).strip()
+        
 def clean_party_line(party_line):
     """Remove common prefixes like 'In the Matter of' from party line."""
-    return party_line.replace("In the Matter of ", "").strip()
-
-
-
-
-
+    if not party_line:
+        return ""
+    # Use regex to remove the prefix and any extra whitespace at the start
+    return re.sub(r'^\s*in the matter of\s*', '', party_line, flags=re.IGNORECASE).strip()

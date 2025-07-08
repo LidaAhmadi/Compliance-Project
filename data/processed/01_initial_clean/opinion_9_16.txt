@@ -1,0 +1,234 @@
+Wright v White Plains Hosp. Med. Ctr. (
+2025 NY Slip Op 02371
+)
+
+
+
+
+
+
+
+
+Wright v White Plains Hosp. Med. Ctr.
+
+
+
+
+
+
+2025 NY Slip Op 02371
+
+
+
+
+
+
+Decided on April 23, 2025
+
+
+
+
+
+
+Appellate Division, Second Department
+
+
+
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+
+
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+
+
+
+
+Decided on April 23, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+
+BETSY BARROS, J.P.
+
+VALERIE BRATHWAITE NELSON
+
+BARRY E. WARHIT
+
+JAMES P. MCCORMACK, JJ.
+
+
+
+
+2023-05430
+
+ (Index No. 64135/19)
+
+
+[*1]Ayiesha Wright, appellant, 
+
+v
+White Plains Hospital Medical Center, respondent.
+
+
+
+
+
+Schwartz Perry & Heller LLP, New York, NY (Brian Heller and Davida S. Perry of counsel), for appellant.
+
+
+Garfunkel Wild, P.C., Great Neck, NY (Andrew L. Zwerling and Michael J. Keane, Jr., of counsel), for respondent.
+
+
+
+
+DECISION & ORDER
+
+
+In an action to recover damages for employment discrimination in violation of title VII of the Civil Rights Act of 1964 (42 USC § 2000e 
+et seq.
+) and the New York State Human Rights Law (Executive Law § 296[1][a]), the plaintiff appeals from an order of the Supreme Court, Westchester County (David F. Everett, J.), dated April 27, 2023. The order granted the defendant's motion for summary judgment dismissing the amended complaint.
+
+
+ORDERED that the order is affirmed, with costs.
+
+
+In August 2018, the plaintiff was hired by the defendant as a phlebotomist, subject to a six-month probationary period. On January 15, 2019, the plaintiff was informed that her employment was terminated. In September 2019, the plaintiff commenced this action to recover damages for employment discrimination. The amended complaint, filed in November 2019, alleged that the defendant discriminated against the plaintiff in violation of title VII of the Civil Rights Act of 1964 (hereinafter title VII) (42 USC § 2000e 
+et seq.
+) and the New York State Human Rights Law (hereinafter the NYSHRL) (Executive Law § 296[1][a]) by terminating her employment based upon her pregnancy. The defendant moved for summary judgment dismissing the amended complaint. In an order dated April 27, 2023, the Supreme Court granted the motion. The plaintiff appeals.
+
+
+The NYSHRL makes it unlawful for an employer to discriminate against an individual or to discharge such a person from employment on the basis of the individual's gender (
+see id.
+; 
+Golston-Green v City of New York
+, 
+184 AD3d 24
+, 34). "Discrimination on the basis of pregnancy is a form of gender discrimination" (
+Golston-Green v City of New York
+, 184 AD3d at 34; 
+see Lefort v Kingsbrook Jewish Med. Ctr.
+, 
+203 AD3d 708
+, 709).
+
+
+The standards for establishing unlawful discrimination under the NYSHRL previously were the same as those governing title VII cases (
+see Rainer N. Mittl, Ophthalmologist, P.C. v New York State Div. of Human Rights
+, 
+100 NY2d 326, 330
+; 
+Ferrante v American Lung Assn.
+, 
+90 NY2d 623, 629
+). In 2019, however, the New York State Legislature amended the NYSHRL, in pertinent part, to require that it "be construed liberally for the accomplishment of the remedial purposes thereof, regardless of whether federal civil rights laws, including those laws with provisions worded [*2]comparably to the provisions of this article, have been so construed" (Executive Law § 300; L 2019, ch 160, § 6; 
+see Golston-Green v City of New York
+, 184 AD3d at 35 n 1). That amendment was effective August 12, 2019 (
+see
+ L 2019, ch 160, § 16), and applies to causes of action, like the instant cause of action, that are filed on or after the effective date (
+see id.
+ § 16[d]; 
+Elco v Aguiar
+, 
+226 AD3d 649
+, 651; 
+Golston-Green v City of New York
+, 184 AD3d at 35 n 1).
+
+
+As a result of the amendment, the NYSHRL now aligns with the standards of the New York City Human Rights Law (hereinafter the NYCHRL) (
+see
+ Administrative Code of City of NY § 8-130[a], [b]; 
+Syeed v Bloomberg L.P.
+, 
+41 NY3d 446
+, 451; 
+Cannizzaro v City of New York
+, 
+82 Misc 3d 563
+, 577 [Sup Ct, NY County]; 
+Stickler v IBM, Inc.
+, 
+2024 WL 3952639
+, *2 n 4, 
+2024 US Dist LEXIS 154797
+, *4 n 4 [SD NY, No. 22-CV-2449 (KMW)]; 
+Harlow v Molina Healthcare, Inc.
+, 723 F Supp 3d 116, 129 n 6[ND NY]). Under the NYCHRL, unlawful discrimination must play "no role" in an employment decision (
+Singh v Covenant Aviation Sec., LLC
+, 
+131 AD3d 1158, 1161
+ [internal quotation marks omitted]; 
+see Lefort v Kingsbrook Jewish Med. Ctr.
+, 203 AD3d at 711-712). Thus, a defendant's motion for summary judgment must be analyzed under both the familiar framework of 
+McDonnell Douglas Corp. v Green
+ (
+411 US 792
+) and under the newer mixed-motive framework, which imposes a lesser burden on a plaintiff opposing such a motion (
+see Reichman v City of New York
+, 
+179 AD3d 1115
+, 1117; 
+Ellison v Chartis Claims, Inc.
+, 
+178 AD3d 665
+, 668; 
+Hamburg v New York Univ. Sch. of Medicine
+, 
+155 AD3d 66, 72-73
+). "A defendant must make 'a prima facie showing that there is no evidentiary route that could allow a jury to believe that discrimination played a role in their challenged actions'" (
+Ellison v Chartis Claims, Inc.
+, 178 AD3d at 668, quoting 
+Cenzon-Decarlo v Mount Sinai Hosp.
+, 
+101 AD3d 924
+, 927; 
+see Lefort v Kingsbrook Jewish Med. Ctr.
+, 203 AD3d at 712). "A plaintiff may defeat summary judgment by coming forward either with evidence that the defendant's stated reasons were a pretext for discrimination or with evidence that discrimination was one of the motivating factors for the defendant's conduct" (
+Ellison v Chartis Claims, Inc.
+, 178 AD3d at 668; 
+see Hamburg v New York Univ. Sch. of Medicine
+, 
+155 AD3d at 73
+).
+
+
+Applying these principles here, we conclude that the defendant established its prima facie entitlement to judgment as a matter of law dismissing the cause of action alleging a violation of the NYSHRL by demonstrating that there was no evidentiary route that could allow a jury to find that discrimination played a role in the decision to terminate the plaintiff's employment (
+cf. Ellison v Chartis Claims, Inc.
+, 178 AD3d at 668; 
+Kosarin-Ritter v Mrs. John L. Strong, LLC
+, 
+117 AD3d 603, 604
+). In opposition, the plaintiff failed to raise a triable issue of fact as to whether the proffered explanations were a pretext for discrimination or whether discrimination was one of the motivating factors for the challenged action (
+cf. Ellison v Chartis Claims, Inc.
+, 178 AD3d at 669; 
+Hamburg v New York Univ. Sch. of Medicine
+, 
+155 AD3d at 76
+). The plaintiff offered nothing but speculation that the decision to terminate her employment was motivated, even in part, by unlawful discrimination, which is insufficient to defeat summary judgment (
+see Ellison v Chartis Claims, Inc.
+, 178 AD3d at 669).
+
+
+The plaintiff's remaining contention is without merit.
+
+
+Accordingly, the Supreme Court properly granted the defendant's motion for summary judgment dismissing the amended complaint.
+
+
+BARROS, J.P., BRATHWAITE NELSON, WARHIT and MCCORMACK, JJ., concur.
+
+ENTER:
+
+Darrell M. Joseph
+
+
+Clerk of the Court

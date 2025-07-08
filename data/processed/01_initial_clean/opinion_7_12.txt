@@ -1,0 +1,192 @@
+Hafeez v TT of Freeport (
+2025 NY Slip Op 02327
+)
+
+
+
+
+
+
+
+
+Hafeez v TT of Freeport
+
+
+
+
+
+
+2025 NY Slip Op 02327
+
+
+
+
+
+
+Decided on April 23, 2025
+
+
+
+
+
+
+Appellate Division, Second Department
+
+
+
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+
+
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+
+
+
+
+Decided on April 23, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+
+ANGELA G. IANNACCI, J.P.
+
+WILLIAM G. FORD
+
+HELEN VOUTSINAS
+
+JAMES P. MCCORMACK, JJ.
+
+
+
+
+2023-08809
+
+ (Index No. 613875/20)
+
+
+[*1]Hua Hafeez, respondent, 
+
+v
+TT of Freeport, doing business as BMW of Freeport, appellant.
+
+
+
+
+
+Litchfield Cavo LLP, New York, NY (Joseph Dimitrov of counsel), for appellant.
+
+
+Terilli & Tintle, PLLC, New York, NY (Myles L. Tintle III of counsel), for respondent.
+
+
+
+
+DECISION & ORDER
+
+
+In an action to recover damages for personal injuries, the defendant appeals from an order of the Supreme Court, Nassau County (Randy Sue Marber, J.), entered June 20, 2023. The order granted the plaintiff's motion for summary judgment on the issue of liability and denied the defendant's cross-motion for summary judgment dismissing the complaint.
+
+
+ORDERED that the order is modified, on the law, by deleting the provision thereof granting the plaintiff's motion for summary judgment on the issue of liability, and substituting therefor a provision denying the motion; as so modified, the order is affirmed, with costs to the defendant.
+
+
+The plaintiff allegedly was injured at the defendant's vehicle repair shop when she attempted to exit from the customer waiting area to the parking lot through an open garage door, rather than an exterior door, and the garage door suddenly fell on her. The plaintiff moved for summary judgment on the issue of liability, based on the doctrine of res ipsa loquitur, and the defendant cross-moved for summary judgment dismissing the complaint. By order entered June 20, 2023, the Supreme Court granted the plaintiff's motion and denied the defendant's cross-motion. The defendant appeals.
+
+
+"The doctrine of res ipsa loquitur permits an inference of negligence to be drawn solely from the happening of an accident" (
+Giantomaso v T. Weiss Realty Corp.
+, 
+142 AD3d 950, 952
+; 
+see
+ 
+Morejon v Rais Constr. Co.
+, 
+7 NY3d 203, 205-206
+). It requires evidence of an event which ordinarily does not occur in the absence of negligence, was caused by an agency or instrumentality within the exclusive control of the defendant, and was not due to any voluntary action or contribution on the part of the plaintiff (
+see Cantey v City of New York
+, 
+184 AD3d 618
+; 
+Bunting v Haynes
+, 
+104 AD3d 715
+). "Since the circumstantial evidence allows but does not require the jury to infer that the defendant was negligent, res ipsa loquitur evidence does not ordinarily or automatically entitle the plaintiff to summary judgment, even if the plaintiff's circumstantial evidence is unrefuted" (
+Giantomaso v T. Weiss Realty Corp.
+, 
+142 AD3d at 952
+). Summary judgment on the issue of liability should only be granted "in the rarest of res ipsa loquitur cases" where "the plaintiff's circumstantial proof is so convincing and the defendant's response so weak that the inference of [the] defendant's negligence is inescapable" (
+Morejon v Rais Constr. Co.
+, 
+7 NY3d at 209
+; 
+see [*2]Barney-Yeboah v Metro-North Commuter R.R.
+, 
+25 NY3d 945, 946
+).
+
+
+Here, the plaintiff did not establish, by sufficiently convincing circumstantial proof, "that the inference of [the] defendant's negligence is inescapable" (
+Morejon v Rais Constr. Co.
+, 
+7 NY3d at 209
+; 
+see Hoeberlein v Bed Bath & Beyond, Inc.
+, 
+124 AD3d 722, 722-723
+). Specifically, the plaintiff failed to submit sufficiently convincing circumstantial proof that the garage door and its mechanism were within the defendant's exclusive control, and that the accident was not due to any fault on the part of the plaintiff (
+see Cantey v City of New York
+, 184 AD3d at 619; 
+Dilligard v City of New York
+, 
+170 AD3d 955
+, 956-957; 
+Brennan v Wappingers Cent. Sch. Dist.
+, 
+164 AD3d 640
+, 641-642; 
+Bunting v Haynes
+, 
+104 AD3d at 716
+). "'In those cases where conflicting inferences may be drawn, choice of inference must be made by the jury'" (
+Dilligard v City of New York
+, 170 AD3d at 956 [internal quotation marks omitted], quoting 
+Kambat v St. Francis Hosp.
+, 
+89 NY2d 489, 495
+).
+
+
+Accordingly, the Supreme Court should have denied the plaintiff's motion for summary judgment on the issue of liability without regard to the sufficiency of the opposition papers (
+see
+ 
+Winegrad v New York Univ. Med. Ctr.
+, 
+64 NY2d 851, 853
+).
+
+
+However, the Supreme Court properly denied the defendant's cross-motion for summary judgment dismissing the complaint, as the defendant failed to make a prima facie showing of entitlement to such relief (
+see
+ 
+id.
+).
+
+
+IANNACCI, J.P., FORD, VOUTSINAS and MCCORMACK, JJ., concur.
+
+ENTER:
+
+Darrell M. Joseph
+
+
+Clerk of the Court

@@ -1,0 +1,267 @@
+Langton v Sussman & Watkins (
+2025 NY Slip Op 02765
+)
+
+
+
+
+
+
+
+
+Langton v Sussman & Watkins
+
+
+
+
+
+
+2025 NY Slip Op 02765
+
+
+
+
+
+
+Decided on May 7, 2025
+
+
+
+
+
+
+Appellate Division, Second Department
+
+
+
+
+
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+
+
+
+
+
+This opinion is uncorrected and subject to revision before publication in the Official Reports.
+
+
+
+
+
+
+
+Decided on May 7, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+
+
+MARK C. DILLON, J.P.
+
+PAUL WOOTEN
+
+JANICE A. TAYLOR
+
+JAMES P. MCCORMACK, JJ.
+
+
+
+
+2021-01714
+
+ (Index No. 4931/20)
+
+
+[*1]Mary Langton, appellant,
+
+v
+Sussman & Watkins, et al., respondents.
+
+
+
+
+
+Mary Langton, Chester, NY, appellant pro se.
+
+
+Sussman and Associates, Goshen, NY (Michael H. Sussman pro se of counsel), for respondents Sussman & Watkins and Michael H. Sussman.
+
+
+Gordon Rees Scully Mansukhani, LLP, Harrison, NY (Jason C. Scott and Anthony B. Corleto of counsel), for respondents Fabricant, Lipman & Frishberg, PLLC, and Neal D. Frishberg.
+
+
+Traub Lieberman Straus & Shewsberry LLP, Hawthorne, NY (Stephen D. Straus of counsel), for respondents Goldberg Segalla and Jonathan M. Bernstein.
+
+
+Furman Kornfeld & Brennan, LLP, New York, NY (Shari Sckolnick and Andrew R. Jones of counsel), for respondents McCabe & Mack, LLP and David L. Posner.
+
+
+Marshall Dennehy, P.C., Melville, NY (Matthew K. Flanagan of counsel), for respondents Greenwald Doherty, LLP, and Kevin M. Doherty.
+
+
+
+
+DECISION & ORDER
+
+
+In an action, inter alia, to recover damages for violation of Judiciary Law § 487, the plaintiff appeals from an order of the Supreme Court, Orange County (Robert A. Onofry, J.), dated February 8, 2021. The order, insofar as appealed from, (1) granted the separate motions of the defendants Fabricant, Lipman & Frishberg, PLLC, and Neal D. Frishberg and the defendants McCabe & Mack, LLP, and David L. Posner pursuant to CPLR 3211(a) to dismiss the complaint insofar as asserted against each of them, (2) granted that branch of the motion of the defendants Greenwald Doherty, LLP, and Kevin M. Doherty which was pursuant to CPLR 3211(a) to dismiss the complaint insofar as asserted against them, (3) granted that branch of the motion of the defendants Greenwald Doherty, LLP, and Kevin M. Doherty which was for certain injunctive relief to the extent of enjoining the plaintiff from commencing any new action pertaining to her removal as voluntary library trustee of the Town of Chester Library Board of Trustees without prior written permission of the Supreme Court, and (4), sua sponte, in effect, directed dismissal of the complaint insofar as asserted against the defendants Sussman & Watkins, Michael H. Sussman, Goldberg Segalla, and Jonathan M. Bernstein.
+
+
+ORDERED that on the Court's own motion, the notice of appeal from so much of the order as, sua sponte, in effect, directed dismissal of the complaint insofar as asserted against the defendants Sussman & Watkins, Michael H. Sussman, Goldberg Segalla, and Jonathan M. Bernstein [*2]is deemed to be an application for leave to appeal from that portion of the order, and leave to appeal is granted (
+see
+ CPLR 5701[c]); and it is further,
+
+
+ORDERED that the order is affirmed insofar as appealed from; and it is further,
+
+
+ORDERED that one bill of costs is awarded to the respondents.
+
+
+In 2012, the plaintiff was appointed as a voluntary library trustee of the Town of Chester Library Board of Trustees (hereinafter the Library Board). In 2014, Maureen Jagos, the director of the Town of Chester Library (hereinafter the library), raised a complaint regarding the plaintiff's conduct, which resulted in an investigation conducted by Devora Lindeman of the defendant Greenwald Doherty, LLP (hereinafter Greenwald). Following the investigation, Lindeman issued a report containing her findings and recommendations. According to a report dated July 16, 2014 (hereinafter the Lindeman report), Lindeman found that Jagos's complaints were credible and recommended that the plaintiff be asked to resign or be offered managerial training and that the plaintiff be removed as trustee if she declined to resign or undergo training. In August 2014, the Library Board voted to remove the plaintiff from her position as voluntary library trustee.
+
+
+The plaintiff subsequently retained the defendant Michael H. Sussman of the defendant Sussman & Watkins (hereinafter together the Sussman defendants) to represent her in an action she commenced in the United States District Court for the Southern District of New York, alleging violations of 
+42 USC § 1983
+. The plaintiff commenced that action against (1) the Town of Chester and its Town Supervisor, Alex Jamieson, represented by the defendant Jonathan M. Bernstein of the defendant Goldberg Segalla (hereinafter together the Goldberg defendants), and (2) the Library Board and its President, Teresa Mallon, represented by the defendant David L. Posner of the defendant McCabe & Mack, LLP (hereinafter together the McCabe defendants).
+
+
+The plaintiff also retained the defendant Neal D. Frishberg of the defendant Fabricant, Lipman, and Frishberg, LLP (hereinafter together the Frishberg defendants), to represent her in an action she commenced in the New York Supreme Court to recover damages for defamation (hereinafter the defamation action). The plaintiff commenced the defamation action against, among others, Jamieson. The plaintiff alleged, inter alia, that Jamieson made false statements to a local newspaper and reporter regarding Lindeman's findings and that Lindeman did not, in actuality, find that Jagos's complaint against the plaintiff was credible. The plaintiff subsequently discharged the Frishberg defendants as her counsel in the defamation action and proceeded pro se.
+
+
+Thereafter, Jamieson and other defendants separately moved, in effect, for summary judgment dismissing the complaint in the defamation action insofar as asserted against each of them. In an affidavit submitted in support of Jamieson's motion, Lindeman averred, among other things, that the Lindeman report, which accompanied her affidavit and was initialed by her on each page, was authentic. In opposition to Jamieson's motion, the plaintiff asserted, inter alia, that the Lindeman report was a "forgery" and that an "authentic" report issued by Lindeman existed, which made findings in the plaintiff's favor. The plaintiff did not submit a copy of the alleged authentic report. In an order dated April 3, 2017, the Supreme Court, among other things, granted the separate motions of Jamieson and other defendants, in effect, for summary judgment dismissing the complaint in the defamation action insofar as asserted against each of them. In that order, the court determined that "[t]he defendants have conclusively established" that Jamieson's statements regarding the Lindeman report were "an accurate account of the report of the investigation conducted regarding the plaintiff."
+
+
+In August 2020, the plaintiff commenced the instant action, inter alia, to recover damages for violation of Judiciary Law § 487 against the Sussman defendants, the Frishberg defendants, the Goldberg defendants, the McCabe defendants, and Greenwald and its partner, Kevin M. Doherty (hereinafter together the Greenwald defendants). The plaintiff alleged, among other things, that the defendants colluded with each other to conceal the alleged authentic version of the Lindeman report and to present a fraudulent report that resulted in the plaintiff's removal as voluntary library trustee.
+
+
+Thereafter, the Frishberg defendants and the McCabe defendants separately moved pursuant to CPLR 3211(a) to dismiss the complaint insofar as asserted against each of them on the grounds, inter alia, that the action was barred by the doctrine of collateral estoppel and that the plaintiff failed to state a cause of action. In addition, the Greenwald defendants moved pursuant to CPLR 3211(a) to dismiss the complaint insofar as asserted against them on those grounds and to enjoin the plaintiff "from filing any further actions relating to her claim that the Lindeman Report exchange in her underlying action was fraudulent." In an order dated February 8, 2021, the Supreme Court, among other things, granted the motions of the Frishberg defendants, the McCabe defendants, and the Greenwald defendants, and, sua sponte, in effect, directed the dismissal of the complaint insofar as asserted against the Sussman defendants and the Goldberg defendants. The plaintiff appeals.
+
+
+"Collateral estoppel precludes a party from relitigating in a subsequent action or proceeding an issue clearly raised in a prior action or proceeding and decided against that party or those in privity, whether or not the tribunals or causes of action are the same" (
+Reid v Reid
+, 
+198 AD3d 993
+, 994). "'The two requirements for its application are: first, the identical issue necessarily must have been decided in the prior action and be decisive in the present action, and second, the party to be precluded must have had a full and fair opportunity to contest the prior determination'" (
+Cullen v Moschetta
+, 
+207 AD3d 699
+, 700, quoting 
+Matter of Abady
+, 
+22 AD3d 71, 81
+). "'The party seeking to invoke collateral estoppel has the burden to show the identity of the issues, while the party trying to avoid application of the doctrine must establish the lack of a full and fair opportunity to litigate'" (
+Villaver v Paglinawan
+, 
+230 AD3d 533
+, 535, quoting 
+Matter of Dunn
+, 
+24 NY3d 699, 704
+).
+
+
+Here, the majority of the plaintiff's allegations in this action were premised on her claim that the Lindeman report was a forgery and that an authentic report existed that made findings in her favor. However, the Supreme Court, in the defamation action, determined that Jamieson's statements regarding the substance of the Lindeman report were accurate, including that Lindeman found that Jagos's complaint against the plaintiff was credible and that the plaintiff should be removed as voluntary library trustee if she declined to resign or receive managerial training. Thus, the moving defendants established that the accuracy of the Lindeman report, which the plaintiff challenges in this action, had been necessarily decided against her in the defamation action (
+see Gold v Rothfeld
+, 
+220 AD3d 717
+, 718; 
+Manko v Gabay
+, 
+175 AD3d 484
+, 486). In opposition, the plaintiff failed to demonstrate that she lacked a full and fair opportunity to litigate that issue (
+see Mortgage Elec. Registration Sys., Inc. v McVicar
+, 
+203 AD3d 919
+, 920; 
+DeMartino v Lomonaco
+, 
+155 AD3d 686, 687
+).
+
+
+Furthermore, to the extent the plaintiff raised allegations that were not precluded by the doctrine of collateral estoppel, the Supreme Court properly determined that the plaintiff failed to state a cause of action. "'On a motion to dismiss pursuant to CPLR 3211(a)(7), the complaint is to be afforded a liberal construction, the facts alleged are presumed to be true, the plaintiff is afforded the benefit of every favorable inference, and the court is to determine only whether the facts as alleged fit within any cognizable legal theory'" (
+Clevenger v Yuzek
+, 
+222 AD3d 931
+, 934, quoting 
+Gorbatov v Tsirelman
+, 
+155 AD3d 836, 837
+).
+
+
+Pursuant to Judiciary Law § 487, an attorney who is "guilty of any deceit or collusion, or consents to any deceit or collusion, with intent to deceive the court or any party" is liable to the injured party for treble damages (
+see Guliyev v Banilov & Assoc., P.C.
+, 
+221 AD3d 589
+, 591). "'A violation of Judiciary Law § 487 requires an intent to deceive'" (
+id.
+, quoting 
+Moormann v Perini & Hoerger
+, 
+65 AD3d 1106, 1108
+). "'Allegations regarding an act of deceit or intent to deceive must be stated with particularity'" (
+Guliyev v Banilov & Assoc., P.C.
+, 221 AD3d at 591, quoting 
+Bill Birds, Inc. v Stein Law Firm, P.C.
+, 
+164 AD3d 635
+, 637, 
+affd
+ 
+25 NY3d 173
+). Further, "'an injury to the plaintiff resulting from the alleged deceitful conduct of the defendant attorney is an essential element of a cause of action based on a violation' of Judiciary Law § 487" (
+Maroulis v Sari M. Friedman, P.C.
+, 
+153 AD3d 1250, 1252
+ [alteration omitted], quoting 
+Rozen v Russ & Russ, P.C.
+, 
+76 AD3d 965
+, 968). "Thus, to state a cause of action alleging a violation of Judiciary Law § 487, the plaintiff must 'plead allegations from which damages attributable to the defendants' conduct might be reasonably inferred'" (
+Maroulis v Sari M. Friedman, P.C.
+, 
+153 AD3d at 1252
+, quoting 
+Mizuno [*3]v Nunberg
+, 
+122 AD3d 594, 595
+). Here, the plaintiff failed to allege sufficiently specific facts from which it could be reasonably inferred either that the defendants acted with the requisite degree of scienter or that the alleged acts of deceit were the proximate cause of any injury to the plaintiff (
+see Pinkesz Mut. Holdings, LLC v Pinkesz
+, 
+198 AD3d 693
+, 697-698; 
+Sammy v Haupel
+, 
+170 AD3d 1224
+, 1225).
+
+
+Furthermore, under the circumstances of this case, the Supreme Court providently exercised its discretion in granting that branch of the Greenwald defendants' motion which was for certain injunctive relief to the extent of enjoining the plaintiff from commencing any new action pertaining to her removal as voluntary library trustee without prior written permission of the court (
+see Monaco v Van Meerendonk
+, 
+222 AD3d 744
+). While "public policy mandates free access to the courts," "a litigant can forfeit that right by[, as here,] abusing the judicial process through vexatious litigation" (
+Rossrock Fund II, L.P. v Toledo
+, 
+186 AD3d 1441
+, 1442 [alteration and internal quotation marks omitted]; 
+see Caesar v HSBC Bank USA, NA
+, 
+200 AD3d 842
+, 843).
+
+
+The parties' remaining contentions either need not be reached in light of our determination or are without merit.
+
+
+DILLON, J.P., WOOTEN, TAYLOR and MCCORMACK, JJ., concur.
+
+ENTER:
+
+Darrell M. Joseph
+
+
+Clerk of the Court
